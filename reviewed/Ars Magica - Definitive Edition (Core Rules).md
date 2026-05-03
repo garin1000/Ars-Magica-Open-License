@@ -18899,7 +18899,7 @@ Combat:
 
 Greatsword: Init +5, Attack+19, Defense +17, Damage +15\*
 
-Dietrich's sword has been dipped in dragon's blood. No magical spell of a level 40 or lower can deflect, harm, or control it. After being hit, the dragon's blood burns, causing an extra +5 damage per round (armor does not soak) unless an alchemist, berbalist, or healer can cure the wound.
+Dietrich's sword has been dipped in dragon's blood. No magical spell of a level 40 or lower can deflect, harm, or control it. After being hit, the dragon's blood burns, causing an extra +5 damage per round (armor does not soak) unless an alchemist, herbalist, or healer can cure the wound.
 
 Soak: +22 (full chain mail drenched in dragon's blood) Wound Penalties: -1 (1-7), -3 (8-14), -5 (15-21), Banished (22+)
 
