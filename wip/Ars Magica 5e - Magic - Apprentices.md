@@ -114,7 +114,7 @@ Infant Characters and Stories
 &emsp;Children and Animals  
 &emsp;&emsp;Story Ideas  
 
-**Chapter Four: Pueritia: Ages 8 to 14 29**  
+**Chapter Four: Pueritia: Ages 8 to 14**  
 Growing Up  
 Hermetic Apprenticeship  
 &emsp;Finding an Apprentice  
@@ -163,7 +163,7 @@ Hermetic Apprenticeship
 &emsp;&emsp;The Unruffled Traveler  
 &emsp;&emsp;Whispering Fingers  
 
-**Chaptere Five: Adolescentia: Ages 15 to 21 49**  
+**Chaptere Five: Adolescentia: Ages 15 to 21**  
 Coming of Age  
 &emsp;Marriage  
 &emsp;Supernatural Interests  
