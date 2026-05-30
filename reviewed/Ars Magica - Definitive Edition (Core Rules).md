@@ -7036,6 +7036,17 @@ The character has become overly sensitive to environmental conditions, which aff
 
 This is a common Flaw for characters who become Warped by a strong magic environment.
 
+> #### Environmental Temperatures
+>
+> - Unnaturally hot
+> - As hot as being next to a raging fire, molten lava, or molten iron
+> - Tropical mid-day
+> - As warm as a fine summer's day in southern Europe
+> - Comfortable for a normal inhabitant of the Normandy, Rhine, Stonehenge, and Hibernia Tribunals
+> - As cold as a chilly winter's day in Western Europe
+> - Arctic winter
+> - Unnaturally cold
+
 #### Waster of Vis
 *Major, Hermetic*<br>
 When you use raw vis you waste one guarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time. For example, if you would normally use 12 pawns, you must use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you must use 14, because 4 pawns are wasted.
@@ -7055,17 +7066,6 @@ Your magic is particularly bad at penetrating Magic Resistance. You halve the no
 #### Weak Magic Resistance
 *Major, Hermetic*<br>
 Any form of Magic Resistance you generate is much weaker under relatively common circumstances which are fairly easy for an opponent to utilize, such as when you are wet or facing away from the caster of the spell. If the conditions are met, do not subtract the level of the effect from the casting total before calculating Penetration. You would be well advised to keep your weakness from being discovered by too many potential enemies.
-
-> #### Environmental Temperatures
->
-> - Unnaturally hot
-> - As hot as being next to a raging fire, molten lava, or molten iron
-> - Tropical mid-day
-> - As warm as a fine summer's day in southern Europe
-> - Comfortable for a normal inhabitant of the Normandy, Rhine, Stonehenge, and Hibernia Tribunals
-> - As cold as a chilly winter's day in Western Europe
-> - Arctic winter
-> - Unnaturally cold
 
 #### Weak Parens
 *Minor, Hermetic*<br>
