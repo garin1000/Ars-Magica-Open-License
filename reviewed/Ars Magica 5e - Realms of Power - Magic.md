@@ -2314,7 +2314,6 @@ Much like magical beings, the character is immune to deprivation, suffering no l
 The character has a magical power that he can activate at will. This is designed like a Greater Power as described under Major Qualities above, but since the character does not have a Might Score, it costs him a number of Fatigue levels to activate equal to (the power's Might Point cost divided by 5, rounded up). This Virtue may be taken more than once. You may trade in levels for Mastery Points, as normal, and use them to reduce the Might Point cost, and thus Fatigue cost. You may also spend levels one-for-one to give the power Penetration; otherwise, it has a Penetration of zero, as the character has no Might Score.
 
 #### Homing Instinct
-
 *Minor, Supernatural*
 
 The character always knows precisely how to get from where they are to a number of locations equal to her Intelligence Score (a minimum of 1). To add a location to the character's repertoire she must be at that location, the location must be open to the air (so it cannot be inside, for example), and the player must make an Intelligence + Concentration Roll against an Ease Factor of 6. If this would increase the number of known locations beyond the character's limit, then another location must be "forgotten."
