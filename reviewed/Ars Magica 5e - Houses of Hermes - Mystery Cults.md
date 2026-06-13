@@ -178,27 +178,27 @@ The process of Initiation into a Mystery is given a full treatment in *The Myste
 
 All of the Exoteric (that is, House) Mysteries are governed by a separate (House) Lore; thus there is a House Bjornaer Lore, a House Criamon Lore, a House Merinita Lore, and a House Verditius Lore. Initiates who have not been apprenticed to a member of the House need at least (House) Lore 1; the Mystagogue for any Initiate must also know the same Lore, but generally needs a high level if the Initiation is to succeed. To grant the Initiate a new mystery Virtue, the Mystagogue generates an Initiation Total, which determines the success or failure of the Initiation:
 
-**initiation total = Presence + (House) Lore + Script bonus**
+**Initiation Total = Presence + (House) Lore + Script bonus**
 
 The Initiation Total is based on the Mystagogue's scores. There is no die roll; if the total is higher than the target level the Initiation succeeds. Initiation Scripts and their bonuses are described in the following chapters. The target for this total is the Initiation Target Level, which depends on the kind of Virtue to be initiated, Major or Minor:
 
-**to initiate a Minor virtue knoWn By tHe Mystagogue: Target Level 15**
+**To initiate a Minor Virtue known by the Mystagogue: Target Level 15**
 
-**to initiate a Major virtue knoWn By tHe Mystagogue: Target Level 21**
+**To initiate a Major Virtue known by the Mystagogue: Target Level 21**
 
 The target level is increased in the unlikely event that the Mystagogue does not know the Initiated Virtue. This is most often the case in the event of a maga who decides to try to initiate herself in a Mystery Virtue without a Mystagogue, in which case the Initiate acts as her own Mystagogue and uses her own scores in the Initiation Total.
 
-**to initiate a neW Minor virtue: Target Level 18**
+**To initiate a new Minor Virtue: Target Level 18**
 
-**to initiate a neW Major virtue: Target Level 30**
+**To initiate a new Major Virtue: Target Level 30**
 
 In addition, if the Initiate underwent a previous Ordeal (gained a Flaw, lost a Virtue, or increased a Flaw from Minor to Major) for a previous Initiation, reduce the Target Level as follows:
 
-**first initiation after an ordeal: Subtract 3 for a Minor, 6 for a Medium, or 9 for a Major Ordeal**
+**First initiation after an ordeal: Subtract 3 for a Minor, 6 for a Medium, or 9 for a Major Ordeal**
 
-**second initiation after an ordeal: Subtract 2 for a Minor, 4 for a Medium, or 6 for a Major Ordeal**
+**Second initiation after an ordeal: Subtract 2 for a Minor, 4 for a Medium, or 6 for a Major Ordeal**
 
-**tHird initiation after an ordeal: Subtract 1 for a Minor, 2 for a Medium, or 3 for a Major Ordeal**
+**Third initiation after an ordeal: Subtract 1 for a Minor, 2 for a Medium, or 3 for a Major Ordeal**
 
 Only one past Ordeal counts towards a new Initiation, and there is a minimum Target Level of 9 no matter how great a reduction is applied.
 
@@ -234,7 +234,6 @@ Those who wish to play characters already Initiated into the Inner Mysteries of 
 > - +3 Initiate has to be at a special place at a special time for the Initiation
 > - +3 Initiate has to complete a specific Quest
 > - +1 Initiate sacrifices time serving another in the cult (one bonus only)
-> 
 > - +1 Initiate sacrifices material goods or wealth (entailing real personal loss)
 > - +3 to +6 Initiate sacrifices something of great and symbolic value (familiar, talisman, powerful invested device)
 > - +3 Initiate suffers an Ordeal inflicting a Minor Flaw or removing a Minor Virtue
@@ -317,6 +316,7 @@ Over the four and a half centuries since the founding of the Order of Hermes, Ho
 
 As with many Mystery Cults, the story of the central figure of House Bjornaer — the Founder herself — is as much legend as it is history. She was from a remnant tribe of the Gothic people who once occupied the whole of northeastern Germany, and her name was actually Birna, which means 'she-bear' in the language of her tribe. As an initiate of a witch-cult, Birna received visitations from an ancestor, who took the form of a spirit-bear. It told her that the witches enslaved ancestor-spirits with evil magic, and convinced Birna to try to find a way to break the power of the cult. Birna pretended that she was magically weak, while learning the hidden lore of her tradition. She was scorned and mocked by the witch-cult for her meager powers, and her resentment for them grew daily.
 
+When stories of a traveling witch came to the ears of the tribe, Birna's superiors naturally sent their most expendable member to face her. However, this "witch," named Trianoma, told Birna of a new magical society where she would be treated as an equal and be taught magic that would surpass that of those who despised her. Birna readily agreed to join the Order of Hermes, but advised Trianoma that there was little point continuing further east into the territory of the German tribes, as the sorcerers there were both hostile and of little consequence. This petty revenge denied her former tradition the possibility of joining the Order, and they in turn assumed that Birna had been killed by the witch and mourned her not.
 
 > ### Famous Figures
 > 
@@ -328,46 +328,43 @@ As with many Mystery Cults, the story of the central figure of House Bjornaer �
 > 
 > **Urgen**: Previous primus, a direct and sometimes violent magus who resigned in favor of Falke
 
-> ## Crintera: Domus Magna
+> ### Crintera: Domus Magna
 > 
 > The domus magna of House Bjornaer is Crintera, situated on the island of Rügen in the Baltic Sea, just off the northern coast of Germany. Its permanent members are the six members of the Bjornaer Council. The covenant proper is situated in a regio in the middle of a magical forest. As well as the six huts of the Bjornaer Council, the top level of the regio has a large meeting area where the Gathering of Twelve Years is held. For more information about Crintera and the members of the Bjornaer Council, see *Guardians of the Forests*, page 92.
 
-When stories of a traveling witch came to the ears of the tribe, Birna's superiors naturally sent their most expendable member to face her. However, this "witch," named Trianoma, told Birna of a new magical society where she would be treated as an equal and be taught magic that would surpass that of those who despised her. Birna readily agreed to join the Order of Hermes, but advised Trianoma that there was little point continuing further east into the territory of the German tribes, as the sorcerers there were both hostile and of little consequence. This petty revenge denied her former tradition the possibility of joining the Order, and they in turn assumed that Birna had been killed by the witch and mourned her not.
-
-> ## The Name "Bjornaer"
+> ### The Name "Bjornaer"
 > 
 > Birna spoke no Latin when she met Trianoma, and was never much of a scholar. Her first apprentices called themselves the *barns Bjornaer* (meaning "The Children of Birna" in Old Gothic), which became the *auditores Bjornaer* ("Followers of 'Bjornaer'") to the nascent Order. Neither Birna nor her followers saw fit to correct the grammatical error, recognizing the power inherent in names, and Birna was therefore known as Bjornaer to the rest of the Order.
 > 
 > All Bjornaer magi know the real name of their Founder, but never speak it to outsiders. They use the name Bjornaer only as an adjective, knowing that it means "of Birna" in Gothic. Thus, a member of this House is not "a Bjornaer," but instead "a Bjornaer magus," "a Bjornaer follower," or "a member of House Bjornaer."
 
-
 ### The Founding of House Bjornaer
 
 Birna's native tradition relied on shapechanging and ecstatic trances, while the magic of Bonisagus was based on a classical understanding of natural philosophy, and Birna found it necessary to change her entire worldview to adopt the new magic. However, Merinita proved to be a kind and patient mentor, and they became as sisters. With her help, Birna was able to overcome her shortcomings, and over time became an equal of the other Founders. Birna referred to the bear-shape granted by her ancestor as "the beast of her heart," and it forever frustrated Bonisagus that his theory had no means of penetrating the "disguise" of Birna's bear form. Birna realized that it should be possible to cause other Gifted individuals to come into communion with their own ancestral spirits. Using her knowledge of her tribe's magical rites, and Merinita's training in the pagan Mysteries, the two magae devised the Ritual of Twelve Years to do just that.
 
-> ## The Formation of the Clans
-> 
-> The last instructions offered to Birna's followers were characteristically enigmatic. To each of her six apprentices she said but one word. To Midusulf she said "Lead," Sirnas was told "Protect," Ilfetu was commanded "Teach." Maruhs was told "Strive," Arelie "Remember," and finally, to Wilkis she said "Nourish." The apprentices divided the House into six clans, each of which undertook one of these duties. Wilkis, the most eloquent of the six, was appointed to be the first primus of the House on the passing of Birna. The second primus was Fauho, the filius of Midusulf, with the heartbeast of a fox.
-
 Birna chose her apprentices only from among the Germanic tribes. She initiated them into the heartbeast as well as Hermetic magic, and her early apprentices assisted in the teaching of the later ones, mirroring Birna's own "apprenticeship" under Bonisagus and Merinita. Midusulf and Maruhs came from her own tribe; Midusulf literally means "mead-wolf" in Old Gothic, and signifies a bear, whereas Maruhs means "stallion" in the same language. When her third apprentice proved to be a spy from the witch-cult, Birna hunted down the traitor and ended his life with her claws and teeth; henceforth she turned her attentions to other Germanic tribes. Ilfetu ("Swan" in his native tongue) came from the marshes of ancient Frisia, whereas Wilkis ("Wolf") and Arelie ("Eagle") came from a Prussian tribe. Finally, Sirnas ("Stag") originated from amongst the Wends of the Baltic Coast.
 
 Only Ilfetu learned the Ritual of Twelve Years from his master, and the House met on a regular basis to conduct this ritual for new apprentices at Birna's eventual home, the covenant of Crintera. At one of these early Gatherings in 831, the ancient Birna, then over a century old, imparted some last instructions to her House and disappeared forever in the form of an immense bear. Birna's six "children" continued to recruit apprentices from the shapechanging traditions of the Germanic and Slavic tribes, just like their mater. Due to this predominance of "pagan barbarians" among the *barns Bjornaer*, the House quickly gained a reputation for savagery, a reputation that the House is still trying to shake. The goal of most of its members was to defend the wilderness against the invasion of the Dominion brought by the expanding human population. Birna had taught that the wilderness holds a great secret of magic, a secret that can be experienced, but not tamed. The soil unturned by plowshare, the river untouched by the prow of a boat, the forest that had yet to feel the bite of an axe; these things were sacred to Birna's Children.
+
+> ### The Formation of the Clans
+> 
+> The last instructions offered to Birna's followers were characteristically enigmatic. To each of her six apprentices she said but one word. To Midusulf she said "Lead," Sirnas was told "Protect," Ilfetu was commanded "Teach." Maruhs was told "Strive," Arelie "Remember," and finally, to Wilkis she said "Nourish." The apprentices divided the House into six clans, each of which undertook one of these duties. Wilkis, the most eloquent of the six, was appointed to be the first primus of the House on the passing of Birna. The second primus was Fauho, the filius of Midusulf, with the heartbeast of a fox.
+
+> ### The Gothic Shapeshifters
+> 
+> According to House Bjornaer, the Gothic witch-cult practiced Infernal magic. The ancestor-spirits of the Goths took the form of animals, and protected their descendants from ill-fortune. Once these spirits were enslaved by the cult, a witch could become any animal whose spirit she controlled. The witches could also force the ancestors to prophesy, or to reverse their protective powers and instead lay curses. Denied the Order by the vengeful Birna, this magical tradition was gradually wiped out by the civilizing forces of Charlemagne's Empire, expanding Christianity, and the secret pogroms of House Bjornaer. The last remnants of the Goths were assimilated into the Slavic people of the region, and the shapeshifters are believed to have been eradicated shortly after the Schism War. Unbeknown to the House, the descendents of this magical tradition — the witch-women and their skin-changing people — still exist in secret in the forests of Pomerania (and perhaps elsewhere).
+> 
+> They bear a deep and abiding resentment for the great traitor Birna, whose name is reviled in stories transmitted from generation to generation.
+> 
+>**Saga Seed: The Secret Enemy**
+> 
+> The Gothic shapeshifters gain a charismatic chieftain who unites some of the tribes under one banner. This leader becomes sufficiently motivated to try to eradicate House Bjornaer, possibly due to actions performed or witnessed by the player characters. These people do everything in their power to wipe out every last one of the Bjornaer followers, even at the expense of their own lives. They are magically weak compared to Hermetic magi, but they are physically strong, highly loyal to each other, and fanatical in their task. More about the Pomeranian witches can be found in *Guardians of the Forests*, page 99.
 
 ### The Early Years of the House
 
 In the early days of the Order, a rift struck House Merinita. Two magi of that House battled to determine its future course, and when the matter was decided, the losers were accepted into House Bjornaer. They were initiated into the Outer Mystery of the House, and, despite their differing philosophy, were made welcome. This lineage has now long since died out, but they left behind a lasting legacy in the shape of a secret society within House Bjornaer (see The Huntress in the Wood).
 
 As human populations expanded and the tangles of forests disappeared all across Europe, House Bjornaer tried to turn back the tide of mundane expansion. Most Bjornaer magi saw little wrong with extreme measures — such as killing peasants — in the fight to keep mankind within the stone walls of its towns. Many legends about ravaging creatures who could walk as both fearsome beasts and men stem from this time. In the tenth century, a member of House Bjornaer called Hérisson came to the realization that this attitude was proving counter-productive — humans destroy what they fear. The behavior of his sodales was making the locals more determined to cut down the forests and destroy all of the dangerous beasts within. Hérisson tried to convince his House to encourage the humans to live in harmony with nature, rather than attacking those who violate it. However, he was ridiculed and became the laughingstock of the House.
-
-> ## The Gothic Shapeshifters
-> 
-> According to House Bjornaer, the Gothic witch-cult practiced Infernal magic. The ancestor-spirits of the Goths took the form of animals, and protected their descendants from ill-fortune. Once these spirits were enslaved by the cult, a witch could become any animal whose spirit she controlled. The witches could also force the ancestors to prophesy, or to reverse their protective powers and instead lay curses. Denied the Order by the vengeful Birna, this magical tradition was gradually wiped out by the civilizing forces of Charlemagne's Empire, expanding Christianity, and the secret pogroms of House Bjornaer. The last remnants of the Goths were assimilated into the Slavic people of the region, and the shapeshifters are believed to have been eradicated shortly after the Schism War. Unbeknown to the House, the descendents of this magical tradition — the witch-women and their skin-changing people — still exist in secret in the forests of Pomerania (and perhaps elsewhere).
-> 
-> They bear a deep and abiding resentment for the great traitor Birna, whose name is reviled in stories transmitted from generation to generation.
-> 
-> ### saga seed: tHe secret eneMy
-> 
-> The Gothic shapeshifters gain a charismatic chieftain who unites some of the tribes under one banner. This leader becomes sufficiently motivated to try to eradicate House Bjornaer, possibly due to actions performed or witnessed by the player characters. These people do everything in their power to wipe out every last one of the Bjornaer followers, even at the expense of their own lives. They are magically weak compared to Hermetic magi, but they are physically strong, highly loyal to each other, and fanatical in their task. More about the Pomeranian witches can be found in *Guardians of the Forests*, page 99.
 
 ### The Schism War
 
@@ -411,7 +408,7 @@ The basic level of organization in the House is the **clan**. Each apprentice ac
 
 Clans Midusulf and Sirnas are the largest, with about 18 members each; Clan Ilfetu is the smallest with six magi. The other three clans have about 12 members each.
 
-> ## The Clan Mysteries
+> ### The Clan Mysteries
 > 
 > Bjornaer magi may be initiated into both **Clan Mysteries** and **House Mysteries**. Each clan's description lists the Initiation Scripts for the Clan Mysteries available to the members of that clan. Those Mysteries marked with an asterisk (\*) in the clan descriptions below are detailed in *The Mysteries Revised Edition*; the rest may be found in this book or in ArM5. The mechanics of these Scripts can be found under the heading Initiating the Clan Mysteries, below.
 
@@ -423,7 +420,7 @@ Clans Midusulf and Sirnas are the largest, with about 18 members each; Clan Ilfe
 
 Clan Arelie believes that the ancestors can be best honored through remembrance, and seeks to preserve as much of the stories and teaching of the bygone age as possible. It attempts to dispel the "Germanic barbarian" stereotype of the House, and is the most outward-looking of the clans, keen to know what is going on in the rest of the Order. Many members are taught the rare Academic Ability Art of Memory (see *The Mysteries Revised Edition*, Chapter 3: Curious Common Magics).
 
-**Political stance**
+**Political Stance**
 
 Harmonist, to the point of pacifism. They are the first to complain to the House when a Wilderist acts out of turn, but have a reputation for being the last to come to the defense of the House. Clan Midusulf accuse Clan Arelie of being the caged birds of the Order in general, and the Quaesitores in particular.
 
@@ -435,7 +432,7 @@ Harmonist, to the point of pacifism. They are the first to complain to the House
 
 *Philosopher:* Skilled in rhetoric and debate, this magus has received a classical education and loves the cut and thrust of scholarly debate.
 
-**Clan initiations**
+**Clan Initiations**
 
 *The Trial of the Tree:* The initiate is hanged by his wrists for four days, henceforth suffering from Palsied Hands, but acquires a Piercing Gaze.
 
@@ -477,6 +474,12 @@ Wilderist. Clan Ilfetu is Wilderist because Birna commanded them to preserve the
 
 Ardea is well-respected in the House, for many of the current generation of Bjornaer magi were Initiated into the House by this elderly maga with a heron heartbeast. Ardea is believed to be the most powerful mystic in the House, and is accorded great respect as its spiritual mother.
 
+> ### Story Seed: In Search of a Heron
+> 
+> The Seat of the Swan on the Bjornaer Council has always traditionally been held by a lineage of magae who share a heron heartbeast. However, no Initiate has possessed a heron heartbeast in over fifty years, and Ardea is already old. The whole House is desperately seeking a suitable apprentice for her, but each potential candidate turns out to be a different creature. Some are whispering that the ancestors are displeased with House Bjornaer for some reason, and are punishing them.
+> 
+> Rumors about heron heartbeasts may send Bjornaer player character magi all over Europe in the service of their House. A player character with a heron heartbeast will become the heir of Ardea, marked for great things, but stifled by the over-protectiveness of the House.
+
 #### Clan Maruhs
 
 *"Strive"*
@@ -485,7 +488,7 @@ Ardea is well-respected in the House, for many of the current generation of Bjor
 
 Clan Maruhs refuses to allow itself to be bound by the rules of culture, but demands to do whatever it wishes. Its members have romantic souls, and are driven by strong passions, which makes them excellent poets and daring heroes. They form a bridge between the past and future, doing their utmost to be remembered by their own descendants. They have a reputation for wildness: "As capricious as the wind and as mercurial as the Maruhs," goes a saying in House Bjornaer.
 
-**Political stance**
+**Political Stance**
 
 Wilderist. Adopting the policies of the Harmonists would mean that Clan Maruhs would be forced to conform, and that is anathema to them. They are therefore Wilderists.
 
@@ -509,7 +512,7 @@ Wilderist. Adopting the policies of the Harmonists would mean that Clan Maruhs w
 
 Larus Egg-Thief is a wandering magus of no fixed covenant. In his heartbeast form of a skua (a rapacious seabird) he haunts the coasts of western Europe. His former apprentices can contact him by leaving messages in certain places he checks regularly.
 
-### Clan Midusulf
+#### Clan Midusulf
 
 *"Lead"*
 
@@ -517,7 +520,7 @@ Larus Egg-Thief is a wandering magus of no fixed covenant. In his heartbeast for
 
 Descended from the eldest of Birna's apprentices, this clan is often looked to by the others for leadership. Clan Midusulf considers that it is its sacred trust to preserve their ancestors through House Bjornaer. Those magi who fit the stereotypic view of the House as uncivilized savages are most likely to be members of Clan Midusulf, not that they care what other Houses think of them. They are arch-conservatives, resistant to change, but they also have the deepest understanding of the Mystery of the Heartbeast.
 
-**Political stance**
+**Political Stance**
 
 Wilderist. Clan Midusulf is the most fervently opposed to the Harmonist stance. They are aggressive and sometimes arrogant about getting their point across.
 
@@ -537,17 +540,11 @@ Wilderist. Clan Midusulf is the most fervently opposed to the Harmonist stance. 
 
 *The Oath of Steadfastness:* The Initiate vows to never allow an insult to Bjornaer magi to go unpunished (Oversensitive); in return his magic is stronger in the presence of other Bjornaer magi (Special Circumstances).
 
-> ## Story Seed: In Search of a Heron
-> 
-> The Seat of the Swan on the Bjornaer Council has always traditionally been held by a lineage of magae who share a heron heartbeast. However, no Initiate has possessed a heron heartbeast in over fifty years, and Ardea is already old. The whole House is desperately seeking a suitable apprentice for her, but each potential candidate turns out to be a different creature. Some are whispering that the ancestors are displeased with House Bjornaer for some reason, and are punishing them.
-> 
-> Rumors about heron heartbeasts may send Bjornaer player character magi all over Europe in the service of their House. A player character with a heron heartbeast will become the heir of Ardea, marked for great things, but stifled by the over-protectiveness of the House.
-
 **Clan Chief**
 
 Urgen (or more fully, Archmage Urgen Midusulfis Twin-Slayer) is the leader of Clan Midusulf, the leader of the Bjornaer Council (see below), and the former primus of the House. He is wellknown for his aggressive stance on the issue of mundane encroachment on wild places, and has been accused of harassing villages with animal attacks.
 
-### Clan Sirnas
+#### Clan Sirnas
 
 *"Protect"*
 
@@ -555,7 +552,7 @@ Urgen (or more fully, Archmage Urgen Midusulfis Twin-Slayer) is the leader of Cl
 
 Much as the stag guards the herd of deer, Clan Sirnas consider themselves the protectors of all Bjornaer magi, and they believe that a direct conflict with humans will be ultimately detrimental to the House. Clan Sirnas are often accredited with noble virtues such as bravery, honor, and loyalty, and they always seem to be searching for a cause. Most of the Merinita who joined House Bjornaer in the ninth century joined Clan Sirnas.
 
-**Political stance**
+**Political Stance**
 
 Harmonist. Clan Sirnas is the most active of the Harmonist clans; unlike Clan Arelie, they believe in fighting for their ideals, and in this often find allies amongst Clan Wilkis.
 
@@ -579,7 +576,7 @@ Harmonist. Clan Sirnas is the most active of the Harmonist clans; unlike Clan Ar
 
 Ophia Sirnaus Isle-Warden lives on one of the larger uninhabited islands of the Aegean Sea. The other members of her sept dwell nearby, but this serpentmaga prefers the solitude of her retreat, which contains a shrine dedicated to Artemis.
 
-### Clan Wilkis
+#### Clan Wilkis
 
 *"Nourish"*
 
@@ -587,7 +584,7 @@ Ophia Sirnaus Isle-Warden lives on one of the larger uninhabited islands of the 
 
 Clan Wilkis honors their ancestors by strengthening the House as a whole. Its members ensure that lore of the House is actively sought out; they rescue House secrets from the hands of outsiders, and hunt down those who endanger the House with their actions. They are expected to be loyal to the primus no matter to which clan he or she belongs, and to enforce the decisions of the Bjornaer Council (see below). By having no explicit representative on the Bjornaer Council, Clan Wilkis remains focused on the good of the House rather than personal agendas. Clan Wilkis members often have the Pack Leader Minor Virtue, as they prefer to Initiate their apprentices into the House early in their training.
 
-**Political stance**
+**Political Stance**
 
 Harmonist. Members of Clan Wilkis tend to be disdainful of mundane populations, but believe that if they are forced to live in harmony with them, then so be it. They tend to be swayed by the opinions of the current primus, supporting the actions of the less zealous Wilderists when a Wilderist is primus, and taking a stronger Harmonist stance when (as currently), the primus is a Harmonist.
 
@@ -595,7 +592,7 @@ Harmonist. Members of Clan Wilkis tend to be disdainful of mundane populations, 
 
 *Hunter:* Skilled in finding his prey, this magus takes on the role of a hoplite, tracking down those magi who break their oaths to either the House or the Order, or both.
 
-> *Politician:* The ruthless predator can find easy prey in the debating chambers of the Order of Hermes. A diplomatic politician is more suited to Clan Arelie.
+*Politician:* The ruthless predator can find easy prey in the debating chambers of the Order of Hermes. A diplomatic politician is more suited to Clan Arelie.
 
 *Genealogist:* Aided by a prodigious memory, the genealogist tracks the lineages and septs of the House, and is consulted by all for her wisdom.
 
@@ -651,7 +648,7 @@ Sagas with Bjornaer magi should not neglect the Gathering of Twelve Years (the n
 
 There are two distinct phases in the training of a young Bjornaer magus, known as the **sleeping years** (from Opening the Arts to the Ritual of Twelve Years) and the **awakened years** (from the Ritual of Twelve Years to induction into the Order).
 
-### The Sleeping Years
+#### The Sleeping Years
 
 When Gifted children are found by a Bjornaer follower, they normally spend at least two years with the magus before apprenticeship begins. During this period the child is taught Latin and closely observed for his temperament and personality. If deemed suitable for the sept, the child is taken as an apprentice, otherwise he is passed on to another magus. A new apprentice is called a **catulus**, or "cub." The catulus period is very different from the apprenticeship of other Hermetic magi. Catuli are the common property of the sept; all magi of the sept take a turn in teaching the catulus, and likewise, all members have an equal right to his assistance in the laboratory. As sept members tend to dwell in close proximity, this regular travel does not impinge upon an apprentice's study. During the sleeping years, a sept attempts to guess the heartbeast of the catulus, based on his personality and physiognomy. This is important, for the Initiation of the Heartbeast might fail if the catulus is unsuited to the sept. Little mention is made of the cultic practices and beliefs of the House to a catulus; such secrets are revealed in the season immediately prior to the apprentice's Initiation into the House Mystery, giving him only sufficient understanding to get him through the ritual. A catulus apprenticed to a magus without a sept receives training under one magus, much like a standard Hermetic apprenticeship.
 
@@ -675,24 +672,23 @@ The experiences of a Bjornaer apprenticeship vary between individuals. Most appr
 
 If the Gifted child is found immediately before the Gathering of Twelve Years, his apprenticeship starts with the Awakening of the Heartbeast, and proceeds much like a standard Hermetic apprenticeship. However, throughout this training, he is treated as the social equal of his master, helping his master in the laboratory in return for training. In the eyes of the Order, however, the apprentice is no different from any other apprentice.
 
-> ## Story Seed: The Unwelcomed Apprentice
+If an apprentice is discovered immediately following a Gathering, he has twelve years of being traded between members of the same sept, being treated like a child no matter what his real age. During this time he must defer to the Initiated, even if they are apprentices themselves who are physically younger than he. The awakening of his own heartbeast will occur towards the end of apprenticeship, and he will be "finished off" under a single master for only three years.
+
+> ### Story Seed: The Unwelcomed Apprentice
 > 
 > A good friend of the covenant (perhaps even a companion) has a Gifted child who can also change shape. The characters may well decide that it is in the child's best interests to be trained by a Bjornaer magus (unless there is a Bjornaer magus at the covenant to persuade them against this course). When the child goes missing a few years later, the characters may be asked to investigate.
 
-If an apprentice is discovered immediately following a Gathering, he has twelve years of being traded between members of the same sept, being treated like a child no matter what his real age. During this time he must defer to the Initiated, even if they are apprentices themselves who are physically younger than he. The awakening of his own heartbeast will occur towards the end of apprenticeship, and he will be "finished off" under a single master for only three years.
-
-#### Joining House Bjornaer
+### Joining House Bjornaer
 
 On occasion, a member of the Order of Hermes wishes to join House Bjornaer from a different House. Most mature members of House Bjornaer have witnessed the Initiation of a magus from another House, but it is far from being a common event. The Bjornaer Council interviews all candidates, and if they appear to be sincere in their desire to join House Bjornaer, they are adopted by a sept. The candidate then assists that sept in its business — as if he were a catulus — earning the respect of the sept through this "apprenticeship." After at least five years, the candidate is brought to the Ritual of Twelve Years, preferably at a Gathering. Once Initiated into the House Mystery, the candidate is accorded all privileges of the House.
 
+A magus who can shapechange without the use of a spell is always denied entrance to the House, although a reason for the refusal is never given. Likewise, any magus who is an Initiate of another House Mystery, or known to be a member of an Esoteric Mystery (see *The Mysteries Revised Edition*), is refused membership. A magus cannot successfully complete the Ritual of Twelve Years if he has ever bound a familiar, even if the familiar is now dead.
 
-> ## Bjornaer Magi and Religion
+> ### Bjornaer Magi and Religion
 > 
 > While House Bjornaer derives power from its cult of ancestors, it is not a religion *per se*. These magi do not worship their ancestors, they honor them by remembrance, composing poems or songs of their deeds and performing reenactments of those deeds. These cultic practices do not interfere with the practice of any religion, with the exception of the core doctrine that every person has an animal ancestor, which can prove troubling for religious magus. The House presents this concept as a fact, offering no explanation. Bjornaer magi therefore have differing views of how this situation came about. Some simply assume that the ancestors were human, but took animal form after death. Many Christian magi link the animal ancestors to Adam's command over the beasts, and it is the pure spirit of the beasts of Eden that accompany the soul. A more radical Christian view is that the "beasts" of Scripture (i.e., angels) are the ancestors. Other Bjornaer magi, influenced by Gnosticism, associate the introduction of animal ancestors into the lineage of humankind with the expulsion from Eden; it is a consequence of sin that humans are inflicted with animal passions (and thus animal spirits).
 > 
 > Pagan magi of House Bjornaer are rarely part of an organized cult, as these cults are involved in the worship of Faerie creatures and are anathema to the cult of ancestors. Instead, they tend to follow their own spiritual path, which incorporates the cultic practices of the House. The Huntress in the Wood (see below) is a counter-example of a society of pagan Bjornaer magi who profess the faith of Diana the Huntress. These zealous pagans often eschew the Inner Mysteries of the House for their own Mysteries, and may abandon the cult of ancestors altogether.
-
-A magus who can shapechange without the use of a spell is always denied entrance to the House, although a reason for the refusal is never given. Likewise, any magus who is an Initiate of another House Mystery, or known to be a member of an Esoteric Mystery (see *The Mysteries Revised Edition*), is refused membership. A magus cannot successfully complete the Ritual of Twelve Years if he has ever bound a familiar, even if the familiar is now dead.
 
 ## The Heartbeast
 
@@ -715,7 +711,6 @@ Also be aware that your character's heartbeast often has outward, physical signs
 Finally, consider the rest of your troupe when choosing a heartbeast, particularly if there are other Bjornaer magi in your covenant. Many Bjornaer followers do not get on with one another, particularly if they are directly opposed (Wolf and Hare) or identical (two Stags). Many animals do not share territory with members of the same species, and Bjornaer magi are no different.
 
 Naturally, a magus can only have one heartbeast, for he only has a single spirit. Shapechangers who have multiple forms are likely to be not using their heartbeast at all, but using magic to make a physical rather than a spiritual change in form.
-
 
 #### Heartbeast Temperaments
 
@@ -741,7 +736,9 @@ The following creatures are *not* available as heartbeasts:
 
 A creature from beyond the bounds of Mythic Europe is an unlikely choice for a heartbeast, but not impossible. However, many such beasts, like the crocodile or hyena, are so unusual to the inhabitants of Mythic Europe that they are best represented as beasts of legend with Magic Might scores (and therefore not allowed as heartbeasts). Playing a magus with a heartbeast that is a mundane version of one of these animals (if permitted by the storyguide) requires, at the very least, an exotic origin, and perhaps the Well-Traveled Virtue or Outsider Flaw.
 
-> ## Example Heartbeasts
+A player choosing a creature of Size –5 or smaller as a heartbeast can take it as one Size category larger if he wishes, as a particularly noble member of its species. Thus, creatures who are naturally Size –8 are allowed as heartbeasts, but only if this option is applied.
+
+> ### Example Heartbeasts
 > 
 > | Type of Heartbeast | Animals |
 > |--------------------|---------|
@@ -758,7 +755,9 @@ A creature from beyond the bounds of Mythic Europe is an unlikely choice for a h
 > | Sanguine-Choleric | Falcon, Eagle, Osprey |
 > | Sanguine-Phlegmatic | Stork, Heron, Swan |
 
-A player choosing a creature of Size –5 or smaller as a heartbeast can take it as one Size category larger if he wishes, as a particularly noble member of its species. Thus, creatures who are naturally Size –8 are allowed as heartbeasts, but only if this option is applied.
+> ### Plant Heartbeasts
+> 
+> The possession of a plant "heartbeast" is permitted, but such characters should be highly unusual. While having an animal ancestor is at least conceivable to the thinkers of the Mythic Europe, a plant ancestor is not. Such individuals have posed a puzzle to the philosophers of House Bjornaer, as they are not in accord with the origin myth of the House. When assuming his plant form, the Bjornaer magus is capable of doing whatever a plant can do; that is, not very much. Without the application of magic, he cannot move, nor do things that are unnatural for the season, such as bear fruit in winter. It is highly likely that such characters have the Cyclic Magic Virtue and/or Flaw. Such characters may also change their temperament and personality according to the season. Only "noble" plants may be chosen as "heartplants," this includes trees and mystical herbs.
 
 #### Shapeshifting, Lycanthropy, and the Bjornaer Heartbeast
 
@@ -770,7 +769,7 @@ Lycanthropes are afforded some pity by the House, as creatures overcome by their
 
 Because of these strong feelings about shapechanging, calling a member of House Bjornaer a shapeshifter or a werewolf is considered to be a mortal insult, and has led to Wizard's War on more than one occasion.
 
-> ## Ringing the Changes
+> ### Ringing the Changes
 > 
 > There are three basic types of shapechangers in Mythic Europe, and they have different responses to magic due to their natures.
 > 
@@ -788,19 +787,15 @@ The consequences of possessing a heartbeast are discussed below, expanding the d
 
 A Bjornaer magus can adopt his heartbeast form after a moment's concentration, and under most circumstances this requires no roll. The actual transformation takes a full round, as the magus gradually transforms into animal form. During this round, the magus can perform most physical or mental actions unhindered, but cannot perform complex tasks such as casting spells. An action undertaken during transformation can use the Abilities of either form, as the magus controls which part of his body transforms first. Thus, he could attack with a sword, dropping it at the very end of the round as his hands become paws, or instead transform his upper body first and use a bite attack whilst his hindquarters are still changing from human legs. For small heartbeasts, these distinctions of the change may be lost because of the dramatic decrease in overall size. The transformation to human form is identical but in reverse. The clothes and possessions of the magus do not transform with him.
 
-> ## Plant Heartbeasts
-> 
-> The possession of a plant "heartbeast" is permitted, but such characters should be highly unusual. While having an animal ancestor is at least conceivable to the thinkers of the Mythic Europe, a plant ancestor is not. Such individuals have posed a puzzle to the philosophers of House Bjornaer, as they are not in accord with the origin myth of the House. When assuming his plant form, the Bjornaer magus is capable of doing whatever a plant can do; that is, not very much. Without the application of magic, he cannot move, nor do things that are unnatural for the season, such as bear fruit in winter. It is highly likely that such characters have the Cyclic Magic Virtue and/or Flaw. Such characters may also change their temperament and personality according to the season. Only "noble" plants may be chosen as "heartplants," this includes trees and mystical herbs.
-
 If the magus is under the influence of a shapechanging spell, he may attempt to adopt either of his forms by making a Stamina + Heartbeast roll, against an Ease Factor of (3 + magnitude of the spell). If successful, the spell is canceled. As the actual process of changing between shapes is a magical act, a magus affected by spells which would normally suppress his magic (such as *Aegis of the Hearth*) must also make a Stamina + Heartbeast roll against an Ease Factor of (3 + magnitude of the spell) to effect the transformation.
 
 A magus in heartbeast form cannot make the gestures necessary for spellcasting; even exotic forms such as apes do not have sufficient manual dexterity. It is not possible for a magus to partially change form without assistance from a spell or the Mystery of Theriomorphy (see House Mysteries, below).
 
-> ## Statistics of Shapechangers
+> ### Statistics of Shapechangers
 > 
 > The appendix to this chapter describes the process for producing the statistics for an average member of a particular species, but most player characters are not average humans, and so tend to have characteristics in animal form that differ from the species average. For Bjornaer magi and other shapeshifters, determine the statistics for the creature as described in the appendix, then follow these steps:
 > 
-> ### 1. Characteristics
+>**1. Characteristics**
 > 
 > For all Characteristics other than Intelligence/Cunning:
 > 
@@ -809,7 +804,7 @@ A magus in heartbeast form cannot make the gestures necessary for spellcasting; 
 > 
 > Otherwise, add the two Characteristics together.
 > 
-> ### 2. Cunning vs. Intelligence 
+>**2. Cunning vs. Intelligence**
 > 
 > If the shapechanger is a lycanthrope, apply the Cunning score of the animal, otherwise retain human Intelligence.
 > 
@@ -831,35 +826,36 @@ A magus in heartbeast form cannot make the gestures necessary for spellcasting; 
 > 
 > *Qik +1 (highest of human +1 and wolf +1)*
 > 
-> ### 3. Size
+>**3. Size**
 > 
 > Human Size has no impact on the Size statistic of the shapechanged form. However, if the animal form is within the size range of most animals (Size –4 to Size 0) and the character has a Virtue or Flaw that affects Size, then she will be a notably large or small member of her species.
 > 
-> ### 4. Virtues & Flaws
+>**4. Virtues & Flaws**
 > 
 > Apply all the Virtues and Flaws of the animal form while shapechanged, as well as all Virtues and Flaws of the human form, if applicable. For example, a Lame character is still Lame as an animal. If the animal form already has a Virtue or Flaw possessed by the character, it applies only once.
 > 
-> ### 5. General Abilities
+>**5. General Abilities**
 > 
 > Use the General Abilities of the animal form. The General Abilities of the animal form are not suitable for human bodies, and cannot be taught to human characters. None of the human General Abilities can be accessed other than languages (which can still be understood) and lores. Arcane and Academic Abilities are available to the shapechanger if he retains Intelligence. Supernatural Abilities can always be used.
 > 
-> ### 6. Communicating
+>**6. Communicating**
 > 
 > Acquire the ability to communicate with members of the same or similar species as the shapechanged form. Animals of the same temperament and aspect, which also share the same diet and habitat, can be considered to speak dialects of the same language. Thus, it can be assumed that all eagles, hawks, and buzzards share a common language, but this differs from the shared language of the swans, storks, and herons, and also from the language spoken by songbirds.
 > 
-> ### 7. Wounds & Experience
+>**7. Wounds & Experience**
 > 
 > Any wounds taken in the human form are reflected in the animal form, and vice versa. Thus, a human with a Medium Wound has a Medium Wound in cat form, despite the fact that if that wound had been inflicted when in cat form, it would have been more serious due to the different wound ranges of a cat and a human. Lycanthropes are an exception to this — when transforming back into human form, all wounds taken while an animal are healed, although wounds suffered as a human remain.
 > 
 > A character who spends a substantial amount of time in animal form may apply any experience gained for that period (either through adventuring, exposure, or practice) to the Abilities of her animal form.
 
-> ## Magical Items and Changing Form
+> ### Magical Items and Changing Form
 > 
 > Bjornaer magi who make enchanted items for their own use face a problem when changing form, in that they will not wish to abandon the items if they are the wrong size or they can no longer hold them. The solution is the following well-known effect, instilled into the item, and then connected with a Linked Trigger (see ArM5, page 99) to any other effects instilled in the item, such as those that change its size, shape, or appearance.
 > 
 > ##### Perceive the Change
 > 
-> InAn 14 R: Touch, D: Sun, T: Ind Pen 0, constant effect
+> InAn 14  
+> R: Touch, D: Sun, T: Ind Pen 0, constant effect
 > 
 > This effect detects whether the enchanted item is touching an animal; if so, it triggers any effects tied to it with a Linked Trigger. Linked powers should be designed with constant effect. It cancels any linked effects as soon as human form is assumed. The wielder can choose not to resist this effect (see ArM5, page 99). If this effect is instilled in a talisman, it can be made with Range Personal for a final level of 9.
 > 
@@ -905,19 +901,19 @@ The House Mysteries (Heartbeast, Secret Name, Sensory Magic, Theriomorphy) are I
 
 The Initiation Scripts for the House Mysteries often call for the ritual to be conducted in a specific location that is resonant with the power of the ancestors, known as an **ancestor site**. All members of House Bjornaer know Crintera to be such a place, but other locations are also known to Clan Ilfetu. These are invariably located in regions of pristine wilderness, far from the habitations of mankind, where the ancients made long pilgrimages to make offerings to their ancestor spirits. As such, reaching the location of the rite is not merely a long journey, it is one fraught with peril, for the spirits guard these regions still, and set challenges to test the mettle of those who would reach them.
 
-#### The Ritual of Twelve Years (Minor House Mystery)
-
-This is the Initiation rite of the Mystery of House Bjornaer, which confers the Heartbeast Virtue. Only members of Clan Ilfetu know the Initiation Script for the Ritual of Twelve Years. The Gathering of Twelve Years is a particularly propitious time for the ritual, but it can take place at any ancestor site, at an appropriate time calculated by the Mystagogue. Any magus who wishes to be present at the ritual is entitled to attend (and typically the members of the Initiate's sept are present), but the sept has the right to dismiss participants who they believe might upset the mystic balance of the ritual by having contrary heartbeasts. By tradition, those magi who took part in the training of the Initiate (his sept), the Mystagogue, and up to six others cannot be refused attendance at the ritual, but the sept can turn away individuals in excess of this, if they choose.
-
-> ## Example Ancestor Sites
+> ### Example Ancestor Sites
 > 
-> ### Pripet Marshes
+> #### Pripet Marshes
 > 
 > The Pripet Marshes, in the Novgorod Tribunal, are the supposed origin of all the Slavic people, although all migrated away many centuries ago. They are occupied (and protected) by the Bjornaer-only covenant of Pripet Maior, who are careful not to interact too closely with the spirits of the marsh, least they become tainted by human imagination and turn fae.
 > 
-> ### Kerry Mountains Pool
+> #### Kerry Mountains Pool
 > 
 > Deep in the Kerry Mountains in Hibernia there is a pool where the ancient Irish came to cast votive offerings of great personal value to their ancestors. The still black waters of the pool are believed to hide untold wealth in gold, silver, and perhaps even ancient enchantments.
+
+#### The Ritual of Twelve Years (Minor House Mystery)
+
+This is the Initiation rite of the Mystery of House Bjornaer, which confers the Heartbeast Virtue. Only members of Clan Ilfetu know the Initiation Script for the Ritual of Twelve Years. The Gathering of Twelve Years is a particularly propitious time for the ritual, but it can take place at any ancestor site, at an appropriate time calculated by the Mystagogue. Any magus who wishes to be present at the ritual is entitled to attend (and typically the members of the Initiate's sept are present), but the sept has the right to dismiss participants who they believe might upset the mystic balance of the ritual by having contrary heartbeasts. By tradition, those magi who took part in the training of the Initiate (his sept), the Mystagogue, and up to six others cannot be refused attendance at the ritual, but the sept can turn away individuals in excess of this, if they choose.
 
 The temperament of the heartbeast is usually evident in the personality (and even the appearance) of the Initiate. The ritual is only likely to fail if the heartbeast of the Initiate is completely contrary to those of the witnesses. As there is no way of determining a heartbeast or its temperament for sure prior to the ritual, this unfortunate situation does occur, but it is rare. The Ritual of Twelve Years can never be repeated for the same Initiate; thus, an Initiate who fails can never enter House Bjornaer. If Initiation is successful, the probationer immediately adopts the shape of his heartbeast, and gains the Heartbeast Virtue and Ability at level 1.
 
@@ -932,6 +928,12 @@ Ardea, the Swan Elder who conducts this ritual at the Gathering of Twelve Years,
 **Script Details**: At a place and time resonant with the House ancestors (+3), the Initiate forever loses the ability to bind a familiar (+3). The Participation modifier provides +1 for every witness who has the same temperament as the probationer's heartbeast and –1 for every witness who has an opposing temperament (sanguine opposes melancholic and choleric opposes phlegmatic). The Mystagogue is included in this modifier.
 
 For the purposes of future Initiation into Clan or House Mysteries, the permanent loss of the ability to bind a familiar counts as a Minor Ordeal, but only if the character is Initiated after character creation (for example, if a magus joins House Bjornaer from another House).
+
+> ### Story Seed: A Thousand Heartbeasts
+> 
+> It is a well-kept secret of Clan Ilfetu that The Gift is not a pre-requisite for Initiation into the Heartbeast Mystery (although a different Initiation Script is required for the unGifted, as the Ordeal that destroys the ability to bind a familiar is not appropriate). However, as the ritual binds the Initiate to the Hermetic ancestors, no sane Mystagogue would mystically adopt a mundane into the Bjornaer family through Initiation.
+> 
+> However, rumor has it that a rogue member of Clan Ilfetu is doing precisely this. Clan Ilfetu is horrified at the profanation of its most sacred ritual, while the House is concerned that the Code has been broken. Stories of whole villages of mundanes able to access their heartbeasts are surely exaggerations, aren't they? More worryingly, these mundanes have all become part of House Bjornaer through the ritual — what is the House going to do with them?
 
 #### Secret Name (Minor House Mystery)
 
@@ -970,12 +972,6 @@ If a magus with this Mystery also has an inner heartbeast (see below), he may ac
 House Bjornaer know spells which affect all those who hear a lion's roar, get caught in the gaze of a wolf, or smell the musk of a stag. They can attach a magical scent to an area to create a ward and coopt a target's hearing to spread Mentem effects. These are all special categories of Targets, invented by Birna and Bonisagus together, but the work was never completed, and they were imperfectly melded to Hermetic Theory, remaining a Mystery of House Bjornaer.
 
 Each of these Targets consists of an area of effect. When within this area of effect, anyone sensing the Bjornaer magus through the specified sense becomes a target of the spell. For example, with the Scent Target, anyone able to smell the caster is affected by the spell. Targets need not be present at the casting of the spell, and are continuously acquired throughout the spell's duration. The effects on all targets ceases with the spell's expiry, no matter how long they have been affected.
-
-> ## Story Seed: A Thousand Heartbeasts
-> 
-> It is a well-kept secret of Clan Ilfetu that The Gift is not a pre-requisite for Initiation into the Heartbeast Mystery (although a different Initiation Script is required for the unGifted, as the Ordeal that destroys the ability to bind a familiar is not appropriate). However, as the ritual binds the Initiate to the Hermetic ancestors, no sane Mystagogue would mystically adopt a mundane into the Bjornaer family through Initiation.
-> 
-> However, rumor has it that a rogue member of Clan Ilfetu is doing precisely this. Clan Ilfetu is horrified at the profanation of its most sacred ritual, while the House is concerned that the Code has been broken. Stories of whole villages of mundanes able to access their heartbeasts are surely exaggerations, aren't they? More worryingly, these mundanes have all become part of House Bjornaer through the ritual — what is the House going to do with them?
 
 There are a number of restrictions on these spells:
 
@@ -1019,6 +1015,74 @@ The spell affects any being who sees the caster. Targets looking in completely t
 
 **Script Details**: The Initiate must craft an object in the shape of his heartbeast and enchant it with the ability to see, hear, taste, touch, and smell. He must then locate an ancestor site with a deep pool in which no man has swum, and, at the dark of the moon (+3), cast the enchanted item into it (a major sacrifice of time and vis, +6).
 
+> ### Examples Spells with Sensory Magic Targets
+> 
+> ##### Revenge of the Bitten Toad
+> PeAn 20  
+> R: Per, D: Diam, T: Flavor
+> 
+> Any creatures who bite (or otherwise taste) the caster suffer a Heavy Wound. Any successful bite attack against the caster results in the creature tasting him, even if no wound is actually inflicted. The caster still suffers any damage inflicted by the bite, but his opponent is typically deterred from further attacks.
+> 
+> (Base 15, +1 Diam)
+> 
+> ##### Hibernation of the Slumbering Turb
+> ReMe 35   
+> R: Per, D: Year, T: Texture, Ritual Req: Creo
+> 
+> Anyone touching the caster falls asleep and does not awaken until the spell expires. The caster is not affected by this magic, and his own sleep is natural. Those affected by the spell do not need to eat or drink while it persists, but when they awaken, they are ravenously hungry. Despite the usual length of a Year Duration spell, this spell's effects always end at the Spring Equinox. This spell was invented by Odorpes of the Sept of Urgen, who lives separate from the rest of her covenant. She hibernates and puts all her covenfolk to sleep with her, so she need not provision them during the winter.
+> 
+>  (Base 4, +4 Year, +1 Texture, +1 Creo requisite, +1 complexity)
+> 
+> ##### Scent of the Predator
+> CrMe 20  
+> R: Per, D: Sun, T: Scent
+> 
+> Anyone smelling the caster is struck by an overwhelming sensation of menace and hostility. The cowardly flee, whereas braver souls are intimidated, granting the caster a +3 to all attempts to cow the target into obeying him.
+> 
+> (Base 4, +2 Sun, +2 Scent)
+> 
+> ##### Marking the Territory
+> ReCo 15  
+> R: Per, D: Ring, T: Scent
+> 
+> Anyone smelling the territory marked out by the caster's scent (usually his urine) cannot enter the warded area for as long as the scent stays fresh, requiring the caster to renew it regularly. The spell manifests as a physical compulsion to turn back upon smelling the magus's scent. This spell must penetrate successfully to bar passage to any intruder with Magic Resistance, assuming that the intruder is usually associated with the Form of Corpus. (Intruders associated with other Forms are not warded against in any way.)
+> 
+> (Base 3 \[move in direction "away"\], +2 Ring, +2 Scent)
+> 
+> ##### Clarion Call of the War Horse
+> MuMe 15  
+> R: Per, D: Diam, T: Sound
+> 
+> Anyone hearing the caster's battle cry is heartened by its tone, and receives a +3 bonus to his Brave Personality Trait.
+> 
+> Those attaining Brave scores greater than +3 through this spell perform acts of courage well beyond those expected of them.
+> 
+> (Base 3, +1 Diam, +3 Sound)
+> 
+> ##### The Rooster's Crow
+> PeVi Gen  
+> R: Per, D: Mom, T: Sound
+> 
+> Any demons who hear the caster's shout lose Might equal to the spell's (level – 5) if the spell penetrates their Magic Resistance.
+> 
+> (Base effect, +3 Sound)
+> 
+> ##### Brilliance of the Eagle's Plumage
+> CrIg 30  
+> R: Per, D: Conc, T: Spectacle
+> 
+> Anyone looking directly at the caster is blinded by the brilliant light shining from his body. The caster does not shed light as such; it is only those who look at him who are affected. All victims must make a Stamina stress roll against an Ease Factor of 9 to avoid blindness. On a botch, the blinding is permanent, otherwise a Stamina stress roll (no botch) against an Ease Factor of 9 can be attempted every minute until recovered.
+> 
+> (Base 5, +1 Conc, +4 Spectacle)
+> 
+> ##### Closed Mouth of the Nightwalker
+> PeMe 40  
+> R: Per, D: Sun, T: Spectacle
+> 
+> Anyone seeing the caster instantly forgets that he did so, assuming that the spell's Penetration breaches the target's Magic Resistance. The caster may not necessarily be aware that he has been seen.
+> 
+> (Base 10, +2 Sun, +4 Spectacle)
+
 ### Initiating the Mysteries of the Inner Heartbeast
 
 As a magus of House Bjornaer researches the legends of his ancestors, he discovers that some were able to assume the forms of Great Beasts before succumbing to Final Twilight, becoming creatures of myth with a host of supernatural powers. Furthermore, those who enter Final Twilight as Great Beasts do not die a natural death, and they may be sought out to reveal the secret of the Inner Heartbeast. The Bjornaer magus must have an House Bjornaer Lore of at least 5 to reach this conclusion. The player of a Bjornaer magus should discuss with his storyguide what he sees as the form of his magus's inner heartbeast to be before his character begins this Initiation; broadly speaking, there are three choices: a perfect **epitome** of his species; a **chimera** or amalgam of two or more creatures; or an anima, a creature of pure elemental matter. Each is considered a separate Inner Mystery of House Bjornaer.
@@ -1027,98 +1091,13 @@ As a magus of House Bjornaer researches the legends of his ancestors, he discove
 
 Naturally, a Bjornaer magus may have many potential ancestors to learn from, but the search should narrow quickly, excluding those ancestors who have inappropriate heartbeasts, or who have pursued a path that is incompatible with that desired by the postulant. Of those who are left, some will inevitably have perished through violence or misadventure, and others will be completely untraceable. By the time the magus has eventually stumbled upon a true lead to a suitable ancestor, he has passed the first hurdle to this Inner Mystery.
 
-> ## Examples Spells with Sensory Magic Targets
-> 
-> ##### Revenge of the Bitten Toad
-> 
-> PeAn 20
-> 
-> R: Per, D: Diam, T: Flavor
-> 
-> Any creatures who bite (or otherwise taste) the caster suffer a Heavy Wound. Any successful bite attack against the caster results in the creature tasting him, even if no wound is actually inflicted. The caster still suffers any damage inflicted by the bite, but his opponent is typically deterred from further attacks.
-> 
-> (Base 15, +1 Diam)
-> 
-> ##### Hibernation of the Slumbering Turb
-> 
-> ReMe 35
-> 
-> R: Per, D: Year, T: Texture, Ritual Req: Creo
-> 
-> Anyone touching the caster falls asleep and does not awaken until the spell expires. The caster is not affected by this magic, and his own sleep is natural. Those affected by the spell do not need to eat or drink while it persists, but when they awaken, they are ravenously hungry. Despite the usual length of a Year Duration spell, this spell's effects always end at the Spring Equinox. This spell was invented by Odorpes of the Sept of Urgen, who lives separate from the rest of her covenant. She hibernates and puts all her covenfolk to sleep with her, so she need not provision them during the winter.
-> 
->  (Base 4, +4 Year, +1 Texture, +1 Creo requisite, +1 complexity)
-> 
-> ##### Scent of the Predator
-> 
-> CrMe 20
-> 
-> R: Per, D: Sun, T: Scent
-> 
-> Anyone smelling the caster is struck by an overwhelming sensation of menace and hostility. The cowardly flee, whereas braver souls are intimidated, granting the caster a +3 to all attempts to cow the target into obeying him.
-> 
-> (Base 4, +2 Sun, +2 Scent)
-> 
-> ##### Marking the Territory
-> 
-> ReCo 15
-> 
-> R: Per, D: Ring, T: Scent
-> 
-> Anyone smelling the territory marked out by the caster's scent (usually his urine) cannot enter the warded area for as long as the scent stays fresh, requiring the caster to renew it regularly. The spell manifests as a physical compulsion to turn back upon smelling the magus's scent. This spell must penetrate successfully to bar passage to any intruder with Magic Resistance, assuming that the intruder is usually associated with the Form of Corpus. (Intruders associated with other Forms are not warded against in any way.)
-> 
-> (Base 3 \[move in direction "away"\], +2 Ring, +2 Scent)
-> 
-> ##### Clarion Call of the War Horse
-> 
-> MuMe 15
-> 
-> R: Per, D: Diam, T: Sound
-> 
-> Anyone hearing the caster's battle cry is heartened by its tone, and receives a +3 bonus to his Brave Personality Trait.
-> 
-> 
-> Those attaining Brave scores greater than +3 through this spell perform acts of courage well beyond those expected of them.
-> 
-> (Base 3, +1 Diam, +3 Sound)
-> 
-> ##### The Rooster's Crow
-> 
-> PeVi Gen
-> 
-> R: Per, D: Mom, T: Sound
-> 
-> Any demons who hear the caster's shout lose Might equal to the spell's (level – 5) if the spell penetrates their Magic Resistance.
-> 
-> (Base effect, +3 Sound)
-> 
-> ##### Brilliance of the Eagle's Plumage
-> 
-> CrIg 30
-> 
-> R: Per, D: Conc, T: Spectacle
-> 
-> Anyone looking directly at the caster is blinded by the brilliant light shining from his body. The caster does not shed light as such; it is only those who look at him who are affected. All victims must make a Stamina stress roll against an Ease Factor of 9 to avoid blindness. On a botch, the blinding is permanent, otherwise a Stamina stress roll (no botch) against an Ease Factor of 9 can be attempted every minute until recovered.
-> 
-> (Base 5, +1 Conc, +4 Spectacle)
-> 
-> ##### Closed Mouth of the Nightwalker
-> 
-> PeMe 40
-> 
-> R: Per, D: Sun, T: Spectacle
-> 
-> Anyone seeing the caster instantly forgets that he did so, assuming that the spell's Penetration breaches the target's Magic Resistance. The caster may not necessarily be aware that he has been seen.
-> 
-> (Base 10, +2 Sun, +4 Spectacle)
-
 *Example: After many false starts, Ulf finally discovers that his ancestor Lupercus haunts the Bielowezca Forest in the form of an immense wolf, and he sets out for Poland.*
 
 The second stage of the Quest towards this Inner Mystery is to communicate with the Great Beast and convince it to impart the knowledge sought. Great Beasts have succumbed to Final Twilight and become creatures of the Magic realm; however, they were once human, and most are still in possession of true Intelligence. Despite this, they now possess wholly different motivations and goals, most of which are utterly inscrutable. Successfully communicating with a Great Beast can be a lengthy and frustrating process.
 
 *Example: The Great Beast that was once Lupercus is a wily quarry, quite beyond Ulf's ability to track. It takes him months to even get a glimpse of his ancestor, and Ulf starts to despair of any actual contact. Finally, one of Ulf's nightlyhowls, hitherto unaccompanied, is joined by an immensely deep wolf-voice, and Ulf knows he has made contact.*
 
-> ## Great Beasts as Mystagogues
+> ### Great Beasts as Mystagogues
 > 
 > Great Beasts should be considered to have a Presence of +2 and an House Bjornaer Lore of 8. As they are members of House Bjornaer who have undergone the Initiation into the Inner Heartbeast themselves, they should be considered to know the Mystery sought, regardless of which of the three Inner Mysteries they took themselves.
 
@@ -1140,7 +1119,6 @@ At the end of the season, the Initiation Total based on the scores of the Great 
 
 **Script Details**: The Initiate must Sacrifice time to discover a suitable ancestor (+1), Quest to achieve the approval of the Great Beast (+3), and undergo a Major Ordeal (+9).
 
-
 ### The Three Inner Mysteries
 
 There are three paths to the Inner Mysteries of House Bjornaer, each with a different type of inner heartbeast as its ultimate goal.
@@ -1160,7 +1138,7 @@ Upon being Initiated into this Mystery, the inner heartbeast is drawn out from t
 - The inner heartbeast may perform a Mythic Feat related to its increased Characteristic at a cost of 1 confidence Point. A Mythic Feat is an automatically successful incredible action that would normally be covered by a single die roll, and cannot be used on an activity which usually takes days or seasons to perform.
 - The inner heartbeast is a perfect specimen of its type. When in the form of his virtuous inner heartbeast, a Bjornaer magus does not suffer from any Physical Flaws that would normally affect his shape. A Lame magus is not lame as a Beast of Virtue, for example, although he is still affected by that Flaw as his outer heartbeast.
 
-> ## Sample Mythic Feats
+> ### Sample Mythic Feats
 > 
 > **Perception:** See a sword being drawn at a mile distance; hear grass grow
 > 
@@ -1192,7 +1170,7 @@ As well as combining features from each animal form, there are a number of other
 
 *Example: An eagle-Bjornaer (Size –2) acquiring Characteristics of a Lion (Size +2) becomes Size +2. A lion-Bjornaer adding the features of an eagle becomes Size +3.*
 
-> ## Sample Elemental Forms
+> ### Sample Elemental Forms
 > 
 > **Stone:** The body is transformed into solid stone. The magus's mass increases five-fold with no change in overall dimensions (+2 to Size with correspondingly increased wound range, but Strength is unaffected). His Soak receives a +15 bonus, but Quickness is reduced by 5.
 > 
@@ -1258,8 +1236,6 @@ The inner heartbeast may acquire an animal Quality, such as physical features or
 
 The inner heartbeast may acquire either Major or Minor Flaws from a specific list. These lists may be extended to other Virtues with the agreement of the storyguide. *Appropriate vis: Vim.*
 
-### Mystery Cults
-
 - **Major Virtues:** Greater Immunity, Ways of the (Land). Ease Factor 30. 
 - **Minor Virtues:** Enduring Constitution, Keen Sense of Smell, Keen Vision, Lesser Immunity, Lightning Reflexes, Long-Winded, Magic Sensitivity, Perfect Balance, Piercing Gaze, Rapid Convalescence, Reserves of Strength, Second Sight, Sharp Ears, Tough, Wilderness Sense. Ease Factor 18. 
 
@@ -1318,7 +1294,7 @@ Members of this rank are devoted to the study of nature, and they do not concern
 
 The eumolpids are concerned with the religious aspect of the society, in particular, the worship of Diana, and the identification and training of the pagan messiah. A kerykes wishing to join the eumolpids must have a Huntress Lore of 3, and her Initiation grants the Mystery of Hermetic Theurgy (see *The Mysteries Revised Edition*). Eumolpids who prove themselves loyal to the Huntress and who further its goals may also be Initiated into the Mysteries of Names of Power and Invocation Magic (both described in *The Mysteries Revised Edition*), learning the names of powerful nature-oriented deities such as Demeter and Kore.
 
-**initiation to tHe rank of euMolPid and tHe Mystery of HerMetic tHeurgy**
+**Initiation to the rank of Eumolpid and tHe Mystery of Hermetic Theurgy**
 
 **Ease Factor**: 15 (Minor Virtue known to the Mystagogue)
 
@@ -1355,9 +1331,7 @@ A follower of House Bjornaer is likely to have some connection between his heart
 There are some spells known to House Bjornaer that are not widely disseminated in the Order, but are often found in the personal libraries of members of House Bjornaer; these spells are detailed below. Any spell that affects a heartbeast of Size +2 or greater must be invented with a Size modifier (see ArM5, page 113), and is thus at least a magnitude higher.
 
 ##### The Voice of the Bjornaer Magus
-
-MuAn 15
-
+MuAn 15  
 R: Per, D: Sun, T: Ind
 
 This spell allows the caster to speak with a human voice when shapechanged into the form of an animal. The caster must be in animal form to cast this spell because it targets the vocal capacity of that form, and must be able to cast this spell with no words or gestures (usually a –15 penalty), but while under its influence, may use his own voice without penalty to spellcasting.
@@ -1365,9 +1339,7 @@ This spell allows the caster to speak with a human voice when shapechanged into 
 (Base 5, +2 Sun)
 
 ##### Form of the (Temperament) Heartbeast
-
-MuAn 20
-
+MuAn 20  
 R: Per, D: Sun, T: Ind
 
 There are four versions of this spell, one for each of the sanguine, choleric, melancholic, and phlegmatic temperaments. These spells must be cast in animal form because they enhance the correspondences to the temperament of that form, whereas humans naturally have a more balanced temperament than animals. A Bjornaer magus may revert to human form after casting this spell and still retain its effects. It is not required that the animal form he takes take matches the temperament listed in the spell's name; however, if the two do match, all bonuses granted by the spell are increased by one. Only one of these spells may be cast on the same character at any one time; they operate by influencing the bodily humors, and only one humor at a time may be influenced in this way.
@@ -1383,9 +1355,7 @@ There are four versions of this spell, one for each of the sanguine, choleric, m
 (Base 5, +2 Sun; +1 complexity)
 
 ##### Facilitate the Stifled (Form) Spell
-
-MuVi Gen
-
+MuVi Gen  
 R: Touch, D: Mom, T: Ind
 
 This spell is cast at the same time as another formulaic spell (see ArM5, page 159) whose level must be less than twice the level of this spell. If successfully cast, the targeted spell may be cast with no penalty to the casting total due to reduced or absent gestures and/or voice. While this Muto Vim spell requires gestures and voice as normal, the casting total of the follow-up spell is not penalized, and thus difficult spells at the limit of a magus's ability have a greater chance of success when in restricted circumstances, without incurring fatigue loss. If the targeted spell has Range Voice, the volume used to cast this spell determines the actual range. There are ten versions of this spell, each affecting spells of one of the Hermetic Forms. This spell is particularly useful to Bjornaer magi who wish to maintain the appearance of mundane animals yet still cast spells.
@@ -1402,36 +1372,7 @@ You should consider what Virtues are particularly appropriate for your character
 
 Bjornaer characters are unlikely to have Faerie Blood, due to the general dislike of House Bjornaer for faerie matters. Possessing either the Skinchanger or Shapechanger Virtue, or the Lycanthrope Flaw, is a major hindrance to the magus in the House, and you should carefully consider the background of your character which led to him finishing his apprenticeship with both this Virtue and his life intact. If the House is not aware of the Virtue he will be hindered less, but should take the Dark Secret Flaw to account for the story possibilities if it is found out that he has an ability believed to mark him as one of the ancient enemies of the House. For information on the restrictions placed on shapechanging Bjornaer magi, see Apprenticeship, above.
 
-#### Mythic Blood
-
-Birna had several natural children through her life, and her bloodline is carefully guarded by House Bjornaer, and watched for signs of The Gift. Magi of this lineage always have a bear heartbeast, but apart from this, the Founder's bloodline may manifest in a number of ways. Most commonly, those of Birna's blood receive
-
-
-a Minor Magical Focus in Legendary Creatures and acquire one of the *Form of the (Temperament) Heartbeast* spells as their magical feat. These spells were originally modeled from Birna's own innate abilities. The hereditary Minor Personality Flaw from Birna's line is Slothful (see New Flaws, below).
-
-It is also possible to bear the blood of one of the Great Beasts — Gifted children may arise from the interaction of the Great Beasts with shapechanged humans. The benefits of this Virtue are typically related to the supernatural powers of the Great Beast.
-
-### New Virtues
-
-#### Clan Ilfetu
-
-*Minor, Hermetic*
-
-The character is a member of Clan Ilfetu, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see *The Mysteries Revised Edition*); if so, this Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus.
-
-#### Keen Sense of Smell
-
-*Minor, General*
-
-The character's nose is more sensitive than normal for a human. He gets a +3 bonus to all rolls involving his sense of smell, including following tracks with the Hunt Ability.
-
-#### Pack leader / natural leader
-
-*Minor, General*
-
-The character is a dominant person with a demeanor that encourages others to do what he says. His self-assured manner gives him a +3 bonus to social situations in which he takes the lead; people are more likely to follow his orders or do as he suggests. If he is Gifted, this bonus can temporarily help to overcome the social penalty of The Gift, due to the strength of his domineering personality. Members of House Bjornaer who were Initiated early in their apprenticeship often have this Virtue.
-
-> ## Common Virtues & Flaws
+> ### Common Virtues & Flaws
 > 
 > Every Bjornaer magus has the free Supernatural Virtue Heartbeast. Members of Clan Ilfetu are required to take the new Virtue "Clan Ilfetu". Other common Virtues and Flaws are:
 > 
@@ -1457,7 +1398,13 @@ The character is a dominant person with a demeanor that encourages others to do 
 > - **Restriction:** When in human or heartbeast form. 
 > - **Study Requirement**
 
-## Examples of Mythic Blood
+#### Mythic Blood
+
+Birna had several natural children through her life, and her bloodline is carefully guarded by House Bjornaer, and watched for signs of The Gift. Magi of this lineage always have a bear heartbeast, but apart from this, the Founder's bloodline may manifest in a number of ways. Most commonly, those of Birna's blood receive a Minor Magical Focus in Legendary Creatures and acquire one of the *Form of the (Temperament) Heartbeast* spells as their magical feat. These spells were originally modeled from Birna's own innate abilities. The hereditary Minor Personality Flaw from Birna's line is Slothful (see New Flaws, below).
+
+It is also possible to bear the blood of one of the Great Beasts — Gifted children may arise from the interaction of the Great Beasts with shapechanged humans. The benefits of this Virtue are typically related to the supernatural powers of the Great Beast.
+
+#### Examples of Mythic Blood
 
 | Blood          | Magical feat                      | Minor Magical Focus          | Personality Flaw |
 |----------------|-----------------------------------|------------------------------|------------------|
@@ -1466,6 +1413,26 @@ The character is a dominant person with a demeanor that encourages others to do 
 | Owl of Virtue  | Silence of the Smothered Sound    | Ghosts                       | Nocturnal        |
 | Griffin        | Panic of the Elephant's Mouse     | Courage                      | Reckless         |
 | Phoenix        | Coat of Flame, R: Touch           | Aging                        | Higher Purpose   |
+
+### New Virtues
+
+#### Clan Ilfetu
+
+*Minor, Hermetic*
+
+The character is a member of Clan Ilfetu, and has received extra training in the rituals of the House. You receive 50 extra experience points that may be spent on House Bjornaer Lore, Magic Lore (with a specialty in the Great Beasts), and Gothic, the dead language that the House uses for all of its rituals. It is possible that the magus has also been Initiated into the Esoteric Mystery of Divination and Augury (see *The Mysteries Revised Edition*); if so, this Virtue must be purchased with the normal allowance of ten points of Virtues and Flaws. Clan Ilfetu teaches the Divination method of haemagmomancy, which is divination by observing the blood splatters of wounded animals; this gives the following bonuses to Divination: +5 family, +3 Corpus.
+
+#### Keen Sense of Smell
+
+*Minor, General*
+
+The character's nose is more sensitive than normal for a human. He gets a +3 bonus to all rolls involving his sense of smell, including following tracks with the Hunt Ability.
+
+#### Pack leader / natural leader
+
+*Minor, General*
+
+The character is a dominant person with a demeanor that encourages others to do what he says. His self-assured manner gives him a +3 bonus to social situations in which he takes the lead; people are more likely to follow his orders or do as he suggests. If he is Gifted, this bonus can temporarily help to overcome the social penalty of The Gift, due to the strength of his domineering personality. Members of House Bjornaer who were Initiated early in their apprenticeship often have this Virtue.
 
 #### Unbound Tongue
 
@@ -1507,7 +1474,7 @@ An asterisk (\*) indicates an Ability that cannot be used at all by characters w
 
 This is the language used in all the rituals of House Bjornaer, and is essential for any member of Clan Ilfetu. As a dead language, it has little use outside of a ritual context. Specialties: rituals, deciphering.
 
-#### Heartbeast (suPernatural)\*
+#### Heartbeast (Supernatural)\*
 
 This Ability is only possessed by those who have undergone the Ritual of Twelve Years. It governs the understanding that a Bjornaer magus has for his heartbeast, both on an intellectual and a visceral level. He has the knowledge of what it means to be an animal of his species; he knows how to survive, what to eat, how to care for himself, and so forth. This Ability grants the character a Personality Trait named for the appropriate animal, at a level equal to half the score in this Ability. Finally, and perhaps most importantly, it allows the magus to change form. This Ability cannot be learned from books, and for it to be taught, the teacher must have the same temperament of heartbeast as the pupil. Specialties: changing to human form, Initiation.
 
@@ -1523,32 +1490,9 @@ Rather than providing an exhaustive appendix with many creature statistics, the 
 
 There are four categories of beasts: Birds, Fish, Hoofed Beasts and Clawed Beasts. Birds are self explanatory. Fish includes amphibians such as frogs, toads, and salamanders, and reptiles such as snakes and lizards, as well as more traditional fish and whales. Hoofed Beasts includes both domestic animals and wild ones. The category of Clawed Beasts contains all creatures that do not fit into the other types.
 
-### 2. Characteristics
+Each Size category is approximately twice as heavy as the next smaller Size category. A 1-point difference in Size doubles the weight, 2 points multiplies it by five, and a 1-point increase in Size entails a ten-fold increase in mass. Thus, a pig weighs approximately the same as 50 hedgehogs, 200 rats, or 2000 mice. Note that the Rat has been moved from Size –8 in ArM5 (page 192) to Size -7 in this table. Birds are one Size point bigger than their weight would suggest, accounting for their larger overall dimension; if you need to know the weight of a bird, subtract one from the Size before calculation. All weights are approximate.
 
-As stated on page 191 of ArM5, mundane beasts have a Characteristic called Cunning in place of an Intelligence score. Use Cunning for rolls that would otherwise call for Intelligence, such as finding a way out of a closed barn. While beasts have a limited capacity for problem-solving, they lack imagination, reason, and intelligence as such. Communication and Presence have slightly different meanings for animals. Presence represents how much impact that the creature has on its human viewers. Creatures with a low Presence are barely noticed; those with a high Presence instill awe, fear, or wonder. Communication, as for humans, represents the ability of the animal to impart
-
-
-information; few animals (to the medieval mind) are capable of the transmission of complex thoughts to others. For beasts, the Quickness Characteristic has mainly to do with reflexes and agility, and little to do with movement rate. Many animals can run faster than a human, but that does not necessarily mean they have better Initiative and Defense scores. Animals that run fast, but do not have especially good reflexes, have a Quality (see below) that reflects this.
-
-Unlike human characters, animals only spend points on their four physical Characteristics (Stamina, Strength, Dexterity and Quickness). Like human characters, each has up to seven points to spend on increasing these Characteristics. Negative points may also be taken to gain an equal number of positive points, but an animal cannot have more than two Characteristics with negative values, and the minimum value is equal to (Size – 5). There is no maximum Characteristic score for an animal, and no Virtue or Flaw is needed for extreme Characteristic scores for animals.
-
-After spending points on Characteristics, add twice the Size to Strength and subtract the Size from Quickness.
-
-These adjustments may give an animal a third negative Characteristic, or reduce a Characteristic below the minimum of (Size – 5).
-
-The other four Characteristics (Cunning, Perception, Presence, and Communication) are given values according to the creature's type.
-
-A creature may have the Minor Virtue Increased Characteristics one or more times (particularly appropriate for predators), just like a human character. The Characteristic points gained from this Virtue may be applied to any of the physical Characteristics. These points should be spent *before* applying the adjustments for Size. See step 3, below, for adjustments to this Virtue.
-
-### 3. Virtues & Flaws
-
-Each species of beast has certain Virtues and Flaws that are common to all
-
-> ## Size Examples
-> 
-> Each Size category is approximately twice as heavy as the next smaller Size category. A 1-point difference in Size doubles the weight, 2 points multiplies it by five, and a 1-point increase in Size entails a ten-fold increase in mass. Thus, a pig weighs approximately the same as 50 hedgehogs, 200 rats, or 2000 mice. Note that the Rat has been moved from Size –8 in ArM5 (page 192) to Size -7 in this table. Birds are one Size point bigger than their weight would suggest, accounting for their larger overall dimension; if you need to know the weight of a bird, subtract one from the Size before calculation. All weights are approximate.
-
-### Size Examples
+#### Size Examples
 
 - –15 insect
 - –10 minnow, mouse (1 oz)
@@ -1569,23 +1513,19 @@ Each species of beast has certain Virtues and Flaws that are common to all
 - +5 killer whale
 - +9 humpbacked whale (64 tons)
 
-> ## Creatures of Non-Standard Size
+> ### Creatures of Non-Standard Size
 > 
 > You may wish to create creatures that are larger or smaller than the average for their type, or that have been affected by Muto Animal spells. This is a simple procedure: for every point of Size removed, subtract two from Strength (and therefore Damage Total), add one to Quickness (and therefore Initiative and Defense Totals), and decrease the damage range for each wound level by one (minimum of one). Note that the creature's mass has halved, at least. Increasing Size has exactly the opposite effect.
 > 
 > Note that these rules entail a minor change to the descriptions for the spells *Beast of Minuscule Proportions* and *Beast of Outlandish Size*, in that Initiative is increased or reduced (respectively) by one in addition to the listed effects.
 
-> ## Mental Characteristics of Creatures
-> 
-> | Type         | Cun | Per | Pre | Com |
-> |--------------|:---:|:---:|:---:|:---:|
-> | Clawed Beast |  0  |  0  | -2  | -5  |
-> | Hoofed Beast | -2  |  0  | -4  | -5  |
-> | Bird         | -1  | +2  | -1  | -2  |
-> | Fish         | -3  | -2  | -5  | -6  |
+### 2. Characteristics
 
+As stated on page 191 of ArM5, mundane beasts have a Characteristic called Cunning in place of an Intelligence score. Use Cunning for rolls that would otherwise call for Intelligence, such as finding a way out of a closed barn. While beasts have a limited capacity for problem-solving, they lack imagination, reason, and intelligence as such. Communication and Presence have slightly different meanings for animals. Presence represents how much impact that the creature has on its human viewers. Creatures with a low Presence are barely noticed; those with a high Presence instill awe, fear, or wonder. Communication, as for humans, represents the ability of the animal to impart information; few animals (to the medieval mind) are capable of the transmission of complex thoughts to others. For beasts, the Quickness Characteristic has mainly to do with reflexes and agility, and little to do with movement rate. Many animals can run faster than a human, but that does not necessarily mean they have better Initiative and Defense scores. Animals that run fast, but do not have especially good reflexes, have a Quality (see below) that reflects this.
 
-## Example Physical Characteristics of Creatures
+Unlike human characters, animals only spend points on their four physical Characteristics (Stamina, Strength, Dexterity and Quickness). Like human characters, each has up to seven points to spend on increasing these Characteristics. Negative points may also be taken to gain an equal number of positive points, but an animal cannot have more than two Characteristics with negative values, and the minimum value is equal to (Size – 5). There is no maximum Characteristic score for an animal, and no Virtue or Flaw is needed for extreme Characteristic scores for animals.
+
+#### Example Physical Characteristics of Creatures
 
 | Type of Creature | Size | str | sta | dex | qik | Example |
 |------------------|------|-----|-----|-----|-----|---------|
@@ -1599,11 +1539,46 @@ Each species of beast has certain Virtues and Flaws that are common to all
 | Reptile     | –4  | –8 | +2 | +2 | +3 | Adder  |
 | Large fish   | –2  | –4 | +4 | 0  | 0  | Salmon |
 
+After spending points on Characteristics, add twice the Size to Strength and subtract the Size from Quickness.
+
+These adjustments may give an animal a third negative Characteristic, or reduce a Characteristic below the minimum of (Size – 5).
+
+The other four Characteristics (Cunning, Perception, Presence, and Communication) are given values according to the creature's type.
+
+> #### Mental Characteristics of Creatures
+> 
+> | Type         | Cun | Per | Pre | Com |
+> |--------------|:---:|:---:|:---:|:---:|
+> | Clawed Beast |  0  |  0  | -2  | -5  |
+> | Hoofed Beast | -2  |  0  | -4  | -5  |
+> | Bird         | -1  | +2  | -1  | -2  |
+> | Fish         | -3  | -2  | -5  | -6  |
+
+A creature may have the Minor Virtue Increased Characteristics one or more times (particularly appropriate for predators), just like a human character. The Characteristic points gained from this Virtue may be applied to any of the physical Characteristics. These points should be spent *before* applying the adjustments for Size. See step 3, below, for adjustments to this Virtue.
+
+### 3. Virtues & Flaws
+
+Each species of beast has certain Virtues and Flaws that are common to all members of that species. Species Virtue and Flaws are not given for game balance reasons, but rather to provide rules for the unique strengths and features of beasts. 
+
 When designing your own species, simply assign the Virtues and Flaws that describe the species the way you imagine it. It is recommended that a species have at least one point of Flaws for every three points of Virtues. All beasts get their species' Virtues and Flaws for free.
 
 Exceptional beasts may also take individual Virtues or Flaws that set them apart from others of their kind. Any individual Virtues a beast takes must be balanced with individual Flaws, just as for human characters.
 
 Personality Flaws are particularly appropriate for beasts; you may need to come up with new flaws of this type, and creatures can have more than one.
+
+> #### Suitable Virtues & Flaws for Beasts
+> 
+> **Virtues:** Berserk, Enduring Constitution, Ferocity (see insert), Improved Characteristics\*, Lightning Reflexes, Long-Winded, Perfect Balance, Rapid Convalescence, Piercing Gaze, Reserves of Strength, Self-Confident, Tough
+> 
+> **Flaws:** Clumsy, Fragile Constitution, Poor Eyesight, Poor Hearing, Fear, Noncombatant, Nocturnal, Reckless, Reclusive, Weakness, most Major Personality Flaws taken as Minor Flaws
+> 
+> *Large creatures require more Characteristic points because high value Characteristics are increasingly more expensive. A creature of Size +1 or smaller gets 3 Characteristic points from this Virtue as normal, a creature of Size +2 gets 6 Characteristic points, a creature of Size +3 gets 9 Characteristic points, and so on.*
+
+> ## Ferocity
+> 
+> *Minor Virtue, beasts only*
+> 
+> Like companion and magus characters, a beast with this Virtue has confidence points. However, its confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. For each instance of this Virtue, describe a situation that activates confidence for the species in question, and take 3 confidence Points and a confidence Score of 1 to use when those circumstances are met.
 
 ### 4. Basic Abilities
 
@@ -1632,70 +1607,6 @@ Qualities are features of the animal that affect its capabilities. Add any appro
 
 **Ambush Predator:** The beast lies in wait for its prey and catches it by surprise.
 Grants Stealth 4 (stalking prey) and Hunt 4 (prey). The beast's specialization for Brawl changes to one of the beast's natural weapons. If it has successfully crept up on its prey, it automatically wins Initiative in the first round of combat and gains a +3 to its Attack Total for the first round only.
-
-> ## Suitable Virtues & Flaws for Beasts
-> 
-> **Virtues:** Berserk, Enduring Constitution, Ferocity (see insert), Improved Characteristics\*, Lightning Reflexes, Long-Winded, Perfect Balance, Rapid Convalescence, Piercing Gaze, Reserves of Strength, Self-Confident, Tough
-> 
-> **Flaws:** Clumsy, Fragile Constitution, Poor Eyesight, Poor Hearing, Fear, Noncombatant, Nocturnal, Reckless, Reclusive, Weakness, most Major Personality Flaws taken as Minor Flaws
-> 
-> *Large creatures require more Characteristic points because high value Characteristics are increasingly more expensive. A creature of Size +1 or smaller gets 3 Characteristic points from this Virtue as normal, a creature of Size +2 gets 6 Characteristic points, a creature of Size +3 gets 9 Characteristic points, and so on.*
-
-> ## Ferocity
-> 
-> *Minor Virtue, beasts only*
-> 
-> Like companion and magus characters, a beast with this Virtue has confidence points. However, its confidence points may only be used in situations where its natural animal ferocity is triggered, such as when defending its den or fighting a natural enemy. For each instance of this Virtue, describe a situation that activates confidence for the species in question, and take 3 confidence Points and a confidence Score of 1 to use when those circumstances are met.
-
-> ## Beasts of Legend
-> 
-> Presented below are brief descriptions of 20 animals, concentrating mainly on the mythic characteristics ascribed to them. Descriptions of the listed Qualities for each beast are given in the Qualities section.
-> 
-> **Asp**: The asp keeps its mouth open, with venom steaming from its jaws to injure all kinds of animals. Like all serpents it is cold by nature, and its bite steals heat from its prey. There are many types of asp, each distinguished by its venom: the *dipsa* makes one die of thirst, the *ypnalis* sends its victims to sleep, and the *emorrosis* makes its victims sweat blood. The venom of the *seps* devours the body and bones of its prey. *Virtues & Flaws: Lightning Reflexes; Infamous. Qualities: Ambush Predator, Loathsome Appearance, Slippery, Venomous. (phlegmatic with sanguine aspect)*
-> 
-> **Badger**: A fierce creature, for its size. Their tenaciousness is legendary. Some are born to be the servants of the others, and clean the nests by lying on their backs and holding onto the soil, whilst being dragged out by others. *Virtues & Flaws: Enduring Constitution, Ferocity (when cornered); either Pack Leader or Pack Mentality. Qualities: Aggressive, Grapple, Large Claws, Tireless. (melancholic)*
-> 
-> **Bear**: The bear is a nurturing creature who gives birth to formless young, which are then licked into shape. Their heads are said to be feeble, with the greatest strength lying in the arms and loins. Their weakness is for honey. *Virtues & Flaws: Ferocity (when injured), Improved Characteristics x2, Tough; Greedy (Minor), Reclusive. Qualities: Aggressive, Extra Natural Weapons (claws), Grapple, Hardy, Imposing Appearance, Large Claws, Pursuit Predator, Tough Hide. (melancholic with choleric aspect)*
-> 
-> **Boar**: The boar is wild and rough, and signifies fierceness. His thoughts are wild and unruly, too. *Virtues & Flaws: Berserk, Enduring Constitution, Ferocity (when cornered), Tough; Greedy, Wrathful (Minor). Qualities: Aggressive, Extra Natural Weapons (tusks), Hardy, Herd Animal, Tireless. (melancholic with choleric aspect)*
-> 
-> **Crow**: Soothsayers declare that the crow knows the paths of treachery, and can predict the future. Some say that God entrusts his secrets to the crow. Crows are known for their acrobatic flight. *Virtues & Flaws: Second Sight; Visions. Qualities: Accomplished Flyer, Crafty, Keen Vision, Mimicry, Vocal. (sanguine)*
-> 
-> **Dove**: A simple fowl and free from malice. It is a dainty and graceful eater, taking only the finest of grain. It is pursued by hawks, and uses mirrored surfaces to watch for their approach. Some believe that in every flock of doves, one is an angel. *Virtues & Flaws: Premonitions; Pious (Minor). Qualities: Timid (sanguine)*
-> 
-> **Eagle**: The eagle has such wonderful eyesight that nothing can be hidden from its gaze. When the eagle becomes old and its feathers dull, it flies to the height of heaven and burns off the dross of age until the feathers shine like fire. *Virtues & Flaws: Lesser Immunity (blindness), Piercing Gaze; Proud (Minor). Qualities: Extra Natural Weapons (claws), Fast Flyer, Keen Vision, Pursuit Predator. (sanguine with choleric aspect)*
-> 
-> **Eel**: Eels are born from mud. They are so slippery that the harder one holds on to them, the more quickly they slip away. *Qualities: Aquatic, Slippery x2. (phlegmatic)*
-> 
-> **Fox**: A fraudulent and ingenious animal who feigns death to attract the attention of curious birds for him to eat. He never runs in a straight line, but always by devious ways. *Virtues & Flaws: Perfect Balance; Nocturnal. Qualities: Ambush Predator, Crafty, Good Jumper, Keen Sense of Smell. (choleric with sanguine aspect)*
-> 
-> **Goat, Wild**: A goat's eyes are very acute. They are the best climbers of all creatures, and the most sure-footed. The blood of a he-goat is said to be able to dissolve even diamond due to its excessive heat. *Virtues & Flaws: Perfect Balance, Long-Winded; Lecherous (Minor). Qualities: Aggressive, Extra Natural Weapons (horns), Hardy, Herd Animal, Keen Vision, Skilled Climber. (melancholic)*
-> 
-> **Hare**: Light-footed and swift-running, the hare is timid, and puts no trust in itself, but rather in God. *Virtues & Flaws: Ferocity (eluding predators); Pious (Minor). Qualities: Fast Runner, Good Jumper, Keen Sense of Smell, Timid. (melancholic with phlegmatic aspect)*
-> 
-> **Horse**: The spirit of a horse is great, it exults in the battlefield and is excited to fight by the sound of a trumpet. Its virility is extinguished if its mane is cut. *Virtues & Flaws: Improved Characteristics, Long-Winded; Fear (loud noises). Qualities: Imposing Appearance, Fast Runner, Good Jumper, Tireless. (choleric with melancholic aspect)*
-> 
-> **Lizard**: The lizard goes blind with age, but its sight is restored by the rising sun. There are several types of lizard; the *salamander* is proofed against fire, the *newt* is the enemy of poisonous creatures, and the *botrox* has a frog's face. Most lizards are venomous, but their venom is stronger during the day when they are warm. If a lizard is cut in twain, the parts scramble around until they find each other again, and rejoin. *Virtues & Flaws: Greater Immunity (fire or poison), Rapid Convalescence; Depressed, Poor Eyesight. Qualities: Camouflage, Slippery, Venomous. (phlegmatic with sanguine aspect)*
-> 
-> **Otter**: The otter has a playful and frivolous disposition, but is nevertheless the enemy of crocodiles, which he climbs inside and eats. *Virtues & Flaws: Ferocity (against water creatures), Puissant Swim; Carefree. Qualities: Amphibious, Pursuit Predator. (phlegmatic with melancholic aspect)*
-> 
-> **Partridge**; The female partridge secures protective coloration by clever Camouflage, hiding their eggs from predators and her husband, who is a disgusting creature consumed by lust. As a devoted mother, the partridge feigns injury to distract foxes from her young. *Virtues & Flaws: Puissant Stealth; Fragile Constitution. Qualities: Camouflage, Timid. (sanguine)*
-> 
-> **Salmon**: A wise fish who feeds on the nuts of the hazel bush. Some say that the salmon is the oldest creature on earth. *Virtues & Flaws: Improved Characteristics, Intuition, Unaging; Compassionate (Minor). Qualities: Aquatic, Slippery. (phlegmatic)*
-> 
-> **Stag**: Stags are a symbol of health; they are able to restore themselves from old age by eating venomous serpents. They have the keenest of hearing. They have kings, whom they obey. *Virtues & Flaws: Improved Characteristics, Unaging; Higher Purpose (protect the herd); Dutybound. Qualities: Defensive Fighter, Extra Natural Weapons (antlers), Fast Runner, Good Jumper, Large Antlers, Sharp Ears. (choleric with melancholic aspect)*
-> 
-> **Swan**: The swan is good luck to those who make their living on water. Swans have the sweetness of music. They are strong flyers and able to cross vast distances. *Virtues & Flaws: Luck, Inspirational, Puissant Music; Humble. Qualities: Accomplished Flyer, Timid, Vocal x2. (sanguine with phlegmatic aspect)*
-> 
-> **Weasel**: The weasel is a hunter of snakes and mice. Weasels are skilled in healing. *Virtues & Flaws: Greater Purifying Touch (venom); Short Attention Span. Qualities: Aggressive, Fast Runner, Pursuit Predator, Skilled Climber. (choleric with sanguine aspect)*
-> 
-> **Wolf**: Wolves are well known for their rapacity and keep their strength in their chest and jaws. They can live on anything — plants, soil, even the wind — but it is flesh they like the most. Should a wolf gaze upon its prey, the creature is paralyzed and struck dumb; if the prey sees the wolf first, it is the wolf who cannot run. *Virtues & Flaws: Ferocity (against livestock), Improved Characteristics x2, Long-Winded; Compulsion (killing), Infamous. Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal. (choleric)*
-
-> ## Aging
-> 
-> If an animal is to be an important part of a saga (as an animal companion, for example), its response to aging should be considered. There are three things to track: the age at which aging begins, the adjustment to the aging roll due to age, and the number of aging rolls per year. A human, with an average lifespan of 50 years (ignoring lifestyle modifiers), begins aging at 35, adds one to the aging roll for every ten years, and makes one aging roll each year. The storyguide should decide upon the average lifespan of the creature and adjust these figures accordingly. Thus, a creature with an average lifespan of ten years has a modifier of 50 / 10 = 5. It therefore begins aging at 35 / 5 = 7 years old, adds one to the aging roll for every 10 / 5 = 2 years of age, and makes 1 x 5 = 5 aging rolls each year. If more than one aging roll is made each year, they should be spread evenly throughout the four seasons, with any excess occurring in Winter.
-> 
-> When deciding upon the average lifespan of a creature, strict biological adherence is not necessary in Mythic Europe. Most small animals have an average lifespan of under ten years.
 
 **Amphibious:** Grants Swim 4 (home terrain). The beast can hold its breath for twice as long as normal.
 
@@ -1771,7 +1682,7 @@ Grants Stealth 4 (stalking prey) and Hunt 4 (prey). The beast's specialization f
 
 Combat Statistics are calculated as normal (see ArM5, page 171), using the Natural Weapons Table. Because combat totals are affected by Characteristics, these weapons may be used for creatures of all Sizes; a mouse and a cat have the same basic statistics for their bite attacks, but the combat totals are very different.
 
-> ## Natural Weapons Table
+> #### Natural Weapons Table
 > 
 > |                      | Init | Atk | Dfn | Dam |
 > |----------------------|:----:|:---:|:---:|:---:|
@@ -1788,7 +1699,13 @@ Combat Statistics are calculated as normal (see ArM5, page 171), using the Natur
 > 
 > All natural weapons use the Brawl Ability. Strength, Load, and cost are not applicable.
 
-> ## Animal Creation Example: Bear
+> ### Aging
+> 
+> If an animal is to be an important part of a saga (as an animal companion, for example), its response to aging should be considered. There are three things to track: the age at which aging begins, the adjustment to the aging roll due to age, and the number of aging rolls per year. A human, with an average lifespan of 50 years (ignoring lifestyle modifiers), begins aging at 35, adds one to the aging roll for every ten years, and makes one aging roll each year. The storyguide should decide upon the average lifespan of the creature and adjust these figures accordingly. Thus, a creature with an average lifespan of ten years has a modifier of 50 / 10 = 5. It therefore begins aging at 35 / 5 = 7 years old, adds one to the aging roll for every 10 / 5 = 2 years of age, and makes 1 x 5 = 5 aging rolls each year. If more than one aging roll is made each year, they should be spread evenly throughout the four seasons, with any excess occurring in Winter.
+> 
+> When deciding upon the average lifespan of a creature, strict biological adherence is not necessary in Mythic Europe. Most small animals have an average lifespan of under ten years.
+
+> #### Animal Creation Example: Bear
 > 
 > A bear is a Clawed Beast of Size +2. The storyguide wants it to be strong and tough, but perhaps a little slow and clumsy. He buys Improved Characteristics twice, granting 12 extra Characteristic points (because the bear is Size +2), for a total of 19. These are spent in the following way: Str +2, Sta +4, Dex +2, Qik +2. Once the adjustments for Size have been made, the Bear has Str +6 and Qik 0.
 > 
@@ -1822,6 +1739,50 @@ Combat Statistics are calculated as normal (see ArM5, page 171), using the Natur
 > 
 > **Abilities:** Athletics 3 (sprinting), Awareness 3 (prey), Brawl 5 (claws), Hunt 4 (deer), Survival 5 (foraging), Swim 3 (against the current)
 
+> ### Beasts of Legend
+> 
+> Presented below are brief descriptions of 20 animals, concentrating mainly on the mythic characteristics ascribed to them. Descriptions of the listed Qualities for each beast are given in the Qualities section.
+> 
+> **Asp**: The asp keeps its mouth open, with venom steaming from its jaws to injure all kinds of animals. Like all serpents it is cold by nature, and its bite steals heat from its prey. There are many types of asp, each distinguished by its venom: the *dipsa* makes one die of thirst, the *ypnalis* sends its victims to sleep, and the *emorrosis* makes its victims sweat blood. The venom of the *seps* devours the body and bones of its prey. *Virtues & Flaws: Lightning Reflexes; Infamous. Qualities: Ambush Predator, Loathsome Appearance, Slippery, Venomous. (phlegmatic with sanguine aspect)*
+> 
+> **Badger**: A fierce creature, for its size. Their tenaciousness is legendary. Some are born to be the servants of the others, and clean the nests by lying on their backs and holding onto the soil, whilst being dragged out by others. *Virtues & Flaws: Enduring Constitution, Ferocity (when cornered); either Pack Leader or Pack Mentality. Qualities: Aggressive, Grapple, Large Claws, Tireless. (melancholic)*
+> 
+> **Bear**: The bear is a nurturing creature who gives birth to formless young, which are then licked into shape. Their heads are said to be feeble, with the greatest strength lying in the arms and loins. Their weakness is for honey. *Virtues & Flaws: Ferocity (when injured), Improved Characteristics x2, Tough; Greedy (Minor), Reclusive. Qualities: Aggressive, Extra Natural Weapons (claws), Grapple, Hardy, Imposing Appearance, Large Claws, Pursuit Predator, Tough Hide. (melancholic with choleric aspect)*
+> 
+> **Boar**: The boar is wild and rough, and signifies fierceness. His thoughts are wild and unruly, too. *Virtues & Flaws: Berserk, Enduring Constitution, Ferocity (when cornered), Tough; Greedy, Wrathful (Minor). Qualities: Aggressive, Extra Natural Weapons (tusks), Hardy, Herd Animal, Tireless. (melancholic with choleric aspect)*
+> 
+> **Crow**: Soothsayers declare that the crow knows the paths of treachery, and can predict the future. Some say that God entrusts his secrets to the crow. Crows are known for their acrobatic flight. *Virtues & Flaws: Second Sight; Visions. Qualities: Accomplished Flyer, Crafty, Keen Vision, Mimicry, Vocal. (sanguine)*
+> 
+> **Dove**: A simple fowl and free from malice. It is a dainty and graceful eater, taking only the finest of grain. It is pursued by hawks, and uses mirrored surfaces to watch for their approach. Some believe that in every flock of doves, one is an angel. *Virtues & Flaws: Premonitions; Pious (Minor). Qualities: Timid (sanguine)*
+> 
+> **Eagle**: The eagle has such wonderful eyesight that nothing can be hidden from its gaze. When the eagle becomes old and its feathers dull, it flies to the height of heaven and burns off the dross of age until the feathers shine like fire. *Virtues & Flaws: Lesser Immunity (blindness), Piercing Gaze; Proud (Minor). Qualities: Extra Natural Weapons (claws), Fast Flyer, Keen Vision, Pursuit Predator. (sanguine with choleric aspect)*
+> 
+> **Eel**: Eels are born from mud. They are so slippery that the harder one holds on to them, the more quickly they slip away. *Qualities: Aquatic, Slippery x2. (phlegmatic)*
+> 
+> **Fox**: A fraudulent and ingenious animal who feigns death to attract the attention of curious birds for him to eat. He never runs in a straight line, but always by devious ways. *Virtues & Flaws: Perfect Balance; Nocturnal. Qualities: Ambush Predator, Crafty, Good Jumper, Keen Sense of Smell. (choleric with sanguine aspect)*
+> 
+> **Goat, Wild**: A goat's eyes are very acute. They are the best climbers of all creatures, and the most sure-footed. The blood of a he-goat is said to be able to dissolve even diamond due to its excessive heat. *Virtues & Flaws: Perfect Balance, Long-Winded; Lecherous (Minor). Qualities: Aggressive, Extra Natural Weapons (horns), Hardy, Herd Animal, Keen Vision, Skilled Climber. (melancholic)*
+> 
+> **Hare**: Light-footed and swift-running, the hare is timid, and puts no trust in itself, but rather in God. *Virtues & Flaws: Ferocity (eluding predators); Pious (Minor). Qualities: Fast Runner, Good Jumper, Keen Sense of Smell, Timid. (melancholic with phlegmatic aspect)*
+> 
+> **Horse**: The spirit of a horse is great, it exults in the battlefield and is excited to fight by the sound of a trumpet. Its virility is extinguished if its mane is cut. *Virtues & Flaws: Improved Characteristics, Long-Winded; Fear (loud noises). Qualities: Imposing Appearance, Fast Runner, Good Jumper, Tireless. (choleric with melancholic aspect)*
+> 
+> **Lizard**: The lizard goes blind with age, but its sight is restored by the rising sun. There are several types of lizard; the *salamander* is proofed against fire, the *newt* is the enemy of poisonous creatures, and the *botrox* has a frog's face. Most lizards are venomous, but their venom is stronger during the day when they are warm. If a lizard is cut in twain, the parts scramble around until they find each other again, and rejoin. *Virtues & Flaws: Greater Immunity (fire or poison), Rapid Convalescence; Depressed, Poor Eyesight. Qualities: Camouflage, Slippery, Venomous. (phlegmatic with sanguine aspect)*
+> 
+> **Otter**: The otter has a playful and frivolous disposition, but is nevertheless the enemy of crocodiles, which he climbs inside and eats. *Virtues & Flaws: Ferocity (against water creatures), Puissant Swim; Carefree. Qualities: Amphibious, Pursuit Predator. (phlegmatic with melancholic aspect)*
+> 
+> **Partridge**; The female partridge secures protective coloration by clever Camouflage, hiding their eggs from predators and her husband, who is a disgusting creature consumed by lust. As a devoted mother, the partridge feigns injury to distract foxes from her young. *Virtues & Flaws: Puissant Stealth; Fragile Constitution. Qualities: Camouflage, Timid. (sanguine)*
+> 
+> **Salmon**: A wise fish who feeds on the nuts of the hazel bush. Some say that the salmon is the oldest creature on earth. *Virtues & Flaws: Improved Characteristics, Intuition, Unaging; Compassionate (Minor). Qualities: Aquatic, Slippery. (phlegmatic)*
+> 
+> **Stag**: Stags are a symbol of health; they are able to restore themselves from old age by eating venomous serpents. They have the keenest of hearing. They have kings, whom they obey. *Virtues & Flaws: Improved Characteristics, Unaging; Higher Purpose (protect the herd); Dutybound. Qualities: Defensive Fighter, Extra Natural Weapons (antlers), Fast Runner, Good Jumper, Large Antlers, Sharp Ears. (choleric with melancholic aspect)*
+> 
+> **Swan**: The swan is good luck to those who make their living on water. Swans have the sweetness of music. They are strong flyers and able to cross vast distances. *Virtues & Flaws: Luck, Inspirational, Puissant Music; Humble. Qualities: Accomplished Flyer, Timid, Vocal x2. (sanguine with phlegmatic aspect)*
+> 
+> **Weasel**: The weasel is a hunter of snakes and mice. Weasels are skilled in healing. *Virtues & Flaws: Greater Purifying Touch (venom); Short Attention Span. Qualities: Aggressive, Fast Runner, Pursuit Predator, Skilled Climber. (choleric with sanguine aspect)*
+> 
+> **Wolf**: Wolves are well known for their rapacity and keep their strength in their chest and jaws. They can live on anything — plants, soil, even the wind — but it is flesh they like the most. Should a wolf gaze upon its prey, the creature is paralyzed and struck dumb; if the prey sees the wolf first, it is the wolf who cannot run. *Virtues & Flaws: Ferocity (against livestock), Improved Characteristics x2, Long-Winded; Compulsion (killing), Infamous. Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal. (choleric)*
+
 # Chapter Two: House Criamon
 
 *You are already immortal. Time forms a great Circle. Every life is repeated, identical in every breath, each cycle of time.*
@@ -1838,7 +1799,7 @@ Criamon's followers do not accept that they are superior to other humans. Abando
 
 Criamon's followers have dedicated themselves to finding the answer. They acquire knowledge, to formulate possible answers. They seek wisdom, to discern the quality of the information they have uncovered. The search for the Enigma's solution may take many centuries. During the interim, Criamon magi live as aptly as they can. They believe that a degraded spirit is unlikely to comprehend the answer.
 
-> ## Key Facts
+> ### Key Facts
 > 
 > **Population**: The house has 94 living members, divided into seven groups called clutches. A clutch consists of all the Criamon magi in a Tribunal. In the early years of the Order each clutch lived as a covenant, and followed a unique lifestyle and series of Initiations, called a path. In 1220, each clutch still has strong links to its original path, though all but one have members from other paths. Each clutch still has a covenant that is considered its center, but some of these are no longer House covenants. Some magi are wanderers: they are part of a clutch, but do not live with other Criamon magi. These magi, usually young, live in mixed House covenants and visit their clutches occasionally, to transmit their insights and receive instruction. Two paths have no clutch.
 > 
@@ -1851,6 +1812,14 @@ Criamon's followers have dedicated themselves to finding the answer. They acquir
 > **Motto**: *The World Within is the World Without*. If members of the House ever come to a consensus on the motto's meaning, they will choose a new one.
 > 
 > **Symbol**: The Loop of the Infinite in the Eye of Time is the current symbol of the House. This abbreviates the older symbol, a chain forming a figure of eight around a pair of hands. These represented the bound wrists of the Greek goddess Ananke. The Greeks never worshiped Ananke, the goddess of inevitability, because she could not choose to grant favors to her worshipers. Some Criamon ghosts have scaly marks on their wrists: these represented the coils of Kronos, the Greek representation of time in serpent form.
+
+> ### Famous Magi
+> 
+> **Juliasta,** as the successor of the first Founder to pass from office, was the first Prima of any House. She evangelized the House's beliefs and rounded out its knowledge of the Arts.
+> 
+> **Vederis** wrote *The Travels of Fedoso,* a classic work of esoteric lore.
+> 
+> **Abdkypris** discovered the links between his House's beliefs and Sufism.
 
 ## The Founder
 
@@ -1876,17 +1845,9 @@ Most non-Criamon magi think Empedocles was delusional. He played a pivotal role 
 
 Empedocles believed time continues forever in cycles. He saw this as a guarantee of immortality and ascent to godhood. Criamon magi view circular time as an unguarded prison, from which they should mastermind a jailbreak. Each view assumes that changes in the comparative strength of two opposing forces drive the cycle of time. The forces are harmony, which promotes cohesion, and strife, which promotes separation. The Art of Creo reflects harmony. The Art of Perdo reflects strife. The Art of Vim, and magic itself, reflects the energy released as harmony yields to strife. Most Criamon magi expect harmony to continue to yield to strife for at least the next few thousand years, and possibly for far longer.
 
-> ## Famous Magi
-> 
-> **Juliasta,** as the successor of the first Founder to pass from office, was the first Prima of any House. She evangelized the House's beliefs and rounded out its knowledge of the Arts.
-> 
-> **Vederis** wrote *The Travels of Fedoso,* a classic work of esoteric lore.
-> 
-> **Abdkypris** discovered the links between his House's beliefs and Sufism.
-
 Time is a circle so it has no beginning, but for the sake of explanation, imagine that the universe begins as an enormous sphere of undifferentiated matter. This sphere is bound together by the force of harmony. The House calls this state of the universe the Spharios. Time begins when strife, the force that separates, comes to the Spharios, bringing change. Strife, and change, intensifies over time. The Spharios divides into the four elements. As strife increases, the four elements take thousands of years to mix into increasingly elaborate patterns, creating everything. Simple life then appears as roaming, independent organs. Over time, these organs merge, creating complex organisms. The elaboration of the universe, and the life within it, continues for innumerable thousands of years, until the environment becomes too random to support life, and life forms become too incoherent to remain whole. Life is extinguished. The universe descends into a churning maelstrom of complete strife: the whirl of chaos. Harmony then acts on the whirl. It draws matter into differentiated lumps. Things become increasingly discrete, and life appears as environments become able to support it. Over epochs, each generation is fractionally more simple and pure. Eventually, the environment
 
-> ## Glossary
+> ### Glossary
 > 
 > **Adulteration:** A creature or place created from the psychic detritus of a magus, particularly one who has entered Final Twilight.
 > 
@@ -1942,10 +1903,17 @@ Criamon found a refuge outside the circle of time. His followers call this refug
 
 Criamon remains partially within time, holding the Twilight road open. This is arduous, and Criamon's strength must eventually fail. By posing the Enigma, Criamon asked his followers to rescue him from his self-imposed duty. Criamon suffers to allow his followers to escape time, while they work to free him from his labor.
 
+> ### Empedocles Was Sometimes Wrong
+> 
+> In the standard **Ars Magica** setting, Empedocles's disputed conclusions are wrong. Time is not cyclical. There never was a Spharios. There is no race of reincarnating immortals. In general, when the cosmology given in this chapter contradicts that given in other **Ars Magica** supplements, that is because the Criamon are wrong.
+> 
+> Even so, Criamon magi believe Empedocles's conclusions. Spurred by their logical consequence — that time is a prison — they have sought strange states of magical consciousness in their effort to escape. These researches have yielded mystical abilities unique to their House. The Criamon create a coherent cosmology out of their insights, but use their House's beliefs as its basis. To an omniscient observer the Criamon are the most enlightened magi, and yet simultaneously the most self-deluded. They do not have the Delusion Flaw because there is no way for their error to be demonstrated within the usual game setting.
+> 
+> In your own saga, however, the Criamon magi might be right.
+
 #### The Hypostasis
 
 The Hypostasis, also called Twilight or the Alam of Repose, is whatever lies outside time. Criamon assured his followers that it is a wonderful place and that he is guaranteeing their ability to find final rest there. Criamon magi believe that those who fall into Final Twilight enter the fringes of Hypostasis. If they have impure spirits, they require lengthy and painful adjustment before they can enter it fully. This is one of the motivators for ethical behavior by Criamon magi. Criamon magi call those who are believed to live in the Hypostasis the "tangential magi."
-
 
 #### The Counter - Cyclical Alam
 
@@ -1954,20 +1922,6 @@ If time is circular, all time exists simultaneously to an observer outside the c
 The majority of characters who claim to have visited the counter-cyclic alam have done so during uncontrolled Twilight experiences. A few other magi claim to have spoken to or combated creatures from the counter-cycle. Those who doubt the existence of a counter-cyclical alam suggest that the travel experiences magi report are Twilight-induced hallucinations, and the creatures that seem countercyclic are adulterations (psychic debris, described below). The mental detritus of older Criamon magi, they suggest, deludes younger Criamon magi.
 
 Criamon magi differ on what the counter-cyclical alam is. Some say it is utterly mundane, lacking the strife necessary for magic. Others suggest that in the counter-cyclical alam, it is easier to create than destroy. They posit that the alam of Forms is the counter-cycle close to the reformation of the Spharios, which makes the Magic realm counter-cyclical. Some suggest Faerie is counter-cyclical. Some suggest that they are in the time of rising harmony already, or that there is but a single universe which oscillates between extremes, which complicates the discussion enormously. The counter-cycle of time should last around 45,000 years, so it may contain many strange environments.
-
-> ## Empedocles Was Sometimes Wrong
-> 
-> In the standard **Ars Magica** setting, Empedocles's disputed conclusions are wrong. Time is not cyclical. There never was a Spharios. There is no race of reincarnating immortals. In general, when the cosmology given in this chapter contradicts that given in other **Ars Magica** supplements, that is because the Criamon are wrong.
-> 
-> Even so, Criamon magi believe Empedocles's conclusions. Spurred by their logical consequence — that time is a prison — they have sought strange states of magical consciousness in their effort to escape. These researches have yielded mystical abilities unique to their House. The Criamon create a coherent cosmology out of their insights, but use their House's beliefs as its basis. To an omniscient observer the Criamon are the most enlightened magi, and yet simultaneously the most self-deluded. They do not have the Delusion Flaw because there is no way for their error to be demonstrated within the usual game setting.
-> 
-> In your own saga, however, the Criamon magi might be right.
-
-> ## Cosmology for Criamon Magi
-> 
-> Criamon magi do not all agree on a single cosmology, but the view presented in this chapter is typical. Magi from other Houses, it should be noted, do not agree with Criamon beliefs. The House's view on how the universe really works colors the reactions of its members to the representatives of the realms that they encounter during stories.
-> 
-> Criamon magi have encountered many strange states of being, and conjectured the existence of many more. They use the term alam for mystical states that are so divorced from the mundane world that their alignment to the four realms is debatable. Two alams, the Hypostasis and counter-cyclical alam, play fundamental roles in Criamon cosmology.
 
 #### The Realm of Magic
 
@@ -1989,9 +1943,19 @@ Some Criamon magi worry that they caused Hell, and others that they are its resi
 
 Criamon magi are divided in their opinion of Jesus. Some are Muslims or Christians, and accept him as a prophet or as the son of the creator of the universe who has come with a way to step outside time. Others feel he is a tangential immortal that can take his followers to the time of the Spharios, but not permanently. The Christian holy book says that the Devil must be loosed again, thousands of years after the coming of the new Earth (Revelation 20:3). A third possibility is that Jesus was a master of harmony, and that the Dominion is an active expression of the force that lies opposed to strife and thus magic. Some Criamon seek to serve this force. The rest of the House know this will extend the life of the universe, which they favor.
 
+> ### Cosmology for Criamon Magi
+> 
+> Criamon magi do not all agree on a single cosmology, but the view presented in this chapter is typical. Magi from other Houses, it should be noted, do not agree with Criamon beliefs. The House's view on how the universe really works colors the reactions of its members to the representatives of the realms that they encounter during stories.
+> 
+> Criamon magi have encountered many strange states of being, and conjectured the existence of many more. They use the term alam for mystical states that are so divorced from the mundane world that their alignment to the four realms is debatable. Two alams, the Hypostasis and counter-cyclical alam, play fundamental roles in Criamon cosmology.
+
 ## Practices & Beliefs
 
 For centuries, the House has continued the task set for it by Criamon: seeking a better way to escape the cycle of time. Criamon magi examine the universe, because they need to understand how the prison of time is constructed and what tools are available to aid escape. They probe the mystical potential of humans, and develop their own abilities, in the hope of discovering hidden aptitudes that will make escape easier. They also consider the nature of the bonds that hold humans within time and investigate places and mental states where the mundane constraints do not apply. A body of proven techniques based on House Criamon's understanding of these underlying facts, collectively called "Enigmatic Wisdom," guides the acquisition of further information.
+
+> ### Enigmatic Wisdom For Magi From Other Houses
+> 
+> Magi from outside the House may study for a year with a magus, or one of the ghosts at the Cave of Twisting Shadows, and gain the Enigmatic Wisdom Ability, with a score of one. The Primus may offer those who complete such a course of study membership in House Criamon, if they desire it. The House has occasionally offered membership to those unfairly ejected from other Houses, regardless of their degree of Enigmatic Wisdom, to protect them from the death penalty that usually follows living a year without a House. The descendants of these magi eventually develop Enigmatic Wisdom, but a few current Criamon magi lack tattoos and do not understand the riddles. Muscaria uses them as informal ambassadors and investigators.
 
 ### Apt Action
 
@@ -2015,23 +1979,11 @@ The word "riddle" has a second meaning that illuminates the function of Criamon 
 
 An apprentice who is ready to become a magus is asked the Riddle of the Magus. The Riddle of the Magus varies between teachers, but usually asks the apprentice to identify the correct path, for her, going forward. Examples include "What is apt?" "What lies before your feet?" or "What must you leave behind?" Superficially, the apprentice cannot fail, because any answer is acceptable. This is because Criamon magi do not ask this Riddle of those unready for life as a magus. Even in this case, there are shallow and deep answers. The shallow answer is whatever the new magus says, the deep one is whatever she does, for the rest of her life.
 
-> Some shallow answers to the Riddle of the Magus indicate a desire to follow one of the traditions of mystical study within the House. These traditions are called the paths, and a few are described in detail at the end of this chapter. Any character with a score of one in Enigmatic Wisdom can name the paths, describe what their adherents believe, and explain how they aid the quest for the answer to the Enigma. Some apprentices delay their choice of path indefinitely, and while indecisive, engage in practices they will later discard as inapt.
+Some shallow answers to the Riddle of the Magus indicate a desire to follow one of the traditions of mystical study within the House. These traditions are called the paths, and a few are described in detail at the end of this chapter. Any character with a score of one in Enigmatic Wisdom can name the paths, describe what their adherents believe, and explain how they aid the quest for the answer to the Enigma. Some apprentices delay their choice of path indefinitely, and while indecisive, engage in practices they will later discard as inapt.
 
-> The House's strange method for acknowledging new magi — which the pacifistic Criamon do not call a Gauntlet, as other Houses do — is a formality. It comforts the other Houses, who often prefer a sharp division between those protected by the Code, and those owned by magi. All who have sufficient wisdom to aid the House are welcome to do so, and have the same status. Those who find their wisdom insufficient for the challenges they face may resume study with a master, and this causes no embarrassment.
+The House's strange method for acknowledging new magi — which the pacifistic Criamon do not call a Gauntlet, as other Houses do — is a formality. It comforts the other Houses, who often prefer a sharp division between those protected by the Code, and those owned by magi. All who have sufficient wisdom to aid the House are welcome to do so, and have the same status. Those who find their wisdom insufficient for the challenges they face may resume study with a master, and this causes no embarrassment.
 
-#### Rolls for Riddles
-
-Players not wishing to roleplay composing or answering riddles can simulate these activities with Ability rolls. (Though such players might also prefer to play magi from other Houses, instead.) They roll Intelligence + Enigmatic Wisdom, against an Ease Factor that varies between three and 25, depending on the complexity of the riddle. If composing a riddle, the magus knows the text immediately, taking a few moments to convert his idea into expressible form. If answering a riddle, the magus knows the shallow answer immediately, and grasps the deep meaning of the Riddle after about a year of occasional consideration.
-
-> ## Enigmatic Wisdom For Magi From Other Houses
-> 
-> Magi from outside the House may study for a year with a magus, or one of the ghosts at the Cave of Twisting Shadows, and gain the Enigmatic Wisdom Ability, with a score of one. The Primus may offer those who complete such a course of study membership in House Criamon, if they desire it. The House has occasionally offered membership to those unfairly ejected from other Houses, regardless of their degree of Enigmatic Wisdom, to protect them from the death penalty that usually follows living a year without a House. The descendants of these magi eventually develop Enigmatic Wisdom, but a few current Criamon magi lack tattoos and do not understand the riddles. Muscaria uses them as informal ambassadors and investigators.
-
-A magus who has completed his apprenticeship is given a riddle by his master, which he ponders while continuing along his path. When the magus feels that he has exhausted the usefulness of the riddle, represented by gaining a Mystery Virtue (called a station by this House) or an increase in Enigmatic Wisdom score, the magus returns to his clutch and is given a new riddle. If the answer he has found is novel, it is sent to the Central Clutch.
-
-Over the centuries, answers accrue. This lowers the Ease Factor of Enigmatic Wisdom rolls. No character will live long enough to notice this effect, unless the House makes a major advance in the quest for the answer, but magi consulting books of ancient riddles will find them interesting, but not particularly illuminating. This is one of the reasons that Criamon magi do not venerate age: the wisdom of the past is imperfect, or the answer would be known.
-
-> ## Examples of Criamon Apprentice Riddles
+> #### Examples of Criamon Apprentice Riddles
 > 
 > The deep answer to a Criamon riddle reflects a spiritual state that has blossomed in the magus, not the quickness of his mind or the eloquence of his speech. There are many correct, shallow answers to any riddle, but answers illuminate truths; they are more than an opinion. The following answers are, therefore, not definitive, but illuminate the simplest of the House's beliefs.
 > 
@@ -2059,7 +2011,15 @@ Over the centuries, answers accrue. This lowers the Ease Factor of Enigmatic Wis
 > 
 > "Everything: even today."
 
-### riddles Predict conflict
+#### Rolls for Riddles
+
+Players not wishing to roleplay composing or answering riddles can simulate these activities with Ability rolls. (Though such players might also prefer to play magi from other Houses, instead.) They roll Intelligence + Enigmatic Wisdom, against an Ease Factor that varies between three and 25, depending on the complexity of the riddle. If composing a riddle, the magus knows the text immediately, taking a few moments to convert his idea into expressible form. If answering a riddle, the magus knows the shallow answer immediately, and grasps the deep meaning of the Riddle after about a year of occasional consideration.
+
+A magus who has completed his apprenticeship is given a riddle by his master, which he ponders while continuing along his path. When the magus feels that he has exhausted the usefulness of the riddle, represented by gaining a Mystery Virtue (called a station by this House) or an increase in Enigmatic Wisdom score, the magus returns to his clutch and is given a new riddle. If the answer he has found is novel, it is sent to the Central Clutch.
+
+Over the centuries, answers accrue. This lowers the Ease Factor of Enigmatic Wisdom rolls. No character will live long enough to notice this effect, unless the House makes a major advance in the quest for the answer, but magi consulting books of ancient riddles will find them interesting, but not particularly illuminating. This is one of the reasons that Criamon magi do not venerate age: the wisdom of the past is imperfect, or the answer would be known.
+
+#### Riddles Predict conflict
 
 Many Criamon magi face difficult situations that suit their riddles perfectly. Criamon magi believe this providential luck reflects the guidance of tangential magi who dwell outside time. An argumentative Tytalus magus once put the counter case succinctly: "If you spend all of your time thinking about beer, then everything reminds you of beer." He was annoyed when "What reminds you of beer?" became a Criamon teaching riddle.
 
@@ -2077,6 +2037,12 @@ Certain symbols repeat across the bodies of the House's members: the most common
 
 Other forms of body modification find temporary popularity in the House, but most members think Criamon's teachings forbid them. Criamon was branded repeatedly by his teacher, and suffered other physical mutilations. Criamon magi still know how to do these things, but have been told that these external interventions offer only power, not wisdom, and so they are a distraction that should not be pursued. A few Criamon magi do not heed this prohibition, because the House does not enforce it. Their apprentices are more disfigured, and psychologically damaged, than usual for a Criamon magus. One example is the current Prima, whose child-like appearance came about through a form of magical body modification.
 
+> #### Stigmata for Outsiders
+> 
+> Players interested in religious matters may be aware that the term "stigmata" is also used for the miraculous appearance of the wounds of Christ upon the bodies of the faithful. This has yet to occur in Mythic Europe: the first documented case will be in 1222 in England, if your saga follows real world history. The first famous case, Saint Francis of Assisi, develops in 1224. His wounds are unusual, in that they are lumps of flesh on his hands that take the shape of nail heads on one side of the hand, and sharp nail points on the other. Later, bleeding wounds become the usual form of stigmata. Unlike Criamon stigmata, these hurt and often smell like jasmine.
+> 
+> Magical stigmata, like those possessed by House Criamon's members, sometimes appear on magi from other Houses. Each stigma usually represents a single, terrible incident that influences the magus for the remainder of his life. Rarely, Gifted children develop stigmata before the Order discovers them. One form, blotches that look like bruising, sometimes appears in newborns. The House prizes these children as apprentices.
+
 ### Body Modification Rules
 
 Magi from many Houses understand these techniques, but Criamon magi are those most likely to use them to modify themselves and their apprentices.
@@ -2089,22 +2055,15 @@ Tattoos do not have wide favor in Mythic Europe. The Book of Leviticus states th
 
 The typical Criamon magus, covered in designs, is thought to be a sinner deformed by his own acts. A single visible tattoo is sufficient to earn the Disfigured flaw, being more ugly than a scar to most medieval people, since it cannot be an accident. Some young Criamon magi are not Disfigured, though, because their marks have appeared in locations usually concealed by clothing.
 
-#### Other Modifications
-
-Head binding causes the most common disfigurement in the House, excluding stigmata. A tight bandage is tied around the head of a child, to warp his developing skull. A magus whose skull has been altered during infancy has an aptitude for a single path symbolically linked to that particular skull shape. This acts as a +3 bonus for his Initiation Script for the first station (Mystery Virtue) of that path. The commonest skull shapes, the cone and double-lobed, suit the Path of Seeming and the Path of the Body respectively. The paths are described in detail at the end of this chapter. Other rituals of modification, for example castrations, breaking of bones, and severing patterns of finger and toe joints, have similar effects. Most Criamon find these modifications distasteful.
-
-> ## Stigmata for Outsiders
-> 
-> Players interested in religious matters may be aware that the term "stigmata" is also used for the miraculous appearance of the wounds of Christ upon the bodies of the faithful. This has yet to occur in Mythic Europe: the first documented case will be in 1222 in England, if your saga follows real world history. The first famous case, Saint Francis of Assisi, develops in 1224. His wounds are unusual, in that they are lumps of flesh on his hands that take the shape of nail heads on one side of the hand, and sharp nail points on the other. Later, bleeding wounds become the usual form of stigmata. Unlike Criamon stigmata, these hurt and often smell like jasmine.
-> 
-> Magical stigmata, like those possessed by House Criamon's members, sometimes appear on magi from other Houses. Each stigma usually represents a single, terrible incident that influences the magus for the remainder of his life. Rarely, Gifted children develop stigmata before the Order discovers them. One form, blotches that look like bruising, sometimes appears in newborns. The House prizes these children as apprentices.
-
-
-> ## Enchanting Tattoos
+> #### Enchanting Tattoos
 > 
 > The rules given here are for simple tattoos used as enchanted items. *The Mysteries Revised Edition* gives an alternative system using a Minor Virtue called Inscription on the Soul, which is too lengthy for repetition. It allows magi to craft their own bodies into talismans. Members of the House may learn Inscription on the Soul from other Criamon magi, or from the ghosts at the Cave of Twisting Shadows. It is common only among House members following the Path of the Body, described later.
 > 
 > A tattoo has a base material score of 2, multiplied by a size modifier. A tiny tattoo has a multiplier of one. A tattoo the size of the magus's palm or forehead has a multiplier of two. A tattoo that entirely covers a limb, or the scalp, has a multiplier of three. A tattoo that entirely covers the back or front of the torso has a multiplier of four. A tattoo is designed as personal magic, so it does not cause Warping. Tattoos may gain material bonuses by use of unusual inks, or by depictions of mystically resonant subjects. With minor modifications, these rules also describe the effects of mystical branding.
+
+#### Other Modifications
+
+Head binding causes the most common disfigurement in the House, excluding stigmata. A tight bandage is tied around the head of a child, to warp his developing skull. A magus whose skull has been altered during infancy has an aptitude for a single path symbolically linked to that particular skull shape. This acts as a +3 bonus for his Initiation Script for the first station (Mystery Virtue) of that path. The commonest skull shapes, the cone and double-lobed, suit the Path of Seeming and the Path of the Body respectively. The paths are described in detail at the end of this chapter. Other rituals of modification, for example castrations, breaking of bones, and severing patterns of finger and toe joints, have similar effects. Most Criamon find these modifications distasteful.
 
 ### Life as a Criamon Magus
 
@@ -2112,7 +2071,6 @@ Individual Criamon magi have many goals. These include:
 
 - Living an apt life. This can lead magi into stories that require them to solve personal problems.
 - Meddling with mundane events so that their outcomes are apt. Criamon magi are democrats and believe people should help each other, but are also pacifists. Warriors rule Mythic Europe, and monsters infest it, so Criamon magi must act delicately to aid others while remaining inconspicuous.
-
 - Supporting other members of the House. Criamon magi maintain close connections to the other members of the House in their Tribunal, and to their masters. They aid these people, or their friends, when trouble comes.
 - Training an apprentice and taking a familiar. Criamon magi believe in reincarnation, so they see these acts as helping other immortals edge closer to magushood.
 - Hunting adulterations. Magi generate these embodiments of confusion, and Criamon magi destroy them. They are described in greater detail later in the chapter.
@@ -2120,12 +2078,6 @@ Individual Criamon magi have many goals. These include:
 - Exploring strange places, investigating unusual magical effects, and studying odd mystical creatures. Criamon magi know that the House has already investigated many sites. Dangerous and weird places, newly discovered, offer the promise of novel insights that could aid the House.
 - Following a path to gain its wisdom and Mystery Virtues. The paths are detailed at the end of the chapter.
 - Passing on wisdom acquired. This is called transmission.
-
-> ## Repose: House Criamon's Alternative to Death
-> 
-> Every path of Initiation into the House's Mysteries ends at a place where the magus ceases to strive. This is a point of blessedness and bliss. A conundrum recognized by many Criamon magi is this: to become so wise as to deserve repose, a magus must develop such compassion for other people that he cannot leave them to suffer. Most magi hold off repose so that they may aid others in the quest for the answer.
-> 
-> The different paths that members of the House follow end in different paradisaical states. The repose of each path is described at the end of that path's section, as are the powers granted to those who stand at the threshold of repose, choosing to abstain from bliss. These powers are simple but sweeping. Troupes desiring more limited and detailed powers may prefer those found for immortal magi in *The Mysteries Revised Edition.*
 
 ### The Gorgiastics
 
@@ -2141,21 +2093,13 @@ Transmission is the process through which a magus passes what he has learned on 
 
 Some magi, fading into their path's repose, have perfect transmissions. In this instant, the magus's wisdom is encapsulated into a place or object, from which other Criamon magi may study, by contemplation. The covenants built in these Magical auras seem destined to play out tales that are allegories to the insights of the magus. Places of perfect transmission can be designed using rules given in *Covenants* Chapter 7: Libraries. As a simple alternative, treat the place as if it were an excellent book the magus wrote in the instant of entering Twilight, which a student reads by spending time meditating in its presence.
 
-#### Perfect transMission site exaMPle
+> #### Repose: House Criamon's Alternative to Death
+> 
+> Every path of Initiation into the House's Mysteries ends at a place where the magus ceases to strive. This is a point of blessedness and bliss. A conundrum recognized by many Criamon magi is this: to become so wise as to deserve repose, a magus must develop such compassion for other people that he cannot leave them to suffer. Most magi hold off repose so that they may aid others in the quest for the answer.
+> 
+> The different paths that members of the House follow end in different paradisaical states. The repose of each path is described at the end of that path's section, as are the powers granted to those who stand at the threshold of repose, choosing to abstain from bliss. These powers are simple but sweeping. Troupes desiring more limited and detailed powers may prefer those found for immortal magi in *The Mysteries Revised Edition.*
 
-One site, particularly popular in the House, was created by the transmission of the Maga Niobe, who longed to be Prima but was never selected by the communal vision. As she faded into Twilight, a small pond appeared around her feet. A magus with Enigmatic Wisdom who meditates at this spring for a season can study from it. Use the rules for studying a pawn of vis in a standard laboratory, with no possibility of experimentation. The magus may study any Art in which he lacks the knowledge to train an apprentice (a score of 5). Several magi may use the pool simultaneously, but all must study the same Art in a given season. The area about the pool has a Magical aura of 1.
-
-### Adulterations: Lingering Problems
-
-Adulterations are impurities from the minds of magi, made solid and real by mystical forces. Criamon magi believe these creatures are usually created when magi fade into Final Twilight. They also attribute adulterations to poor Twilight experiences, magical trauma, the death of apprentices, and the loss of familiars. Whatever a specific adulteration's cause, each reflects an unresolved psychological issue, and is best destroyed by resolving that issue.
-
-Members of House Criamon believe that when magi ascend into Final Twilight, they have moments of self-realization and definition. They shed all of those parts of themselves that they do not wish to carry into eternity. These pieces � usually fears or aspirations — fall back into the mortal world. These unwanted thoughts take material form, becoming adulterations, which allows other magi to deal with them.
-
-A second source of adulterations is uncontrolled Twilight experiences. These adulterations are manifestations of thoughts dredged from magi by the stress of Twilight. This potential Twilight consequence should be considered an addition to the list of bad Twilight effects on ArM5, page 89. These adulterations are drawn to the magus who created them. If he resolves the adulteration, the magus is freed from the burden that it represents. In exceptional cases, a magus resolving a major adulteration gains a benefit from the list of positive Twilight outcomes that suits his recent experiences. Other forms of magical trauma, for example laboratory accidents, also sometimes create adulterations.
-
-The death of an apprentice, Criamon magi believe, is particularly tragic. Apprentices cannot enter the Hypostasis, but nevertheless have powerful, active magical potential. This often becomes an adulteration, which seeks out the former apprentice's master. It is said that one of the malignancies, which are the greatest adulterations, is an apprentice of Criamon's who died. It haunts the Order, killing other apprentices so that they, too, spawn adulterations.
-
-> ## Life on the Threshold of Repose
+> #### Life on the Threshold of Repose
 > 
 > To the unwise, characters on the threshold of repose seem to neglect their powers. They ignore problems well within their capabilities, instead advising and mentoring their juniors in resolving them. But to the wise, guided by allies outside time, life follows obvious patterns. Criamon elders act as mentors because waiting for the younger person, and then guiding his destiny, is the better strategy for the House. In addition to seeing problems solved — eventually — it trains and enlightens the next generation. This method also recognizes that the wisdom of the House is imperfect, and the novel insights of the young draw it closer to flawlessness.
 > 
@@ -2171,7 +2115,21 @@ The death of an apprentice, Criamon magi believe, is particularly tragic. Appren
 > - Resolving complex situational adulterations.
 > - Seeking ancient Mysteries.
 
-> ## Designing Adulterations
+#### Perfect Transission Site Example
+
+One site, particularly popular in the House, was created by the transmission of the Maga Niobe, who longed to be Prima but was never selected by the communal vision. As she faded into Twilight, a small pond appeared around her feet. A magus with Enigmatic Wisdom who meditates at this spring for a season can study from it. Use the rules for studying a pawn of vis in a standard laboratory, with no possibility of experimentation. The magus may study any Art in which he lacks the knowledge to train an apprentice (a score of 5). Several magi may use the pool simultaneously, but all must study the same Art in a given season. The area about the pool has a Magical aura of 1.
+
+### Adulterations: Lingering Problems
+
+Adulterations are impurities from the minds of magi, made solid and real by mystical forces. Criamon magi believe these creatures are usually created when magi fade into Final Twilight. They also attribute adulterations to poor Twilight experiences, magical trauma, the death of apprentices, and the loss of familiars. Whatever a specific adulteration's cause, each reflects an unresolved psychological issue, and is best destroyed by resolving that issue.
+
+Members of House Criamon believe that when magi ascend into Final Twilight, they have moments of self-realization and definition. They shed all of those parts of themselves that they do not wish to carry into eternity. These pieces � usually fears or aspirations — fall back into the mortal world. These unwanted thoughts take material form, becoming adulterations, which allows other magi to deal with them.
+
+A second source of adulterations is uncontrolled Twilight experiences. These adulterations are manifestations of thoughts dredged from magi by the stress of Twilight. This potential Twilight consequence should be considered an addition to the list of bad Twilight effects on ArM5, page 89. These adulterations are drawn to the magus who created them. If he resolves the adulteration, the magus is freed from the burden that it represents. In exceptional cases, a magus resolving a major adulteration gains a benefit from the list of positive Twilight outcomes that suits his recent experiences. Other forms of magical trauma, for example laboratory accidents, also sometimes create adulterations.
+
+The death of an apprentice, Criamon magi believe, is particularly tragic. Apprentices cannot enter the Hypostasis, but nevertheless have powerful, active magical potential. This often becomes an adulteration, which seeks out the former apprentice's master. It is said that one of the malignancies, which are the greatest adulterations, is an apprentice of Criamon's who died. It haunts the Order, killing other apprentices so that they, too, spawn adulterations.
+
+> ### Designing Adulterations
 > 
 > Adulterations vary in severity. The weakest adulterations are minor events and beings, spawned by a magus in Twilight, that draw the magus's attention to personal weaknesses. Severe adulterations include terrible monsters and deathtraps born of evil acts or deep, personal recrimination. The adulterations left behind by the tangential have no single magus on which to focus, so they become problematic for all.
 > 
@@ -2181,7 +2139,7 @@ The death of an apprentice, Criamon magi believe, is particularly tragic. Appren
 > 
 > Adulterous places are usually in regiones. Some adulterous regiones may be entered and resolved by anyone, but a few will not open save to their creator. Once a magus has created an adulterous place, she is fated to return to it, over and again, until she resolves the issue that lies at its heart. After resolution, the regio usually vanishes. This either draws the contents of the regio back into the ambient magical energy of the world, or deposits them in the mundane world. Situational adulterations drawn from Final Twilight sometimes create permanent regiones or auras after resolution.
 
-> ## Example: Introducing an Adulteration
+> ### Example: Introducing an Adulteration
 > 
 > Antigone of Criamon suffers a Twilight incident and fails her control roll. The storyguide considers the options given for bad Twilight effects in the core rulebook, but decides that an adulteration might suit the saga better. While some troupes groups prefer the storyguide not foreshadow upcoming stories, as this detracts from the surprise, other troupes enjoy discussing, in broad terms, where they see their saga going. The storyguide seeks input from Antigone's player, as this is usual for this particular troupe.
 > 
@@ -2235,7 +2193,7 @@ Many Criamon magi claim that *The Travels of Fedoso* is a map for the future of 
 
 The ghost of Verderis does not reside in the Cave of Twisting Shadows, one of only three Primi who are absent from the succession. He predicted that he would die away from the Cave of Twisting Shadows, and that his spirit would be lost for a time. He said he would be found, literally "netted in," as a harbinger of the coming answer. Many Criamon sought him in the early years of the House, interpreting sections of *The Travels of Fedoso* as clues to his whereabouts, but this is a less popular practice in 1220.
 
-> ## Story Seeds for The Travels of Fedoso
+> #### Story Seeds for The Travels of Fedoso
 > 
 > - Verderis has the Premonitions Virtue, and withheld passages of *The Travels of Fedoso.* The Redcaps deliver an ancient letter, scribed by him, that offers a paragraph to the player characters. Verderis foresees they are the people best suited to deal with the calamity it predicts.
 > - A final page of the book, which describes what Fedoso sees from the mountain, begins to circulate. It is a forgery, but who has created it, and why?
@@ -2269,17 +2227,11 @@ All Primi follow the Path of the Mirror. It is not described in detail in this c
 
 Members of the House also believe that a living Primus can draw the Axis Magica inside his own body and walk with it to another place. When the Primus enters Twilight, they believe, the Axis is re-established and the entire pattern of auras in Mythic Europe moves. This ability has either never been used, or perhaps was used by Criamon when he founded the covenant. While a magus incarnates the Axis Magica, they further believe, no other magus may return from Twilight. Those attempting to shelter there from magical harm cannot; they die instead.
 
-#### The Secret of the Axis Magica, and What Lies Beyond
-
-Most Hermetic magi know that House Criamon claims that their Founder waits for the answer to the Enigma so that he can, in good conscience, surrender the burden of keeping open the Twilight Road. Experienced Criamon magi understand the mechanics of the task: the Axis Magica is Criamon himself, transformed into a living bridge between this world and the sanctuary he discovered. Most think that Criamon is waiting for the House to find an alternative road. Some deduce that he is waiting for a messianic figure to take his place. A handful of magi suspect it is more complicated than that, and they are right.
-
-> ## Pacing
-> 
-> A maga typically follows a given path for much of her life, becoming an Initiate of the highest station only after decades of study. This slow pacing is important to the maga, because it gives her time to integrate and test her understanding with worldly experience. For players, it spreads the Criamon character's Initiation stories across the length of a saga. This helps troupes to balance the importance of different player characters in the troupe's saga. Troupes playing sagas in which characters do not age much, because very little time passes, might create skilled followers of a path as beginning characters.
-> 
-> The paths are more formal, and restrictive, than the Initiations of virtually any other Mystery Cult. This is because the Criamon cosmology is false: the House is less flexible because it can only reproduce those odd effects it has discovered. It cannot extrapolate broadly from them. Criamon magi see the formality of the House's structures as a method of intergenerational nurturance, however, believing that they offer only the best methods of Initiation.
-
-The Primi in the Cave of Twisting Shadows are not ghosts, they are a single spirit of place. The Primi feel that they are individuals, but on a mystical level they are a single being, deceiving itself. The spirit learns and grows as new magi join it. Few magi understand that the genius locus of which the Primi are part once a tortured child, who refuses to be reborn to suffer, ever again. Still fewer suspect that the Primi are, perhaps, building their own messiah. The answer might integrate the genius locus into a single mind.
+>#### The Secret of the Axis Magica, and What Lies Beyond
+>
+>Most Hermetic magi know that House Criamon claims that their Founder waits for the answer to the Enigma so that he can, in good conscience, surrender the burden of keeping open the Twilight Road. Experienced Criamon magi understand the mechanics of the task: the Axis Magica is Criamon himself, transformed into a living bridge between this world and the sanctuary he discovered. Most think that Criamon is waiting for the House to find an alternative road. Some deduce that he is waiting for a messianic figure to take his place. A handful of magi suspect it is more complicated than that, and they are right.
+>
+>The Primi in the Cave of Twisting Shadows are not ghosts, they are a single spirit of place. The Primi feel that they are individuals, but on a mystical level they are a single being, deceiving itself. The spirit learns and grows as new magi join it. Few magi understand that the genius locus of which the Primi are part once a tortured child, who refuses to be reborn to suffer, ever again. Still fewer suspect that the Primi are, perhaps, building their own messiah. The answer might integrate the genius locus into a single mind.
 
 In the Hypostasis, the Primi claim, dwell the tangential magi. These are magi who have faded peacefully into Final Twilight, or those whose traumatic Final Twilight episodes have been soothed. The tangential have plans for the House that mortals cannot understand since they lack sufficient Enigmatic Wisdom. The tangential send visions through the Axis to their mortal successors. Some of the creatures that rose with the tangential, familiars for example, can step back into the world and act without risking universal catastrophe. They arrange minor, precise, surreptitious aid for other Criamon magi.
 
@@ -2299,7 +2251,6 @@ A magus may follow only one path at a time. A path includes a mental framework t
 
 Most mystery cults enforce secrecy with dreadful oaths and terrible threats, but Criamon magi do not consider this necessary. The things that the House has discovered on the paths to the Enigma are so obscure that a magus not trained in the Criamon way of thinking, through the riddle technique, simply cannot understand them. Those with sufficient Enigmatic Wisdom to support the House's mission, conversely, are welcome to know them. Those who try to develop Enigmatic Wisdom outside of the structure of the House's beliefs and practices inevitably fail — the House has been molded by the Mysteries. This means that House Criamon does not have to hide its secrets; its secrets hide themselves.
 
-
 #### Enigmatic Wisdom and House Criamon Lore
 
 House Criamon's members have the Enigmatic Wisdom Ability, described in the core rules and elsewhere in this chapter, and House Criamon Lore. The latter Ability quantifies each magus's understanding of the House's task, and its strategy to reach its goal. This strategy encompasses the paths and stations, described below, but also includes the function of each of the clutches, and the roles of senior magi within the House.
@@ -2314,19 +2265,25 @@ Two exceptions are the Paths of the Mirror and Strife, which do have formal Init
 
 Each path described below divides into five grades of progress, called stations. Stations are psychological states that, because of the wisdom they provide, allow magi to understand profound insights. This, in turn, gives magi supernatural powers, which players use as Mystery Virtues. To Criamon magi, insight is the more important; the powers are mere effects of the process of increased enlightenment.
 
-> ## Psychodrama
+The process of reaching a new station is called following an avenue. Each avenue is a process of spiritual awakening, purification, and testing that is mechanically reflected by three elements. The magus must have a House Criamon Lore score of at least one more than the station's position on the path, undergo a trial or ritual investiture, and find insight in a story. This means that to reach the final station on the path, magi require a House Criamon Lore score of 6. This is usually only gained by extensive study at the Cave of Twisting Shadows, through instruction from the spectral embodiments of the House's collective lore, who guide the House's strategy.
+
+> #### Pacing
+> 
+> A maga typically follows a given path for much of her life, becoming an Initiate of the highest station only after decades of study. This slow pacing is important to the maga, because it gives her time to integrate and test her understanding with worldly experience. For players, it spreads the Criamon character's Initiation stories across the length of a saga. This helps troupes to balance the importance of different player characters in the troupe's saga. Troupes playing sagas in which characters do not age much, because very little time passes, might create skilled followers of a path as beginning characters.
+> 
+> The paths are more formal, and restrictive, than the Initiations of virtually any other Mystery Cult. This is because the Criamon cosmology is false: the House is less flexible because it can only reproduce those odd effects it has discovered. It cannot extrapolate broadly from them. Criamon magi see the formality of the House's structures as a method of intergenerational nurturance, however, believing that they offer only the best methods of Initiation.
+
+The Initiation Script calculations given below for each avenue assume the guide's Presence + House Criamon Lore score equals 6. The House selects guides for young magi, and ensures that satisfactory teaching is always available. The ghostly magi at the Cave of Twisting Shadows also sometimes act as guides. Assume that these have a House Criamon Lore score of 9, and a Presence reflecting that which they had in life. They prefer to allow the living members of the House to perform Initiations into the lower stations.
+
+A character proceeding on a path may find that she already has a Virtue or Flaw that lies on her route. The player should negotiate with the troupe to substitute another Virtue or Flaw, to balance the paths. It is possible for a magus to learn House Criamon Lore without developing the Flaws that typify the House, but all followers of the paths are eventually Disfigured, and all have either the Vow or Pious Flaw.
+
+> #### Psychodrama
 > 
 > Some of the avenues below require periods of introspection and meditation. Superficially, these times lack story potential: the magus is simply thinking. This underestimates the effort, and potential for failure, involved. Magi pausing to reflect are engaged in a process of excruciating self-examination that amounts to spiritual combat against the self. Player characters best experience this as an allegorical story that takes place in the mind of the magus.
 > 
 > For example, a magus sealed in a glass coffin for a year, in darkness, seems to have perfectly avoided any potential for story involvement. This is not the case: the magus, closed away from the petty distractions of life, has no choice but to confront his own nature and his role in the universe. He is forced to acknowledge, and replay repeatedly, his moments of greatest moral failure. He is constrained to confront the consequences of defects in his character and lifestyle, unflinchingly. He is compelled to explore the universe, his body, and the links between, despite the pain and perversity of the process. Many magi claim to meet ancient spirits in this state — Strife, Uncertainty, Harmony, Surety, Swiftness, and so on. Some magi generate fantastic delusional worlds that assist their minds to deal with such difficult concepts, and conventional stories can be played within them, remembering that each character in those stories and worlds is invested with profound allegorical meaning.
 > 
 > A magus who fails to complete this ordeal may not progress on his path. Often the magus may attempt the avenue again, assisted by knowledge gained through prior failure. Absolute failure during psychodramatic stories sometimes has terrible effects. The magus is in a mystical mental state, so failure can force checks for Twilight. Magi occasionally die during their meditations, leaving highly troubled ghosts.
-
-The process of reaching a new station is called following an avenue. Each avenue is a process of spiritual awakening, purification, and testing that is mechanically reflected by three elements. The magus must have a House Criamon Lore score of at least one more than the station's position on the path, undergo a trial or ritual investiture, and find insight in a story. This means that to reach the final station on the path, magi require a House Criamon Lore score of 6. This is usually only gained by extensive study at the Cave of Twisting Shadows, through instruction from the spectral embodiments of the House's collective lore, who guide the House's strategy.
-
-The Initiation Script calculations given below for each avenue assume the guide's Presence + House Criamon Lore score equals 6. The House selects guides for young magi, and ensures that satisfactory teaching is always available. The ghostly magi at the Cave of Twisting Shadows also sometimes act as guides. Assume that these have a House Criamon Lore score of 9, and a Presence reflecting that which they had in life. They prefer to allow the living members of the House to perform Initiations into the lower stations.
-
-A character proceeding on a path may find that she already has a Virtue or Flaw that lies on her route. The player should negotiate with the troupe to substitute another Virtue or Flaw, to balance the paths. It is possible for a magus to learn House Criamon Lore without developing the Flaws that typify the House, but all followers of the paths are eventually Disfigured, and all have either the Vow or Pious Flaw.
 
 #### To Do Is to Be. to Be Is to Do
 
@@ -2358,7 +2315,6 @@ Characters with an Enigmatic Wisdom score of three or more don't need a physical
 
 Criamon magi understand Twilight better than other magi, and so navigate it more safely. This is reflected in the Twilight rules given in ArM5, pages 88–89.
 
-
 ### The Path of the Body
 
 The Path of the Body focuses on the human form. Some Criamon magi believe that the human body and the universe reflect each other structurally, so that knowing the body illuminates the prison of time. Others enhance the body as a tool and as a vehicle for escape from the universe. The Criamon Path of the Body is in many ways the inverse of Hermetic alchemy, which assumes the universe is perfect and a magus who reflects it perfectly will become immortal. Criamon magi assume that the universe, like each body, is inevitably decaying.
@@ -2367,51 +2323,7 @@ The five usual stations on the Path of the Body, in their most common order, are
 
 The followers of the Path of the Body tend toward practical, useful insights. An unusually large proportion of the Primi of the House followed this Path. Primi who have achieved the Microcosmic Station on this path are active administrators under whom the House co-ordinates its ventures effectively.
 
-#### The Avenue of Subduing the Meat and the Station of the Perfect Tool
-
-Several ritual investitures assist magi to find the first station of the Path of the Body, each of which is descended from a different tradition of mystics adopted into the early House. Those following this avenue develop control over their bodies' desires and distractions, usually through painful mortifications, or fatiguing exertions, that last a year. A handful of magi have followed this avenue by being transformed into plants for a year. The avenue ends with a guide acting as midwife for a symbolic rebirth.
-
-> ## The Path of the Body, Expressed Symbolically
-> 
-> The Initiation Scripts for the Path of the Body are as follows:
-> 
-> #### The Avenue of Subduing the Meat and the Station of the Perfect Tool
-> 
-> Target level 21, as Major Virtue (Minor Potency in an aspect of Corpus, may use Enigmatic Wisdom in lieu of Medicine and Chirurgy)
-> 
-> Script Bonus +15: Major Ordeal comprising three minor Flaws (Vow to not pollute the body and to use it aptly, Deleterious Circumstances while ill, Disfigured by stigmata) +9, sympathetic bonus (a complete year cycle as a plant, or similar) +3, special time and place (symbolic rebirth) +3
-> 
-> #### The Avenue of Drinking the Winds of Inspiration and the Station of Spiritual Nourishment
-> 
-> See the note in the introductory section for this path to determine whether this is gained as the third station and Perfect Movement as the second.
-> 
-> Target level 12, as Major Virtue 21 (allows characters in high auras to not eat, drink, or sleep and replaces the longevity ritual), first Initiation after Major Ordeal –9
-> 
-> Script Bonus +6: Psychodramatic visions or conflict to secure a site (Quest) +3, special time and place +3
-> 
-> #### The Avenue of the Tiniest Seed and the Station of Perfect Economy of Movement
-> 
-> Target level 15, as Major Virtue 21 (perfectly precise movement), second Initiation after Major Ordeal –6
-> 
-> Script Bonus +9: Major Flaw (Pious) replaces Minor Flaw (Vow) +6, Mystagogue's time +3
-> 
-> #### The Avenue of the Spherical Mirror and the Station of the Microcosm
-> 
-> Target level 15, Major Virtue 21 (Arcane Connections to most things), first Initiation after Intermediate Ordeal –6
-> 
-> Script Bonus +9: Psychodramatic Quest +3, Mystagogue's time +3, special time and place +3
-> 
-> #### The Avenue of Repose in the Body and the Threshold of Corporeal Repose
-> 
-> Target level 17, Major Virtue 21 (purified of mortal frailties), second Initiation after Intermediate Ordeal –4
-> 
-> Script Bonus +12: Three Quests to legendary places +9, special time and place +3
-
-At the first station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic because it is adapted for magic, and magic, in turn, is adapted for it. The magus's close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding of magical events to minister to the body. They may use Enigmatic Wisdom in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.
-
-Initiates of this station are bound by the lifestyle of the House (Vow) and find it more difficult to use their magic when their body is ill (Deleterious Circumstances). Some illnesses do not block certain mystical effects; the usual example given is that fevers do not restrict Ignem spells because they are caused by a surplus of fiery humors. Wounds do not prevent magic use, of themselves, but open the body to infections, which may.
-
-> ## Path Symbolism
+> #### Path Symbolism
 > 
 > Magi on this path often favor the Art of Corpus, and many are skilled in Intellego, Creo or Rego. The other magi on this path note that the body represents the universe, and the universe contains the other Arts, so one may follow the Path of the Body while studying another Art.
 > 
@@ -2420,6 +2332,50 @@ Initiates of this station are bound by the lifestyle of the House (Vow) and find
 > Unlike the other paths, there is no discernible motif in the stigmata of the body. This may be because the body represents itself in the design. It might instead mean that the motif is very simple, and is disguised by multiple, seemingly random, expressions. The oldest magus on this path claims that the stigmata are dozens of randomly superimposed images of the constellation of Virgo, but he cannot prove it to the satisfaction of his sodales. Each mark seems to be made of darker skin, in Caucasian magi, or paler skin, in others. Newly emerged stigmata look pink and raw, but are painless.
 > 
 > Followers of this path often have apes or monkeys as familiars. It is considered particularly auspicious to have an Egyptian baboon, because the being known as both Thoth and Hermes took this shape when he descended into time to train the progenitors of human magic.
+
+> ### The Path of the Body, Expressed Symbolically
+> 
+> The Initiation Scripts for the Path of the Body are as follows:
+> 
+> **The Avenue of Subduing the Meat and the Station of the Perfect Tool**
+> 
+> Target level 21, as Major Virtue (Minor Potency in an aspect of Corpus, may use Enigmatic Wisdom in lieu of Medicine and Chirurgy)
+> 
+> Script Bonus +15: Major Ordeal comprising three minor Flaws (Vow to not pollute the body and to use it aptly, Deleterious Circumstances while ill, Disfigured by stigmata) +9, sympathetic bonus (a complete year cycle as a plant, or similar) +3, special time and place (symbolic rebirth) +3
+> 
+> **The Avenue of Drinking the Winds of Inspiration and the Station of Spiritual Nourishment**
+> 
+> See the note in the introductory section for this path to determine whether this is gained as the third station and Perfect Movement as the second.
+> 
+> Target level 12, as Major Virtue 21 (allows characters in high auras to not eat, drink, or sleep and replaces the longevity ritual), first Initiation after Major Ordeal –9
+> 
+> Script Bonus +6: Psychodramatic visions or conflict to secure a site (Quest) +3, special time and place +3
+> 
+> **The Avenue of the Tiniest Seed and the Station of Perfect Economy of Movement**
+> 
+> Target level 15, as Major Virtue 21 (perfectly precise movement), second Initiation after Major Ordeal –6
+> 
+> Script Bonus +9: Major Flaw (Pious) replaces Minor Flaw (Vow) +6, Mystagogue's time +3
+> 
+> **The Avenue of the Spherical Mirror and the Station of the Microcosm**
+> 
+> Target level 15, Major Virtue 21 (Arcane Connections to most things), first Initiation after Intermediate Ordeal –6
+> 
+> Script Bonus +9: Psychodramatic Quest +3, Mystagogue's time +3, special time and place +3
+> 
+> **The Avenue of Repose in the Body and the Threshold of Corporeal Repose**
+> 
+> Target level 17, Major Virtue 21 (purified of mortal frailties), second Initiation after Intermediate Ordeal –4
+> 
+> Script Bonus +12: Three Quests to legendary places +9, special time and place +3
+
+#### The Avenue of Subduing the Meat and the Station of the Perfect Tool
+
+Several ritual investitures assist magi to find the first station of the Path of the Body, each of which is descended from a different tradition of mystics adopted into the early House. Those following this avenue develop control over their bodies' desires and distractions, usually through painful mortifications, or fatiguing exertions, that last a year. A handful of magi have followed this avenue by being transformed into plants for a year. The avenue ends with a guide acting as midwife for a symbolic rebirth.
+
+At the first station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic because it is adapted for magic, and magic, in turn, is adapted for it. The magus's close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding of magical events to minister to the body. They may use Enigmatic Wisdom in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.
+
+Initiates of this station are bound by the lifestyle of the House (Vow) and find it more difficult to use their magic when their body is ill (Deleterious Circumstances). Some illnesses do not block certain mystical effects; the usual example given is that fevers do not restrict Ignem spells because they are caused by a surplus of fiery humors. Wounds do not prevent magic use, of themselves, but open the body to infections, which may.
 
 #### The Avenue of Drinking the Winds of Inspiration and the Station of Spiritual Nourishment
 
@@ -2481,10 +2437,53 @@ While they linger, these magi dwell in bodies purified of all mortal frailty. Th
 
 Magi repose from this path by being reborn as the universe itself. They become one with necessity, and so seek to change it, allowing the cycle of falling and rising harmony to end.
 
-
 ### The Path of Seeming
 
 The Path of Seeming draws upon the insight that the secrets of the Enigma are hidden within the distracting details of the world. The path provides tools that permit magi to examine the world. When the magi comprehend the design of their prison, they see where its walls crack. The Path of Seeming searches for weak points in the circle of time.
+
+> #### Path Symbolism
+> 
+> Many magi on this path study Intellego magic paired with any Form, although Imaginem and Mentem are the most popular choices. Most have some skill in a second Technique, because knowledge must guide action. Some of the path's Mentem specialists have relegated Intellego to their secondary technique.
+> 
+> The stigmata of this path first appear on the bridge of the magus's nose. They rapidly spread to the rest of the body, but are most prevalent on the head and along the spine. The marks are usually have radial symmetry. The sound of the magus's heartbeat is vital to the labyrinth meditations of followers of this path.
+> 
+> The stigmata of this path are more prone to movement than those of any other path. When the magus is concentrating or performing magic, his stigma may swim through mystically significant patterns. Thematically, the stigmata gained on this path are linked to the element of water, and to reflective things.
+> 
+> Followers of this path often have familiars that dwell at the border of two elements. Waterbirds are popular, particularly the sacred ibis. This was the form taken by Thoth, also called Hermes, when he instructed early humans in magic. Beavers, otters, and crocodiles also have surprising prevalence.
+
+> ### The Path of Seeming, Depicted in Digits
+> 
+> The Path of Seeming includes the following Initiation Scripts:
+> 
+> **Avenue of Gruel, Water, and Starlight and the Station of Differentiation of Seeming**
+> 
+> Target level 21: Package treated as a Major Virtue (Clear Thinker, Common Sense, and Keen Vision)
+> 
+> Script Bonus +15: Minor Ordeal: Disfigurement +3, Mystagogue's time +3, psychodramatic Quest representing subduing the senses +3, special site and time (a certain cave complex during the dark of the moon) +3, sympathetic bonus (deprivation) +3
+> 
+> **Avenue That Assaults the Modesty of the Universe and the Station of True Sight**
+> 
+> Target level 18, as Major Virtue 21 (may use Enigmatic Wisdom as if it were Magic Sensitivity and Second Sight), first Initiation since Minor Ordeal –3
+> 
+> Script Bonus +12: Ordeal (Vow) +3, Quest of insane wanderings +3, special time and place +3, Mystagogue's time +3
+> 
+> **The Aventue of the Unexpected Pages and the Station of Vivid Memories from Objects**
+> 
+> Target level 18, as Major Virtue 21 (may read the memories of objects), first Initiation since Minor Ordeal –3
+> 
+> Script Bonus +12: Ordeal (Major Flaw Pious replaces Minor Flaw Vow) +6, special time and place +3 (or possibly Loss of Talisman +3), psychodramatic Quest +3
+> 
+> **The Avenue That Is a Crossroad and the Station of Passing Through Seeming**
+> 
+> Target level 15, as Major Virtue 21 (spirit traveling), first Initiation since Intermediate Ordeal -6
+> 
+> Script Bonus +12: Mystagogue's time +3, special time and place +3, sympathetic bonus +3, Quest +3
+> 
+> **The Avenue That Leads to Transcendence and the Station from Which to Ignore the Real**
+> 
+> Target level 17, as Major Virtue 21 (may briefly ignore mundane objects), second Initiation since Intermediate Ordeal –4
+> 
+> Script Bonus +12: Ordeal (Major Flaw Twilight prone) +9, Mystagogue's time +3
 
 #### Avenue of Gruel, Water and Starlight and the Station of Differentiation of Seeming
 
@@ -2496,40 +2495,6 @@ Travelers on this path come to understand, intellectually, the difference betwee
 
 Magi seeking this station can sense the underlying structures of the world, but have difficulty understanding these new perceptions. They sometimes develop imaginary friends and enemies, and have odd escapades. These are much like psychodramtic adventures, except they do not occur solely in the mind of the magus. The magus's companions, and eventually his guide, must defend the traveler on the path from dangers he cannot understand, while he wanders in madness. The magus usually recovers after a season, but requires intervention by, and training from, his guide during the final weeks.
 
-> ## The Path of Seeming, Depicted in Digits
-> 
-> The Path of Seeming includes the following Initiation Scripts:
-> 
-> AVENUE OF GRUEL, WATER, AND STARLIGHT AND THE STATION OF DIFFERENTIATION OF SEEMING
-> 
-> Target level 21: Package treated as a Major Virtue (Clear Thinker, Common Sense, and Keen Vision)
-> 
-> Script Bonus +15: Minor Ordeal: Disfigurement +3, Mystagogue's time +3, psychodramatic Quest representing subduing the senses +3, special site and time (a certain cave complex during the dark of the moon) +3, sympathetic bonus (deprivation) +3
-> 
-> #### Avenue That Assaults the Modesty of the Universe and the Station of True Sight
-> 
-> Target level 18, as Major Virtue 21 (may use Enigmatic Wisdom as if it were Magic Sensitivity and Second Sight), first Initiation since Minor Ordeal –3
-> 
-> Script Bonus +12: Ordeal (Vow) +3, Quest of insane wanderings +3, special time and place +3, Mystagogue's time +3
-> 
-> THE AVENUE OF THE UNEXPECTED PAGES AND THE STATION OF VIVID MEMORIES FROM OBJECTS
-> 
-> Target level 18, as Major Virtue 21 (may read the memories of objects), first Initiation since Minor Ordeal –3
-> 
-> Script Bonus +12: Ordeal (Major Flaw Pious replaces Minor Flaw Vow) +6, special time and place +3 (or possibly Loss of Talisman +3), psychodramatic Quest +3
-> 
-> #### The Avenue That Is a Crossroad and the Station of Passing Through Seeming
-> 
-> Target level 15, as Major Virtue 21 (spirit traveling), first Initiation since Intermediate Ordeal -6
-> 
-> Script Bonus +12: Mystagogue's time +3, special time and place +3, sympathetic bonus +3, Quest +3
-> 
-> #### The Avenue That Leads to Transcendence and the Station from Which to Ignore the Real
-> 
-> Target level 17, as Major Virtue 21 (may briefly ignore mundane objects), second Initiation since Intermediate Ordeal –4
-> 
-> Script Bonus +12: Ordeal (Major Flaw Twilight prone) +9, Mystagogue's time +3
-
 A magus who recollects himself is confirmed in his faith concerning the path and develops the Vow Flaw. Magi invested in this station learn to instinctively strip the universe of its illusions. They may use their Enigmatic Wisdom score as if it were both the Second Sight and Magic Sensitivity Abilities.
 
 #### The Avenue of the Unexpected Pages and the Station of Vivid Memories from Objects
@@ -2537,16 +2502,6 @@ A magus who recollects himself is confirmed in his faith concerning the path and
 Magi who seek this level of Initiation fall into a coma as their minds flit through the memories of the objects that surround them. The magus takes a role in these narratives, seeking to push them to the point where the magus acquires the object in whose memories he has become lost. The magus needs to recognize the object, then step into one of the roles in its memory, to press the story forward until the magus acquires the object.
 
 The magus, playing the role of another character in the object's memories, rarely finds it simple to deliver the object to himself. These visions are not metaphorical, and the roles magi play tend to be people of low social class, who have little legitimate contact with magi. This process forces the magus to see himself through foreign eyes. This engenders a more accurate sense of self and makes the magus a devotee of the path.
-
-> ## Path Symbolism
-> 
-> Many magi on this path study Intellego magic paired with any Form, although Imaginem and Mentem are the most popular choices. Most have some skill in a second Technique, because knowledge must guide action. Some of the path's Mentem specialists have relegated Intellego to their secondary technique.
-> 
-> The stigmata of this path first appear on the bridge of the magus's nose. They rapidly spread to the rest of the body, but are most prevalent on the head and along the spine. The marks are usually have radial symmetry. The sound of the magus's heartbeat is vital to the labyrinth meditations of followers of this path.
-> 
-> The stigmata of this path are more prone to movement than those of any other path. When the magus is concentrating or performing magic, his stigma may swim through mystically significant patterns. Thematically, the stigmata gained on this path are linked to the element of water, and to reflective things.
-> 
-> Followers of this path often have familiars that dwell at the border of two elements. Waterbirds are popular, particularly the sacred ibis. This was the form taken by Thoth, also called Hermes, when he instructed early humans in magic. Beavers, otters, and crocodiles also have surprising prevalence.
 
 If the magus fails to deliver the object, he becomes lost in a new vision from the memories of another object, and must try again. When the ritual is concluded successfully, the magus must bind the delivered object as his talisman. The object is usually symbolically suitable for the magus, but if it is impractical, the magus may transform it with Hermetic magic before enchantment.
 
@@ -2556,13 +2511,11 @@ A magus seeking a particular memory makes a Perception + Enigmatic Wisdom roll. 
 
 It is possible to recall a city as though touring it with an appropriate object, and some Criamon get very nostalgic for places they have never seen. They warn that there is a lifetime of memory in every cup, stone, and apple, which is why the solution to the Enigma is so difficult to find.
 
-#### Example: Avenue of the Unexpected Pages
+>#### Example: Avenue of the Unexpected Pages
+>
+>Antigone, a follower of this path skilled in Imaginem magic, falls into coma with a silver candlestick between her hands. Within her psychodramtic Quest, she awakens in the body of a swineherd named Tobias, who lives five miles from the covenant. He awakes holding the candlestick and knows he must deliver it to an oblivious Antigone. Antigone-as-Tobias must complete an arduous trek, face robbers seeking the stick, negotiate with surly guards (who are versions of grog PCs), and deal with a patronizing maga (controlled by another player) to complete the Quest.
 
-Antigone, a follower of this path skilled in Imaginem magic, falls into coma with a silver candlestick between her hands. Within her psychodramtic Quest, she awakens in the body of a swineherd named Tobias, who lives five miles from the covenant. He awakes holding the candlestick and knows he must deliver it to an oblivious Antigone. Antigone-as-Tobias must complete an arduous trek, face robbers seeking the stick, negotiate
-
-with surly guards (who are versions of grog PCs), and deal with a patronizing maga (controlled by another player) to complete the Quest.
-
-## The Avenue That Is a Crossroad and the Station of Passing Through Seeming
+#### The Avenue That Is a Crossroad and the Station of Passing Through Seeming
 
 This avenue allows the magus to approach a station that permits his to send his spirit traveling through the world's ocean of magical energy. A magus who liberates his spirit in this way finds it drawn, sequentially, to the four Edges of the World. These are regiones corresponding to the four elements and humors. The magus must escape each of these lands, coming eventually back to his body.
 
@@ -2570,11 +2523,7 @@ Initiates of this station can ignore the world, accepting that much of it is an 
 
 While the spirit of a magician is absent, the body appears to be a fresh corpse. The magus's body can starve or die of thirst. Its automatic reflexes allow it to swallow soft foods or water placed in its mouth. Caring for the body is a task often given to an apprentice. Magi traveling spectrally — or "passing through seeming" — have limited ability to cast spells. At their destination, they may cast spells at Arcane Connection range. They cannot sense their body's surroundings, but if they wish to cast spells ranged Personal, they may do so normally.
 
-#### The Avenue That Leads to Transcendence and the Station from Which to Ignore the Real
-
-The Axis Magica, on New Year's Eve, is the only suitable investiture site for this Mystery, but magi who already dwell at the Cave of Twisting Shadows are required to venture spiritually to the other regio, where the Axis emerges from the other side of the Earth's sphere. Few magi know what lies in these lands, which they call Hypernestoria. Magi who follow this avenue discover that the mundane world is merely a frame of reference. It becomes difficult to differentiate consensual reality from all the other illusions the magus encounters.
-
-> ## Passing Through Rules
+> #### Passing Through Rules
 > 
 > A magus's Pass Through Seeming Total is a simple die + Intelligence + Enigmatic Wisdom + the magical aura of his destination.
 > 
@@ -2592,6 +2541,10 @@ The Axis Magica, on New Year's Eve, is the only suitable investiture site for th
 > 
 > Characters in this spectral form may be seen by those with Second Sight, and are hindered by an *Aegis of the Hearth* as if they were creatures with a Magic Might score of five times their Enigmatic Wisdom. They may be harmed by Mentem spells, and cannot protect themselves with the Parma Magica.
 
+#### The Avenue That Leads to Transcendence and the Station from Which to Ignore the Real
+
+The Axis Magica, on New Year's Eve, is the only suitable investiture site for this Mystery, but magi who already dwell at the Cave of Twisting Shadows are required to venture spiritually to the other regio, where the Axis emerges from the other side of the Earth's sphere. Few magi know what lies in these lands, which they call Hypernestoria. Magi who follow this avenue discover that the mundane world is merely a frame of reference. It becomes difficult to differentiate consensual reality from all the other illusions the magus encounters.
+
 A magus who has attained this station may ignore mundane objects, briefly. With a Stamina + Concentration roll against an Ease Factor of six, and a round of preparation, the magus can act as if a single solid object was spectral for a number of minutes equal to the magus's Enigmatic Wisdom score. The magus may affect as many objects at once as he can concentrate upon. The Ease Factor increases by one for every object after the first. Groups of objects add three to the Ease Factor. This means that, for example, the droplets of a rainstorm, or the shafts of a hail of arrows, pass through the magus on a roll of nine or more. People cannot be ignored because they have souls, and so are qualitatively different from mundane objects.
 
 Characters who achieve this station do not clearly differentiate the mundane world and the Hypostasis. This makes them more likely to suffer Twilight experiences, as their ability to navigate back to the mortal world is impaired.
@@ -2608,15 +2561,21 @@ The Path of Strife is the path of worldly magic. It transgresses the morality of
 
 The followers of this path see demons as revelers in a kind of strife, creatures from near the end of this half of the cycle of time. By destroying demons, then, they prolong the life of the universe, allowing their sodales more time to solve the Enigma. They fight demons, not because they are evil, but because the servants of strife are not willing to share the remaining harmony in the universe with them. They would waste it, while Criamon magi might instead use it wisely.
 
-#### The Avenue of Faith in Strife and the Station of the Eater of Sin
+> #### Path Sumbolism
+> 
+> Magi on this path specialize in the Art of Perdo, but temper this with secondary interests. Those who wish to hunt demons also study Vim. Travelers on this path do not study Creo beyond the minimum required to train apprentices. They are aware that the capacity to use it will be severely damaged by their Initiations.
+> 
+> The stigmata of this path first appear on the magus's hands. They rapidly spread up the arms and across the chest before reaching up the neck to the chin. The marks usually have a style of curved edge called rayonny by heralds.
+> 
+> There is no sound associated with the meditations of this path's followers; they are almost eerily silent.
+> 
+> The stigmata of this path tend to reflect flame and radiance. Magi engaged in mystical combat often report that their stigmata glow, and sometimes melt together. A few remove the garments from their upper torso before vigorous magic use because the heat from their stigmata ignites the cloth it touches. These magi report that their stigmata are tender, like sunburn, after these incidents.
 
-The Prima and other senior mages counsel young magi against seeking this path. If they cannot be dissuaded, they are directed to the Initiation site, which is maintained far from the Cave of Twisting Shadows. There the Keeper of the Path tests them: they must negotiate the Labyrinth of Strife, a tangled structure of tunnels which magi can only escape by performing feats that violate the usual Criamon tenets of apt action. When magi reach the end of the process of degradation, they discover the first station on the path, and are infused with the power of strife.
-
-> ## The Path of Strife, Portrayed With Figures
+> ### The Path of Strife, Portrayed With Figures
 > 
 > Strife takes many forms, but has these Initiation Scripts:
 > 
-> #### The Avenue of Faith in Strife and the Station of the Eater of Sin
+> **The Avenue of Faith in Strife and the Station of the Eater of Sin**
 > 
 > Target level 21: Treated as a Major Virtue (may sense magic and use a weapon with Enigmatic Wisdom score)
 > 
@@ -2626,7 +2585,7 @@ The Prima and other senior mages counsel young magi against seeking this path. I
 > 
 > Script Bonus +6: Special place and time +3, sympathetic bonus (transgression of murdering the Primus) +3
 > 
-> #### The Avenue That Splinters and the Station of Blood and Bronze
+> **The Avenue That Splinters and the Station of Blood and Bronze**
 > 
 > Target level 12, as Major Virtue 21 (can destroy things by meditating around them and do extra damage with weapons), first Initiation since Major Ordeal –9
 > 
@@ -2634,23 +2593,27 @@ The Prima and other senior mages counsel young magi against seeking this path. I
 > 
 > on this avenue, which gives them the Blatant Gift +9 (offsets loss of –9 modifier in target level for first Initiation since Major Ordeal).
 > 
-> #### Avenue of Charm and Scorn, and the Station That Repels and Attracts Elements
+> **Avenue of Charm and Scorn, and the Station That Repels and Attracts Elements**
 > 
 > Target level 15, as Major Virtue 21 (may attract or repel a single element at a time), second Initiation since Major Ordeal –6. (The latter is –9 for those who slew a Primus, but the House doesn't take advantage of this. Characters on the path might discover that the special time and place isn't required for Primus-slayers.)
 > 
 > Script Bonus +9: Quest (seek lover) +3, special time and place +3, sympathetic bonus (marriage as metaphor for love and strife) +3
 > 
-> #### The Avenue of Befriending the Silent and the Station That Charms the Elements
+> **The Avenue of Befriending the Silent and the Station That Charms the Elements**
 > 
 > Target level 21, as Major Virtue (speak to elementally-pure objects)
 > 
 > Script Bonus +15: Ordeal (Major Flaw Pious replaces Minor Flaw Higher Purpose) +6, Ordeal (equivalent of Supernatural Nuisance) +3, Ordeal (Disfigured) +3, Mystagogue's time +3
 > 
-> #### Avenue of Death and the Station of Golden Cider
+> **Avenue of Death and the Station of Golden Cider**
 > 
 > Target level 15, as Major Virtue 21 (make some mystical things mundane), first Initiation since Intermediate Ordeal –6
 > 
 > Script Bonus +12: Ordeal (four pairs of Incompatible Arts) +12
+
+#### The Avenue of Faith in Strife and the Station of the Eater of Sin
+
+The Prima and other senior mages counsel young magi against seeking this path. If they cannot be dissuaded, they are directed to the Initiation site, which is maintained far from the Cave of Twisting Shadows. There the Keeper of the Path tests them: they must negotiate the Labyrinth of Strife, a tangled structure of tunnels which magi can only escape by performing feats that violate the usual Criamon tenets of apt action. When magi reach the end of the process of degradation, they discover the first station on the path, and are infused with the power of strife.
 
 Magi on this path have aligned themselves with strife. They can sense the increase in strife that occurs when magic is used. They, in turn, are so attuned to strife that they radiate it. They may use their Enigmatic Wisdom as the Magic Sensitivity Ability, but they do not subtract it from their Magic Resistance. They develop the Blatant Gift.
 
@@ -2686,16 +2649,6 @@ A magus using this power does not control the mind of the spirit, and in excepti
 
 With a Presence + Charm roll against an Ease Factor of 9 a magus can convince a spirit to give information, or to move in minor, useful ways. The animating spirits of objects do not react negatively to The Gift. Most objects can sense what has occurred near them, and can report it in some fashion to the magus, although their senses are sometimes limited, and their grasp of human time poor.
 
-> ## Path Sumbolism
-> 
-> Magi on this path specialize in the Art of Perdo, but temper this with secondary interests. Those who wish to hunt demons also study Vim. Travelers on this path do not study Creo beyond the minimum required to train apprentices. They are aware that the capacity to use it will be severely damaged by their Initiations.
-> 
-> The stigmata of this path first appear on the magus's hands. They rapidly spread up the arms and across the chest before reaching up the neck to the chin. The marks usually have a style of curved edge called rayonny by heralds.
-> 
-> There is no sound associated with the meditations of this path's followers; they are almost eerily silent.
-> 
-> The stigmata of this path tend to reflect flame and radiance. Magi engaged in mystical combat often report that their stigmata glow, and sometimes melt together. A few remove the garments from their upper torso before vigorous magic use because the heat from their stigmata ignites the cloth it touches. These magi report that their stigmata are tender, like sunburn, after these incidents.
-
 Objects usually move by a slithering action, but objects that naturally move simply travel as if they have motive power. Most elemental objects are capable of movement at a human rate — they simply choose not to do so under normal conditions. This movement can appear slightly unnatural. For example, a fire can travel as if being pushed by a wind despite its absence, or a river can push a boat despite the usual absence of a current. The objects cannot, however, perform actions that are deeply supernatural: the fire cannot burn through stone, the river cannot flow noticeably uphill. Acts requiring great effort on the part of the elemental spirit — for example, convincing a river to ignore its usual path and wash through a town on its floodplain require higher Charm rolls.
 
 Magi who have progressed this far on the Path of Strife find themselves, despite many deep spiritual transgressions, in loving relationships, with communities of friends. They usually come to feel that if they were forced to live in such a fashion over and over for eternity, that'd be pleasant. This cheery view is considered weird by other Criamon magi, and makes such magi devotees of the path.
@@ -2728,6 +2681,48 @@ One school of Sufi, Abdkypris was surprised to discover, reveres Empedocles as a
 
 Members of this path are the Criamon magi most likely to be religious. Some have become monotheists; they accept a creator who embodies harmony. There are many interpretations among them for the existence of the universe, although Islam, Origenism (the belief that the universe exists to allow all things to reconcile to God), and Manichaeanism (the belief that God has been shattered into pieces and every living thing holds a portion of the Divine) are popular. Empedocles believed that the immortals worshiped a goddess called Cypris — a variant of Aphrodite who incarnates love, and some Criamon claim to have met with her.
 
+> #### Path Symbolism
+> 
+> Magi on this path specialize in the Art of Creo. Supplicants on this path do not study Perdo beyond the minimum required to train apprentices. They do not desire to use it, beyond teaching, following their Initiations into the deeper stations of the path.
+> 
+> The stigmata of this path first appear on the soles of the magus's feet. They rapidly spread up the legs and buttocks, before curling up the sternum and throat. The marks are angular, often being comprised of triangles. The sound associated with the meditations of this path's followers is the footstep at lower degrees of Initiation, and the cry of wonder for those further along the path.
+> 
+> The stigmata of this path tend toward hazy, bright colors. The images these stigma form are uplifting, and reflect the element of air. The followers of this path appear to be followed by a cool breeze as they travel. The magus's stigmata also have a pleasant scent, which varies between magi. The scent soaks into those things they touch. The familiars of these magi are always herbivores or, occasionally, magical plants.
+
+> ### The Path of Walking Backwards, Illustrated Arithmetically
+> 
+> The Path of Walking Backwards is constructed from the following Initiation Scripts:
+> 
+> **The Avenue of Surrender and the Station of Service to Harmony**
+> 
+> Target level 21, Major Virtue (Gentle Gift) or elimination of Flaw (Blatant Gift)
+> 
+> Script Bonus +15: Major Ordeal (Pious) +9, special time and place +3, Mystagogue's time +3
+> 
+> **The Avenue of Healing and the Station of Rice and Honey**
+> 
+> Target level 12, as Major Virtue 21 (may meditate around mundane objects and restore them to wholeness), first Initiation since Major Ordeal –9
+> 
+> Script Bonus +6: Ordeal (Noncombatant) +3, Ordeal (equivalent to a Vow to help the injured) +3
+> 
+> **The Avenue of Adulation and Station of Expression**
+> 
+> Target level 15, as Major Virtue 21 (Free Expression, Inspirational, may use Enigmatic Wisdom in lieu of one artistic skill), second Initiation since Major Ordeal 6
+> 
+> Script Bonus +9: Mystagogue's time +3, Quest to a place of unspeakable beauty +3, special time and place +3
+> 
+> **The Avenue of a Thousand Beautiful Faces and the Station of Exaliation**
+> 
+> Target level 18, as Major Virtue 21 (may meditate around objects to give them a single, positive property), third Initiation since Major Ordeal –3
+> 
+> Script bonus +12: Ordeal (4 $\times$ Incompatible Arts) +12
+> 
+> **Immortal Ascension as Repose**
+> 
+> Target level 15, Major Virtue 21 (may choose apparent age and gender), second Initiation since Major Ordeal –6
+> 
+> Script Bonus +9: Mystagogue's time +3, Quests to deal with psychic residue +3, special time and place +3.
+
 #### The Avenue of Surrender and the Station of Service to Harmony
 
 Magi begin this path by forswearing their destructive past. They purge their aggressive and greedy natures from their souls with meditation, fasting, ritualized flagellation, or other techniques. The magus then goes on pilgrimage to a site that he considers spiritually meaningful, and participates in rites of purification with the aid of a Mystagogue. The younger magus, by accepting the Mystagogue, accepts subordination to her greater wisdom. This path is strongly hierarchical, compared to the others that the House follows.
@@ -2739,40 +2734,6 @@ The Gift of most characters on this path becomes Gentle. Those with the Blatant 
 #### The Avenue of Healing and the Station of Rice and Honey
 
 A magus who has walked this far along the backward path may restore damaged things to wholeness without the use of vis. This requires a labyrinth meditation while carrying, or circling, the object. For example, a magus holding a cracked emerald can dance it to wholeness. Items made imperfect by human artifice cannot be made whole, so while a gemstone bored into a bead could be restored into an unscratched and unfractured bead, it could not be restored to the state of a whole stone. This power heals animals and plants, except when they have been injured by human tools, but cannot return life to dead things. The object usually cannot be more than ten yards across, but gatherings of those with this Virtue can form dancing circles about proportionately larger objects to repair them. This power has a Penetration score of the magus's Enigmatic Wisdom multiplied by five.
-
-> ## The Path of Walking Backwards, Illustrated Arithmetically
-> 
-> The Path of Walking Backwards is constructed from the following Initiation Scripts:
-> 
-> #### The Avenue of Surrender and the Station of Service to Harmony
-> 
-> Target level 21, Major Virtue (Gentle Gift) or elimination of Flaw (Blatant Gift)
-> 
-> Script Bonus +15: Major Ordeal (Pious) +9, special time and place +3, Mystagogue's time +3
-> 
-> #### The Avenue of Healing and the Station of Rice and Honey
-> 
-> Target level 12, as Major Virtue 21 (may meditate around mundane objects and restore them to wholeness), first Initiation since Major Ordeal –9
-> 
-> Script Bonus +6: Ordeal (Noncombatant) +3, Ordeal (equivalent to a Vow to help the injured) +3
-> 
-> #### The Avenue of Adulation and Station of Expression
-> 
-> Target level 15, as Major Virtue 21 (Free Expression, Inspirational, may use Enigmatic Wisdom in lieu of one artistic skill), second Initiation since Major Ordeal 6
-> 
-> Script Bonus +9: Mystagogue's time +3, Quest to a place of unspeakable beauty +3, special time and place +3
-> 
-> #### The Avenue of a Thousand Beautiful Faces and the Station of Exaliation
-> 
-> Target level 18, as Major Virtue 21 (may meditate around objects to give them a single, positive property), third Initiation since Major Ordeal –3
-> 
-> Script bonus +12: Ordeal (4 $\times$ Incompatible Arts) +12
-> 
-> #### Immortal Ascension as Repose
-> 
-> Target level 15, Major Virtue 21 (may choose apparent age and gender), second Initiation since Major Ordeal –6
-> 
-> Script Bonus +9: Mystagogue's time +3, Quests to deal with psychic residue +3, special time and place +3.
 
 The special nature of humans, as creatures responsible for their own destinies, makes them difficult to manipulate. The magus may not heal humans instantly without vis. By performing labyrinth meditations around a dying person, however, the magus may hold her upon the threshold of death, allowing others time to stabilize her injuries or provide magical healing. A magus may safely continue performing meditations for a number of hours equal to his Enigmatic Wisdom score. This process is exhausting, but not dangerous. The magus can even continue past his Enigmatic Wisdom score in hours for an additional period equal to any positive Stamina score he has, but to do so triggers a Twilight experience.
 
@@ -2789,18 +2750,6 @@ Mundane viewers of an artistic expression created by one who has achieved this s
 #### The Avenue of a Thousand Beautiful Faces and the Station of Exaltation
 
 A magus who achieves the fourth station on the Path of Walking Backwards may draw objects and things closer to their perfect state. By performing a labyrinth meditation while carrying or circling an object, the magus draws the virtues of its nature to the surface. The magus does not usually know the higher nature of an object, and so cannot be sure which virtues will appear, except with an extremely difficult Intelligence + Enigmatic Wisdom roll (Ease Factor 21 or more). The magus cannot select virtues for an object, only draw out those that already exist. This power has a Penetration score of the magus's Enigmatic Wisdom multiplied by five.
-
-> ## Path Symbolism
-> 
-> Magi on this path specialize in the Art of Creo. Supplicants on this path do not study Perdo beyond the minimum required to train apprentices. They do not desire to use it, beyond teaching, following their Initiations into the deeper stations of the path.
-> 
-> The stigmata of this path first appear on the soles of the magus's feet. They rapidly spread up the legs and buttocks, before curling up the sternum and throat. The marks are angular, often being comprised of triangles. The sound associated with the meditations of this path's followers is the footstep at lower degrees of Initiation, and the cry of wonder for those further along the path.
-> 
-> The stigmata of this path tend toward hazy, bright colors. The images these stigma form are uplifting, and reflect the element of air. The followers of this path appear to be followed by a cool breeze as they travel. The magus's stigmata also have a pleasant scent, which varies between magi. The scent soaks into those things they touch. The familiars of these magi are always herbivores or, occasionally, magical plants.
-
-> ## Twilight and Qalking Backwards
-> 
-> The threshold of repose on the Path of Walking Backwards grants no immunity to Twilight. However, magi who abstain from all use of magic and stay out of powerful supernatural auras can avoid entering Twilight by avoiding gaining two or more Warping Points at once.
 
 A player trying to conceive how this power works should think of it this way: each use of the power adds one plausible, positive adjective to the description of any mundane object. The magus may make a horse swift, or a gemstone beautiful, or a field fertile. These advantages are always positive from the spiritual perspective of the magus, so they can rarely make weapons sharp, or goods valuable. They cannot give new or magical properties to things, only draw out potential hidden within them already.
 
@@ -2821,6 +2770,10 @@ Each magus of this station is permitted to choose the time of his own death. It 
 Some magi dwell on the threshold because they believe their personal role in the great narrative of creation, which the Spharios whispers to itself, is incomplete. Most believe that by acting aptly they can shorten the period of the dissolution, and so cause everything and everyone to have a smaller burden of pain to share through time. These magi believe that their presence in time allows the Spharios to learn to tell its autobiography in a different way than the tale told in the last cycle. The Spharios is learning with each cycle of time, purifying itself, finding a way not to fall into strife, and these magi believe their work is vital to that.
 
 Islamic magi tend to dwell on the threshold because they believe they have an appointed task to complete. Their Sufifaith is based on the love of God, not on the rewards he offers after death, so they see no hurry to die. They just live on in the simple way approved by their faith, perhaps for centuries, until they complete their assigned task.
+
+> ### Twilight and Walking Backwards
+> 
+> The threshold of repose on the Path of Walking Backwards grants no immunity to Twilight. However, magi who abstain from all use of magic and stay out of powerful supernatural auras can avoid entering Twilight by avoiding gaining two or more Warping Points at once.
 
 ### Other Paths
 
@@ -2860,7 +2813,7 @@ The character has the ability to charm elemental objects into assisting him, as 
 
 *Minor, Supernatural*
 
- The character's stigmata are reflected by glowing symbols in the character's shadow. This causes alarm among nonmagicians and makes the character's stigma extremely easy for other Criamon magi to read (+3 on all rolls). The shadow's glowing symbols do not vanish when there is insufficient light to form a shadow, they burn brighter. Characters who use magic to hide their stigmata are not acting aptly.
+The character's stigmata are reflected by glowing symbols in the character's shadow. This causes alarm among nonmagicians and makes the character's stigma extremely easy for other Criamon magi to read (+3 on all rolls). The shadow's glowing symbols do not vanish when there is insufficient light to form a shadow, they burn brighter. Characters who use magic to hide their stigmata are not acting aptly.
 
 #### Stigmatic Catalyst
 
@@ -2872,7 +2825,7 @@ The character's presence causes symbolic marks to appear on the bodies of people
 
 *Minor, Story, Supernatural*
 
- A piece of the magus's psyche has been broken loose by a Twilight experience, and now manifests physically as an adulteration. This allows the magus to be a pleasant and upstanding person, because his negative impulses do terrible things out of the magus's sight. Eventually the character's adulteration must be resolved, but in the interim, his enemies are attacked be a magical monster of mysterious origin, without the magus's conscious consent or approval.
+A piece of the magus's psyche has been broken loose by a Twilight experience, and now manifests physically as an adulteration. This allows the magus to be a pleasant and upstanding person, because his negative impulses do terrible things out of the magus's sight. Eventually the character's adulteration must be resolved, but in the interim, his enemies are attacked be a magical monster of mysterious origin, without the magus's conscious consent or approval.
 
 #### Predictive Stigmata
 
@@ -2894,7 +2847,7 @@ The character's stigmata predict future challenges in symbolic form. They move u
 > 
 > Sing, in the heart, praise for your mother, vast glass cradle rocked by the stars
 > 
-> > Praise her for her constancy. Her firmness, Criamon's hope that lies within her certainties.
+> Praise her for her constancy. Her firmness, Criamon's hope that lies within her certainties.
 > 
 > Sing in your heart, praise for your father deeper than mountains, the measure of age Unchanged above tempests Praise him for his implacability The spur of his insistence that forces upward, into Twilight
 > 
@@ -2938,7 +2891,7 @@ Provocative, playful, secretive, sinister: like the beings with which they assoc
 
 These magi essentially serve two masters: the Magic and Faerie realms. They have The Gift and they practice Hermetic magic; yet they are drawn to the faeries, and appreciate their unpredictable and inspirational nature. Merinita magi thus maintain a delicate balance between this raw power of the wild unleashed, and the subtle charms and jinxes of Arcadian wonder. These are the secrets of the many cults that make up their House: theirs are the Mysteries of magic and faerie combined.
 
-> ## Key Facts
+> ### Key Facts
 > 
 > **Population:** 68
 > 
@@ -2954,13 +2907,7 @@ These magi essentially serve two masters: the Magic and Faerie realms. They have
 
 The House is named for Merinita, the woman who swore the Hermetic Oath to Bonisagus and joined the Founders when they first assembled, but many consider her follower Quendalon to be the true force behind its identity, and some erroneously refer to him as one of the original Founders. Most "Merinitae" are not given to keeping meaningful records or histories, but they do famously appreciate stories, and some that concern the Founder and the history of the House are still told among magi who have an interest, by those who claim to have them from others who were there. One with great currency reports that Quendalon normally wore a heavy cloak with a hood that covered his eyes, and many Merinitae affect this garb on occasion.
 
-## History
-
-Before the Order of Hermes was formed, Merinita was already well known, at least by reputation. It was said among other wizards of the time that a whitehaired woman dressed in green traveled alone through the wild lands of Europe, often vanishing into the great forests without a trace of her passing, a woman without equal in nature magic. She could see everything that happened in these places, she knew every bird and beast that lived in them, she could take any shape she chose, and she could command the spirits of the very trees themselves. Yet she was not savage, according to those who had met her, but wise; a woodswoman and healer at home in the forest and perfectly attuned to the wild. She was also intensely shy, and said to only speak when absolutely necessary.
-
-Trianoma devoted an entire year to searching for Merinita, to invite her to come with her to meet Bonisagus and to join the Order of Hermes. Many times she approached one of the dark forests where Merinita was rumored to dwell and called out her proposal to the shadows of the trees, but never received an answer. Yet in 767, as the Founders gathered to discuss Trianoma's vision, Merinita emerged from the forest and quietly joined their circle. Her reasons for joining were never clear; her followers say that she herself did not know why, but felt compelled by a will greater than her own, as if the forest itself required it of her.
-
-> ## Famous Figures
+> ### Famous Figures
 > 
 > **Merinita**, Founder, introduced the enchantment that binds a familiar **Quendalon**, first Primus, discovered the faerie Mysteries
 > 
@@ -2977,6 +2924,12 @@ Trianoma devoted an entire year to searching for Merinita, to invite her to come
 > **Mendalus**, argued for a return to Merinita's ways
 > 
 > **Merinugalaudabila**, renewed House interest in certamen
+
+## History
+
+Before the Order of Hermes was formed, Merinita was already well known, at least by reputation. It was said among other wizards of the time that a whitehaired woman dressed in green traveled alone through the wild lands of Europe, often vanishing into the great forests without a trace of her passing, a woman without equal in nature magic. She could see everything that happened in these places, she knew every bird and beast that lived in them, she could take any shape she chose, and she could command the spirits of the very trees themselves. Yet she was not savage, according to those who had met her, but wise; a woodswoman and healer at home in the forest and perfectly attuned to the wild. She was also intensely shy, and said to only speak when absolutely necessary.
+
+Trianoma devoted an entire year to searching for Merinita, to invite her to come with her to meet Bonisagus and to join the Order of Hermes. Many times she approached one of the dark forests where Merinita was rumored to dwell and called out her proposal to the shadows of the trees, but never received an answer. Yet in 767, as the Founders gathered to discuss Trianoma's vision, Merinita emerged from the forest and quietly joined their circle. Her reasons for joining were never clear; her followers say that she herself did not know why, but felt compelled by a will greater than her own, as if the forest itself required it of her.
 
 Merinita's oath to the fledgling Order was binding, and she timidly went to Bonisagus to teach him some of her powers in return for his Parma Magica. According to the few surviving accounts, this was a tedious process, for though Merinita obviously knew a great deal, especially about healing and nurturing plants and living creatures, there was little that she could find to teach Bonisagus, either because she was unable to communicate her mystic understanding, because he had already adapted the ancient healing rituals she practiced into Magic Theory, or because she was unwilling to share all of her secrets.
 
@@ -3000,13 +2953,7 @@ Two years after Myanar became Prima, a stranger arrived at her covenant, announc
 
 To Myanar, it seemed that this faerie being was an imposter, a changeling who had replaced Quendalon and sought to take over the House, and she refused to comply. This angered him, and he warned that she would suffer dire consequences if she did not obey him. Their conflict escalated into a magical battle, but Myanar was unable to prevent him from escaping. According to letters that Quendalon wrote afterward, Myanar opposed him on ideological grounds, recognizing him full well and swearing that "she would not allow him to deform the House with his distorted visions of the future." Yet Myanar told her followers that the false Quendalon had bragged about having found and killed Merinita, and had threatened to kill all of them if they did not accept him as hierophant of their cult.
 
-> ### The Line of Muj
-> 
-> Before Quendalon introduced Faerie Magic to the House, Myanar and her followers focused entirely on Merinita's Mysteries of nature and life, and many of these secrets came easily to Myanar, for she had a special affinity for nature through her family's ancient tradition. Other magi descended from this ancestral Line of Muj still live in the Transylvanian Tribunal, and belong to House Tremere. To represent their hereditary magical powers and background, such characters should choose Close Family Ties, affinity with Auram, Great Strength, and Mountain Lore (see Nature Mysteries, below) during character creation.
-> 
-> A rivalry has developed between a group of these Tremere and a nomadic family of Merinitae, led by a Novgorod maga named Merinugalaudabila. She takes great delight in certamen as a sport, and especially enjoys variations on "the game," as she calls it. Because of her efforts, interest in magical competition is growing within the House, and a few of her followers have developed the magical focus in certamen that is typically only found in Tremere's lineage. Together they have invented two unusual dueling styles (see House Tremere, *Houses of Hermes: True Lineages,* for details). These were designed mostly to embarrass the staid Muj, many of whom know the events of the House Divided and bear a familial grudge against faerie Merinitae on Myanar's behalf. The two groups often fight for no obvious reason, spuriously challenging each other on what seem very flimsy pretenses whenever they happen to cross paths.
-
-> ## A Faerie Fraud?
+> ### A Faerie Fraud?
 > 
 > Suspicions that the faerie Quendalon was not who he claimed to be seem more likely when considering the evidence of other instances when faeries have taken human shapes and tried to pass themselves off as magi. In the 1100s, for example, an unremarkable magus named Zurenzialle disappeared from his covenant in the Greater Alps suddenly and without warning, and when his sodales decided that he was dead and entered his laboratory, they discovered evidence that he was never human at all, but a faerie being who had been pretending to be a magus.
 > 
@@ -3016,13 +2963,19 @@ War broke out between the two factions. The faerie Quendalon traveled throughout
 
 Other accounts suggest that the war was not so easily won. Some of Myanar's followers later claimed that Myanar did not die, but rather was transformed into a snake during the first assault, and that in that form she led other attacks on Irencillia in 804 and 806. Some say that faeries participated in the defense of the covenant. It is also said that Myanar was distantly related to Tytalus the Founder, who came to Bohemia in 807 with the public intention of challenging the Queen of the Faeries, and who disappeared into the Maddenhofen Woods that same year. Some speculate that Myanar sought him out and asked for his aid against Quendalon — they reason that his presence in the turbulent region could hardly be a coincidence — and that she went with him into the forest to confront the false Primus and the faeries behind his bid for power.
 
+Quendalon caused great ill-will between Houses Merinita and Tytalus at the 817 Tribunal by laughing loudly during their account of their Founder's disappearance. He later explained that he was not mocking Tytalus's ambitious attempt to defeat "the Queen," but found it amusing that his followers would perceive his end as tragic. He gave them the impression that he knew more than he was saying, but would not speak of it further. Since then, House Merinita and House Tytalus have often been at odds, their poor relationship aggravated by the possibility that Quendalon might have known what happened to their Founder, or even been somehow responsible for their loss.
+
 > ### History Story Seeds
 > 
 > - If Merinita is still alive, perhaps her familiar also lives. A group of hunters tells a story of a magnificent stag they could not fell in a nearby forest, and this might lead to an investigation, perhaps to track down the Founder by following the cords that bind her to the great beast.
 > - Some say Quendalon went mad and tore out his eyes before disappearing, but that these precious stones were lost. They were invested with great magic, but also cursed to slowly transform the possessor into a faerie over time. Perhaps a companion purchases one of these gems from a jeweler who is anxious to be rid of it.
 > - The grogs find a serpent hiding in one of the covenant buildings, but they cannot kill it. Hermetic investigation reveals that it has great power, but does not have any Might. Its thoughts make no sense but it burns with vengeance. Those who know the history of House Merinita might wonder: could this be Myanar?
 
-Quendalon caused great ill-will between Houses Merinita and Tytalus at the 817 Tribunal by laughing loudly during their account of their Founder's disappearance. He later explained that he was not mocking Tytalus's ambitious attempt to defeat "the Queen," but found it amusing that his followers would perceive his end as tragic. He gave them the impression that he knew more than he was saying, but would not speak of it further. Since then, House Merinita and House Tytalus have often been at odds, their poor relationship aggravated by the possibility that Quendalon might have known what happened to their Founder, or even been somehow responsible for their loss.
+> ### The Line of Muj
+> 
+> Before Quendalon introduced Faerie Magic to the House, Myanar and her followers focused entirely on Merinita's Mysteries of nature and life, and many of these secrets came easily to Myanar, for she had a special affinity for nature through her family's ancient tradition. Other magi descended from this ancestral Line of Muj still live in the Transylvanian Tribunal, and belong to House Tremere. To represent their hereditary magical powers and background, such characters should choose Close Family Ties, affinity with Auram, Great Strength, and Mountain Lore (see Nature Mysteries, below) during character creation.
+> 
+> A rivalry has developed between a group of these Tremere and a nomadic family of Merinitae, led by a Novgorod maga named Merinugalaudabila. She takes great delight in certamen as a sport, and especially enjoys variations on "the game," as she calls it. Because of her efforts, interest in magical competition is growing within the House, and a few of her followers have developed the magical focus in certamen that is typically only found in Tremere's lineage. Together they have invented two unusual dueling styles (see House Tremere, *Houses of Hermes: True Lineages,* for details). These were designed mostly to embarrass the staid Muj, many of whom know the events of the House Divided and bear a familial grudge against faerie Merinitae on Myanar's behalf. The two groups often fight for no obvious reason, spuriously challenging each other on what seem very flimsy pretenses whenever they happen to cross paths.
 
 ### 200 Years After
 
@@ -3066,11 +3019,11 @@ Others emphasize that Arcadia is only what travelers believe it to be. It is a l
 
 Another theory is that like Heaven and Hell, Arcadia is an afterlife, a place where faeries go after they leave their physical bodies. Instead of a place of eternal punishment or eternal reward, it is where beings that do not have souls must remain forever. Thus, it is populated by the spirits of living things in exile. Some suggest this includes forgotten beasts of legend, lost children who died unbaptized, and even gods who are no longer worshiped. Those mortals who die in Faerie, it is said, join this group; their souls go elsewhere, but their spirits remain in Arcadia.
 
-> ## Arcadian Experiences
+There are many ways to reach Arcadia, usually by traveling through faerie regiones. There are also gateways scattered throughout Mythic Europe, usually at places where reality and fantasy have blurred together. These points are almost always watched by guardians who patrol the borders of Faerieland, perhaps ensuring that outsiders are turned away, or perhaps preying upon them before others do. Initiates into the Mystery of Arcadian Travel can make temporary gateways to Arcadia, and these places are not necessarily guarded, although they are not necessarily safe, either.
+
+> ### Arcadian Experiences
 > 
 > Arcadia is a fantastic place that can have a powerful influence over magic and faerie powers alike, but the mechanics of it are beyond the scope of this book. However, Merinitae will almost certainly seek it out, and for those of them who find their way there the storyguide should prepare an adventure, describing the experience in any way that seems appropriate to the journey. It might be an otherworldly vision, a dream, or even a nightmare; perhaps it resembles Wizard's Twilight; perhaps it seems the complete opposite of the real world, or it might only differ from the real world in very subtle but important ways.
-
-There are many ways to reach Arcadia, usually by traveling through faerie regiones. There are also gateways scattered throughout Mythic Europe, usually at places where reality and fantasy have blurred together. These points are almost always watched by guardians who patrol the borders of Faerieland, perhaps ensuring that outsiders are turned away, or perhaps preying upon them before others do. Initiates into the Mystery of Arcadian Travel can make temporary gateways to Arcadia, and these places are not necessarily guarded, although they are not necessarily safe, either.
 
 #### The Wayfarers
 
@@ -3096,6 +3049,12 @@ This practice has led to a strange phenomenon in the world of Faerie. Names have
 
 Many followers of Merinita seek to encourage appreciation of the fae, not just in the Order of Hermes, but among the people of Mythic Europe at large. It is an accepted fact among many in the House that faeries come about from widespread belief in them; that within the Faerie realm, things are what people believe them to be. This is not demonstrably true, of course, since it is difficult to measure when someone truly believes in something and whether there is a corresponding effect in Faerie, but the theory is that when someone invents a story, that story will come to pass, either in Arcadia or somewhere in the real world.
 
+Extending the idea of a direct relationship between Faerie and storytelling, many believe that faeries can never die, so long as their stories are still remembered. Each time the tale is told, the characters perform their parts as described, perhaps altering slightly from the framework as the narrator embellishes, but always acting as they are defined by their characters, and returning each time the story is begun again.
+
+Other Merinitae hold that the stories are created by the fae, that the events of famous "fairy tales" are simply chronicles of history, having actually happened at some point in the past. These themes have seeped into the collective subconscious of the people, and thus have a ring of truth about them that makes them compelling. Or perhaps they are visions of the future, since time has no little meaning in Faerie; these stories may be glimpses of events that will someday come to pass, resonating through the years to influence medieval thought.
+
+In any case, stories are very important to those with an interest in the fae, and House Merinita has a strong oral tradition. Recording stories is almost as important as participating in them. It is not seen as bragging or putting oneself forward to tell one's sodales about an experience with the faeries, and many magi in the House employ minstrels to create popular songs or poems about their adventures. Not only for Merinitae, in fact, but for the faeries themselves, as such accounts have great value in their courts.
+
 > ### Faerie Tales
 > 
 > Most fairy tales with which players are most familiar became widespread in relatively modern times. However, they often concern medieval characters, and in fact contain many themes that can be found in folk tales going back to ancient times. Recognizable versions of such stories as "Cinderella," "Beauty and the Beast," "Snow White and the Seven Dwarfs" and even "Little Red Riding Hood" can be found in early Roman histories, and other related concepts have their roots in antiquity, such as the Roman host newly come to wealth who described himself with the phrase *qui fuit rana nunc est rex* ("the man who was once a frog is now king").
@@ -3104,23 +3063,11 @@ Many followers of Merinita seek to encourage appreciation of the fae, not just i
 > 
 > It should be noted that the attitude of early chroniclers was one of condescension and disapproval for such *aniles fabulae* ("old women's tales"), and they often changed the stories to downplay their fantastic elements. By the Middle Ages, many of these fanciful stories have instead become accounts of holy saints and evil demons, rather than innocent maidens and monstrous beasts. Perhaps players can infer from this that the Faerie realm as a whole suffered with the expansion of the Dominion, losing many of its inhabitants to the Divine or the Infernal, and that it has only just begun to recover its former status.
 
-Extending the idea of a direct relationship between Faerie and storytelling, many believe that faeries can never die, so long as their stories are still remembered. Each time the tale is told, the characters perform their parts as described, perhaps altering slightly from the framework as the narrator embellishes, but always acting as they are defined by their characters, and returning each time the story is begun again.
-
-Other Merinitae hold that the stories are created by the fae, that the events of famous "fairy tales" are simply chronicles of history, having actually happened at some point in the past. These themes have seeped into the collective subconscious of the people, and thus have a ring of truth about them that makes them compelling. Or perhaps they are visions of the future, since time has no little meaning in Faerie; these stories may be glimpses of events that will someday come to pass, resonating through the years to influence medieval thought.
-
-In any case, stories are very important to those with an interest in the fae, and House Merinita has a strong oral tradition. Recording stories is almost as important as participating in them. It is not seen as bragging or putting oneself forward to tell one's sodales about an experience with the faeries, and many magi in the House employ minstrels to create popular songs or poems about their adventures. Not only for Merinitae, in fact, but for the faeries themselves, as such accounts have great value in their courts.
-
 #### Keepers of the Thousand Tales
 
 The Keepers of the Thousand Tales are a group of Merinita magi and their companions who originally formed in the Holy Land with the goal of collecting, cataloging, and distributing the greatest stories of their time. This began with the beginnings of *The Book of One Thousand and One Nights* sometime in the ninth century, and as the society grew, their scribes added to the collection. They also translated many Greek texts into Arabic, and then from Arabic into Latin, and spread these books throughout the Order while their Hermetic leaders sought out more stories to tell.
 
 Essential to their philosophy is the idea of faerie immortality through legend. By ensuring that the tales are easily available, they believe that they keep these stories alive in Faerie. In this regard, they maintain that what a significant number of people believe directly affects the inhabitants of the Faerie realm. Therefore, all those who belong to their society must do their part to see that the tales spread. Some of them are scribes, copying books of lore for other covenants and magi, and some of them are wandering storytellers, performing re-enactments of adventures for those who are interested in hearing.
-
-> ## Faerie and Dreams
-> 
-> Many Merinitae believe that there is a connection to Arcadia in every person's mind. This is because they think dreams somehow influence and are influenced by the Faerie realm, which they consider to be the collective dreams of all humanity. Thus, faeries may occasionally be found to inhabit a person's imagination, accessible with Mentem magic and the specialized Dream Virtues of *The Mysteries Revised Edition*.
-> 
-> Characters with the Merinita Mystery Arcadian Travel can open trods into Arcadia through their dreams, if they wish. The maga produces a charm designed to lull the travelers to sleep, and they then journey to a dream-based Arcadia in spirit instead of flesh. While away, sleeping characters do not age or suffer ill effects of going without food or water, though they can die through other means — and if they do, their spirits remain in Faerie.
 
 Some of the magi have begun to carry their philosophy a step further. By acting out famous stories using their magic, themselves taking the part of a character in the story, they believe they take on that character's identity and so ensure their own immortality. Over time, they actually become the character in the story, and so become faeries themselves. These magi believe that several characters in the Thousand Tales are magi who have passed into Arcadia.
 
@@ -3143,6 +3090,12 @@ Creatures of Faerie can take any imaginable form, but have great difficulty repr
 Other faeries fear that they will be forgotten. If they recognize that they owe their existence to human belief, they can ensure their continuation by encouraging the people to honor them, perhaps even worshiping them like the gods of old. Libations poured over Faerie stones, prayers intoned in sacred groves, men and women dancing around ceremonial fires, young children abandoned in dark places — many faeries recognize these as ancient rites of respect, and reward those who perform them.
 
 Some faeries perceive Mythic Europe as a place of forced exile from Arcadia, and want nothing more than to return to their fabled homeland. The means of accomplishing this are not clear; some Merinitae think it requires an invitation from a sovereign of Faerieland, others imagine that it requires a fundamental change to the faerie's nature. One school of thought suggests that death allows the faerie to escape the confines of reality and return to Arcadia, but it seems impossible to prove this for certain.
+
+> ### Faerie and Dreams
+> 
+> Many Merinitae believe that there is a connection to Arcadia in every person's mind. This is because they think dreams somehow influence and are influenced by the Faerie realm, which they consider to be the collective dreams of all humanity. Thus, faeries may occasionally be found to inhabit a person's imagination, accessible with Mentem magic and the specialized Dream Virtues of *The Mysteries Revised Edition*.
+> 
+> Characters with the Merinita Mystery Arcadian Travel can open trods into Arcadia through their dreams, if they wish. The maga produces a charm designed to lull the travelers to sleep, and they then journey to a dream-based Arcadia in spirit instead of flesh. While away, sleeping characters do not age or suffer ill effects of going without food or water, though they can die through other means — and if they do, their spirits remain in Faerie.
 
 ### The Shadow - Masters
 
@@ -3174,19 +3127,13 @@ One popular theory within House Merinita is that the four supernatural realms we
 
 When the angels rebelled against Heaven and fell, they divided the realms into two others: the Divine and Infernal.
 
-> ### Society Story Seeds
-> 
-> - On a particular day of the year, the entrance to a faerie regio becomes a trod leading directly to Arcadia, as the characters happen to discover, though they do not recognize the difference at first. They soon discover that in this part of Faerie, all of their custos can work magic, but that the magi have temporarily lost their powers.
-> - The characters discover a young woman in an underground cavern, undisturbed for centuries, who appears to be asleep. Her finger has been pricked with a pin, which is lying nearby and marked with the symbol of the goddess Juno. Players might recognize this variation on the "Sleeping Beauty" myth, and thus figure out how to wake the girl.
-> - A Merinita archmagus resents the attention given to Roman deities by the Order, and seeks instead to revive the Norse gods of war and destruction worshiped by his ancestors. Is this something with which the characters should interfere? How can they stop one pantheon from regaining strength, while encouraging another?
-
-> ## Pagan Glory
-> 
-> Gods and goddesses of the ancient world can be associated with either the Faerie or Magical realms, though those that have a magical aspect tend to be focused on themselves more than on their worshipers, and many of them are thought to have taken physical forms or retreated far from human society. Those who still seek followers and have an interest in mortal affairs are considered powerful faeries, and it may be difficult to distinguish them from other great lords and ladies of the faerie courts. Still, dedicated ceremonies designed to gain their attention and favor could plausibly have an effect, and many pagan Merinitae have claimed to have the blessings of their ancient deities at one time or another.
-
 However, at the same time, some of the angels chose to remove themselves from the conflict, choosing neither God nor Lucifer, and these beings remained separate from Heaven and Hell. Not being entirely human, they traveled freely between earth and Garden; these are the pagan gods and monsters of the ancient world. Thus, it is said, magic is associated with those who possess the knowledge of the Tree of Life — the children of Adam and Eve, the descendents of the serpent, and the named beasts of Eden — while faeries are the others who guard the edges of terrestrial paradise, who because of their otherworldly nature remain outsiders in human society.
 
 Other Merinitae suppose that the division between Magic and Faerie is a more recent phenomenon, having occurred at or soon after the birth of Christ. The physical incarnation of God in the human world was too much for most of the pagan gods and ancient heroes to withstand, they say, and caused the Spirit realm from which they originated to divide into two parts: those who returned to earth in natural forms joined the realm of Magic, and those that passed away forever became Faerie. The Merinitae who favor this idea maintain that the ancient gods and goddess remain in Arcadia as ghostly shadows of their former greatness, capable of only limited interaction with the physical world. They also suggest that they could be returned to power via concentrated worship or other human devices.
+
+> ### Pagan Glory
+> 
+> Gods and goddesses of the ancient world can be associated with either the Faerie or Magical realms, though those that have a magical aspect tend to be focused on themselves more than on their worshipers, and many of them are thought to have taken physical forms or retreated far from human society. Those who still seek followers and have an interest in mortal affairs are considered powerful faeries, and it may be difficult to distinguish them from other great lords and ladies of the faerie courts. Still, dedicated ceremonies designed to gain their attention and favor could plausibly have an effect, and many pagan Merinitae have claimed to have the blessings of their ancient deities at one time or another.
 
 #### The Cult of Vesta
 
@@ -3213,6 +3160,12 @@ The second level of Initiation comes after thirty years, when the maga leaves th
 **Script Bonus:** +10
 
 **Script Details:** The Initiate must prepare a cake using ritual ingredients. The grain must be from ears of wheat gathered on the three days of Lemuralia, which are the 7th, 9th, and 11th of May (+1). She must pound and heat brine in a jar within the hearth until it forms a salt rock that she cuts with a saw; she carries water from a sacred spring in specially crafted jugs whose bottoms taper to a point and whose water must not touch the ground (+1). She bakes the cake on Vestalia, June 9th, and places it on her hearth to attract the faeries (+1). On the Ides of June (June 15th), the Initiate must then thoroughly clean her dwelling, burning the refuse in the fire and scattering the ashes into the nearest river (+1). She must then meet the Mystagogue in her clean home. There, she swears to honor the faeries and takes a Vow of chastity (+3), which the faeries covertly witness (+3).
+
+> ### Society Story Seeds
+> 
+> - On a particular day of the year, the entrance to a faerie regio becomes a trod leading directly to Arcadia, as the characters happen to discover, though they do not recognize the difference at first. They soon discover that in this part of Faerie, all of their custos can work magic, but that the magi have temporarily lost their powers.
+> - The characters discover a young woman in an underground cavern, undisturbed for centuries, who appears to be asleep. Her finger has been pricked with a pin, which is lying nearby and marked with the symbol of the goddess Juno. Players might recognize this variation on the "Sleeping Beauty" myth, and thus figure out how to wake the girl.
+> - A Merinita archmagus resents the attention given to Roman deities by the Order, and seeks instead to revive the Norse gods of war and destruction worshiped by his ancestors. Is this something with which the characters should interfere? How can they stop one pantheon from regaining strength, while encouraging another?
 
 ## Merinita Mysteries
 
@@ -3334,16 +3287,6 @@ The character's magic is automatically dispelled in certain uncommon circumstanc
 
 This Flaw may be taken multiple times, so long as a different condition is specified for each.
 
-> ## Charms
-> 
-> Charms are casting aids that all magi who study Faerie Magic learn how to make, which identify a specific magical effect using sympathetic magic. They can be physical objects, like sculptures or drawings; or performances, like songs or stories; or even arcane pronouncements or ceremonies, like prophecy or naming.
-> 
-> A **temporary charm** takes about ten minutes to design, and must be used right away, typically with spontaneous magic. More lasting charms, or **permanent charms**, take several hours, and must involve a special object that the maga wields when she activates the charm, incorporating the object into the effect; if this object is damaged, the charm must be remade.
-> 
-> A maga who has a score in Faerie Magic and an Arcane Connection to her target may use a charm as a sympathetic representation, increasing her Penetration multiplier by two. This requires a roll when the charm is made: composing a song might use Communication + Music, while a drawing might be Dexterity + Craft. The maga produces an effective charm on a roll of six or more, or nine or more for a permanent charm. Other magi can do this without Faerie Magic, but it takes them longer and they need a higher total on the roll (see Sympathetic Connections, ArM5 page 84).
-> 
-> Temporary charms may only be used once, as they always include unique properties associated with the effect, though a permanent charm associated with a special object may be used whenever it is applicable. A maga may prepare any number of charms in advance, but may only incorporate one charm into a given spell in this way.
-
 ### New Abilities
 
 These Abilities are only taught to magi who have Initiated the Mysteries of House Merinita.
@@ -3353,6 +3296,16 @@ These Abilities are only taught to magi who have Initiated the Mysteries of Hous
 Faerie Magic is an Arcane Ability learned after Merinitae Initiate the Outer Mystery of Faerie Magic (see ArM5, page 92), which represents how their magic differs from normal Hermetic magic. This includes the ability to apply faerie thinking to arcane activities, usually by drawing out sympathetic connections between magical and mundane things.
 
 These mystic relationships may be integrated into casting tools that Merinitae often use with their spells, called **charms** (see sidebar). These are symbolic representations designed to highlight a particular quality of the target that always involve some sort of artistic ability. They may be used to increase Penetration, but are also used with many of the Inner Mysteries to produce other interesting effects.
+
+> #### Charms
+> 
+> Charms are casting aids that all magi who study Faerie Magic learn how to make, which identify a specific magical effect using sympathetic magic. They can be physical objects, like sculptures or drawings; or performances, like songs or stories; or even arcane pronouncements or ceremonies, like prophecy or naming.
+> 
+> A **temporary charm** takes about ten minutes to design, and must be used right away, typically with spontaneous magic. More lasting charms, or **permanent charms**, take several hours, and must involve a special object that the maga wields when she activates the charm, incorporating the object into the effect; if this object is damaged, the charm must be remade.
+> 
+> A maga who has a score in Faerie Magic and an Arcane Connection to her target may use a charm as a sympathetic representation, increasing her Penetration multiplier by two. This requires a roll when the charm is made: composing a song might use Communication + Music, while a drawing might be Dexterity + Craft. The maga produces an effective charm on a roll of six or more, or nine or more for a permanent charm. Other magi can do this without Faerie Magic, but it takes them longer and they need a higher total on the roll (see Sympathetic Connections, ArM5 page 84).
+> 
+> Temporary charms may only be used once, as they always include unique properties associated with the effect, though a permanent charm associated with a special object may be used whenever it is applicable. A maga may prepare any number of charms in advance, but may only incorporate one charm into a given spell in this way.
 
 Merinitae can integrate the principles of charms into their laboratory activities, making use of their knowledge of symbols associated with the Faerie and Magic realms in their work, and this is represented by three additional effects of the Faerie Magic Ability:
 
@@ -3364,7 +3317,7 @@ Faerie Magic might also represent the union of Faerie Lore and Magic Lore, the k
 
 **Specialties:** faerie vis, experimenting, inventing spells, charms, lore (Arcane)
 
-#### House Merinita lore
+#### House Merinita Lore
 
 This is the Ability that Merinitae use to Initiate their House Mysteries, and thus it is the one thing that they all have in common. It represents knowledge of all the secret rites, mysteries, and legends associated with the House, including all three schools of Faerie Magic Mysteries, and even the nature Mysteries taught by Merinita to her followers before she disappeared. Magi who wish to Initiate the Inner Mysteries should have at least a score of 1, and Mystagogues of the many different House cults typically have scores of 4 or 5.
 
@@ -3380,9 +3333,9 @@ If a character has been Initiated into the Outer Mystery of Faerie Magic, she ma
 
 There are three special powers inherent in the enchantment of a faerie familiar. These are:
 
-- **sHared PoWers:** The maga may activate any of the familiar's powers as if she possessed them herself, much like casting formulaic spells, by using her Fatigue Levels in place of Might. Each Fatigue Level she spends is worth a number of Might Points equal to (familiar's Might Score / 5). Thus, if her familiar had a Might Score of 10, the maga could spend a Fatigue Level as if it were 2 Might Points. Faeries do not have Fatigue Levels, but the familiar may expend the same number of Might Points as if it were a Fatigue Level, allowing it to exert itself in combat.
-- **sHared senses:** The maga can tell when the familiar perceives something with its faerie senses that she cannot, or when she can see something that her familiar cannot. Since most faeries have Second Sight, this is often useful information, and the familiar receives the same insight. This gives each of the couple at least a general idea of the direction and distance to the irregularity.
-- **sHared fatigue:** The familiar may regain (its Might Score / 5) Might Points by resting, just as the maga regain Fatigue Levels. For example, if a familiar with Might Score 10 had spent 2 Might Points, it could regain both of them by resting for two minutes. If it were down 4 Might Points, it would take it ten minutes of resting to regain the first two points, then two minutes more for the last. The familiar may also spend Might Points when the maga would lose a Fatigue Level, allowing her to draw upon its tirelessness instead of expending her own energy. This costs it a number of Might Points equal to the value of the Fatigue Level the maga would reach, with each Level worth (familiar's Might Score / 5). Thus, for a familiar with Might 10 to give the maga a Fatigue Level when she is Fresh would cost it 2 Might Points, Winded would cost 4, Weary 6, and so on.
+- **Shared Powers:** The maga may activate any of the familiar's powers as if she possessed them herself, much like casting formulaic spells, by using her Fatigue Levels in place of Might. Each Fatigue Level she spends is worth a number of Might Points equal to (familiar's Might Score / 5). Thus, if her familiar had a Might Score of 10, the maga could spend a Fatigue Level as if it were 2 Might Points. Faeries do not have Fatigue Levels, but the familiar may expend the same number of Might Points as if it were a Fatigue Level, allowing it to exert itself in combat.
+- **Shared Senses:** The maga can tell when the familiar perceives something with its faerie senses that she cannot, or when she can see something that her familiar cannot. Since most faeries have Second Sight, this is often useful information, and the familiar receives the same insight. This gives each of the couple at least a general idea of the direction and distance to the irregularity.
+- **Shared Fatigue:** The familiar may regain (its Might Score / 5) Might Points by resting, just as the maga regain Fatigue Levels. For example, if a familiar with Might Score 10 had spent 2 Might Points, it could regain both of them by resting for two minutes. If it were down 4 Might Points, it would take it ten minutes of resting to regain the first two points, then two minutes more for the last. The familiar may also spend Might Points when the maga would lose a Fatigue Level, allowing her to draw upon its tirelessness instead of expending her own energy. This costs it a number of Might Points equal to the value of the Fatigue Level the maga would reach, with each Level worth (familiar's Might Score / 5). Thus, for a familiar with Might 10 to give the maga a Fatigue Level when she is Fresh would cost it 2 Might Points, Winded would cost 4, Weary 6, and so on.
 
 The three cords still function as normal, but as it is part of the nature of faeries to chafe against bindings, the cords grow weaker over time (unless they are reinforced by the faerie cords described below). Every year one of them degrades, usually the one with the highest value. This is handled in a manner similar to the way Characteristics are affected by aging, so that each year one of the cords receives an Aging Point. After four years of Aging, a +3 cord would become +2, three years later it would become +1, and after two more years it would be 0. If all three cords have scores of 0, the bond degrades completely at the end of the year and the enchantment is broken. The faerie is released, and all powers that have been invested into the bond are lost.
 
@@ -3390,22 +3343,14 @@ Followers of Merinita have always been disappointed by this limitation of faerie
 
 Other Merinitae are troubled by this practice, especially as it seems to be the exact opposite of what their Founder believed, and distorts the whole purpose of her enchantment. Thus, many of them do not take faerie familiars at all, preferring to bind a magical animal for life using the standard method that has been integrated into Hermetic magic theory. It is also generally held that Merinitae who are extremely fay in personality should bind magical familiars, not faerie ones, to help balance their two natures, and so there is no stigma associated with this choice — in fact, a Merinita maga might even bind a magical familiar simply to increase her reputation as faerielike.
 
-#### The Three Faerie Cords
-
-In the late 1000s, a maga named Farrago Bonisagi discovered a solution to the dilemma of faerie familiars. She belonged to House Bonisagus, but she was very interested in integrating faerie powers with Hermetic magic theory, and she Initiated the Mystery of Faerie Magic many years after swearing the Oath, joining House Merinita to further her research. Her earliest project involved trying to find a way to learn faerie powers from a faerie familiar, Initiating them through the bond, but she was entirely unsuccessful at this, and she attributed her failure to the temporary nature of the enchantment. Soon she became obsessed with discovering a way to permanently bind herself to a faerie.
-
-Her studies led her to investigate cryptic comments attributed to Merinita, about additional cords in the familiar enchantment. She could not find a description of these cords, but she theorized that they were somehow connected to the others, and after many years of experimentation she was able to isolate three of them. She called these the leaden cord, the iron cord, and the tin cord, and she documented her discoveries well, so that anyone Initiated into Faerie Magic could take advantage of them. She also believed that there was at least one more cord still to be identified, but she did not speculate what it could do.
-
-> ## Temporary Familiars
+> ### Temporary Familiars
 > 
 > One of Merinita's first apprentices who later joined Quendalon, a maga named Alsia, developed a spell that allowed those with Faerie Magic to approximate binding a familiar, though of course the effect is only temporary. This unusual application quickly spread throughout the House, and it is particularly appreciated by those who favor taking many different familiars. Thus, it may be invented by anyone who has been Initiated into the Outer Mystery of Faerie Magic, and since it is old and popular, there are likely to be Lab Texts of it found in Hermetic libraries throughout Mythic Europe.
 > 
 > The idea of the spell is surprisingly acceptable within the House, as it is a common bargain for faeries to agree to serve a maga for a specific length of time, and this effect helps enforce the arrangement. It is the maga's responsibility to care for her slave, while it is expected to serve its master and do what she tells it to do. Those who abuse their familiars lose respect in the House, and may even find that some of their sodales are willing to help faerie slaves escape the terms of their service.
 > 
-> **Faerie Chains of the Familiar Slave**
-> 
-> CrVi Gen
-> 
+> ##### Faerie Chains of the Familiar Slave
+> CrVi Gen  
 > R: Touch, D: Until, T: Ind, Ritual Requisites: see below
 > 
 > This ritual binds a supernatural creature to the caster as her familiar, until a condition incorporated into the spell comes to pass. The level of the ritual must be no less than (the creature's Might + 15), though she may also need to penetrate its Magic Resistance if casting on an unwilling target. It has no effect if the target is already bound as a familiar to another.
@@ -3415,6 +3360,12 @@ Her studies led her to investigate cryptic comments attributed to Merinita, abou
 > Because the bond is often made under duress, the familiar is much more wild and independent than normal familiars, and typically must be subdued or guarded to ensure it does not try to escape. The two are probably at odds most of the time, and the faerie is likely to bear a grudge against the maga afterward if it is taken advantage of or treated badly.
 > 
 > (Base effect, +1 Touch, +4 Until)
+
+#### The Three Faerie Cords
+
+In the late 1000s, a maga named Farrago Bonisagi discovered a solution to the dilemma of faerie familiars. She belonged to House Bonisagus, but she was very interested in integrating faerie powers with Hermetic magic theory, and she Initiated the Mystery of Faerie Magic many years after swearing the Oath, joining House Merinita to further her research. Her earliest project involved trying to find a way to learn faerie powers from a faerie familiar, Initiating them through the bond, but she was entirely unsuccessful at this, and she attributed her failure to the temporary nature of the enchantment. Soon she became obsessed with discovering a way to permanently bind herself to a faerie.
+
+Her studies led her to investigate cryptic comments attributed to Merinita, about additional cords in the familiar enchantment. She could not find a description of these cords, but she theorized that they were somehow connected to the others, and after many years of experimentation she was able to isolate three of them. She called these the leaden cord, the iron cord, and the tin cord, and she documented her discoveries well, so that anyone Initiated into Faerie Magic could take advantage of them. She also believed that there was at least one more cord still to be identified, but she did not speculate what it could do.
 
 These three cords have negative effects, rather than positive. They hinder the maga's mind, body, and spirit in certain circumstances, offsetting the benefits of the other cords and making her more vulnerable. This is because they do not bring the maga and her familiar closer together, but rather bind the familiar more securely to the maga, preventing its faerie nature from eroding the cords that connect them. In a sense, these negative cords strengthen the positive cords, while at the same time limiting their power.
 
@@ -3443,9 +3394,9 @@ The three cords that bind the magus and his familiar also serve to lessen the pe
 Bonding with a faerie familiar usually involves forging three additional cords, as described above, and these cords are also negatively affected by this Virtue. The value of the cord is added to the penalty for having The Gift, making the magus and his familiar even more despised in certain circumstances related to the cord.
 
 - **The Leaden Cord:** The magus becomes less alluring in the Dominion, and Divine beings or people associated with the Divine realm are made more uncomfortable by his presence. The storyguide should subtract the value of the leaden cord from all social rolls made under these conditions, including whenever the magus is touching anything that is associated with the Divine realm. 
-- **tHe iron cord:** The Infernal realm brings out negative qualities in the magus and his familiar, enhancing the discomfort caused by his Gift. Subtract the value of the iron cord from all social rolls you make in Infernal auras, when dealing with beings who have Infernal Might or an Infernal background, or when touching things that are tainted with evil. The magus is also similarly penalized whenever he is touching iron.
+- **The Iron Cord:** The Infernal realm brings out negative qualities in the magus and his familiar, enhancing the discomfort caused by his Gift. Subtract the value of the iron cord from all social rolls you make in Infernal auras, when dealing with beings who have Infernal Might or an Infernal background, or when touching things that are tainted with evil. The magus is also similarly penalized whenever he is touching iron.
 
-**tHe tin cord:** The magus's Gift is particularly aggravating to normal people, those who do not have any sort of supernatural background at all. The storyguide should subtract the value of the tin cord from all of his social rolls governing mundane human interaction. 
+**The Tin Cord:** The magus's Gift is particularly aggravating to normal people, those who do not have any sort of supernatural background at all. The storyguide should subtract the value of the tin cord from all of his social rolls governing mundane human interaction. 
 
 In circumstances where more than one cord applies, use the one with the greater value. For example, when interacting with a person who has both faerie and magical aspects, apply either The Golden Gift or The Silver Gift, whichever is stronger. If both a positive and negative cord apply, use both, adding the bonus and subtracting the penalty.
 
@@ -3476,7 +3427,7 @@ A mundane destination can only be reached by first traveling to a level of a reg
 
 Besides the maga, a trod can affect a number of other people equal to her Faerie Magic score, so long as they all participate in the activation of the charm, concentrating upon it as the maga does. While they are immersed in the experience, the maga leads them through the trod, and they immediately appear at its destination beside the maga. It is impossible for a person to enter a trod unwillingly, though it might happen unwittingly.
 
-### Animae Magic (Major Arcadian Mystery)
+#### Animae Magic (Major Arcadian Mystery)
 
 This Mystery allows the maga to bring out faerie properties of everyday things, transforming inanimate objects into living beings and producing faerie creatures at will. These temporary faeries are called **animae**, "artificial souls." This includes a number of new spell guidelines that only magi with this Virtue can use, described below.
 
@@ -3486,42 +3437,7 @@ While they usually resemble humans and can often be affected by Corpus and Mente
 
 Merinitae often argue about the origins of animae. Some say they are simply a sleeping aspect of nature brought forth by Faerie Magic. Others say that a faerie spirit is summoned from Arcadia to animate the target. Some think that the magic actually creates a new faerie from the caster's belief. No one knows for sure if any of these theories are correct, though.
 
-#### Becoming (Major Arcadian Mystery)
-
-This Mystery teaches the maga how to become a faerie, as Quendalon was reputed to have done (though some secretly think it actually destroys the maga and summons a faerie to take her place). It is an irreversible process with many strange effects, both beneficial and otherwise, and the character must be prepared to undergo dramatic changes to her magic and her being that alter her very nature.
-
-There are three primary transformation rituals associated with Becoming, each one changing a different part of the maga: her body, her mind, and her spirit. This is done through a special kind of laboratory activity that only Merinitae who have Initiated this Mystery can attempt. The maga must perform all three rituals to become entirely fay, in any order, and each requires a season of effort, wherein the maga's Lab Total must equal or exceed the level of the ritual.
-
-The Technique and Form used determine what sort of faerie the maga becomes, and these may differ for each part of the enchantment: Transformation of the Body changes her appearance, Transformation of the Mind changes her personality, and Transformation of the Spirit changes her magic. After the enchantments are finished, the maga finds her being fundamentally altered to conform to these Arts. For example, Creo Ignem might cause her to look younger and swarthier, Intellego Animal might make her more prone to act on her instincts and curiousity, and Perdo Auram might associate her Might with the destructive properties of the weather.
-
-Each transformation ritual has its own criteria for determining the level of the effect, but until she has a Might Score, the maga's Lab Total cannot exceed her Warping Score multiplied by her Faerie Magic score. Prior to that time, she must use the lesser of the two formulas as her total. After her Transformation of the Spirit, she no longer has this limitation. For this reason, Merinitae often devote themselves to magical experiments and adventures that cause them to gain more Warping Points before performing these rituals.
-
-#### Becoming Lab Total Limit: Warping Score X Faerie Magic
-
-Like Initiating Mysteries, all of these transformation rituals are affected by Ordeals, either from previous Initiations or undertaken during the season of the transformation. Multiply the appropriate bonus for the Ordeal by five, and subtract it from the required level of the enchantment. For example, gaining a Major Flaw during a ritual would reduce the level of the first enchantment by 45, the next by 30, and the next by 15. This also counts as having Initiated a Mystery when applying that Ordeal to subsequent Mystery Initiations or rituals.
-
-**Ordeal Modifier: Level – (Initiation modifier x 5)**
-
-**Transforming the Body:** The maga does not age and never suffers Fatigue. She no longer has Fatigue Levels, and cannot exert herself as others do, either in combat or to cast spontaneous spells, though she may simulate this exertion by spending a confidence Point. As part of the enchantment, her apparent age and appearance become fixed on the cusp of two different phases of life: this is usually either her youth, right after puberty; or adulthood, when her hair first begins to turn gray; or old age, when her hair has become completely white. The level of the enchantment is the character's true age (the number of years that have passed since she was born) minus 35, plus five times her Decrepitude Score.
-
-**Transforming the Body: (Character's Age – 35) + (5 x Decrepitude Score)**
-
-**Transforming the Mind:** The maga needs no sleep. This means she has two additional free seasons each year, though she cannot perform laboratory activities during them. She can study or adventure, however, and can save up her extra time for the beginning or end of a season, so that she may finish lab projects in two months instead of three, and may spend up to sixteen days away from the lab with no penalty. However, she cannot learn any new Abilities ever again — she can improve Abilities she already possesses, but she cannot gain new ones — and she cannot invent spells or magical effects that are not at least similar to spells she already knows (see Similar Spells, ArM5 page 101). This limits her spontaneous magic and her laboratory inventions, though she can still master the spells she has learned. The level for this enchantment is the total of her scores in all of her Abilities.
-
-> ## Becoming and Familiars
-> 
-> When a maga becomes a faerie, she is affected by Merinita's enchantment in exactly the same way as a faerie. The cords begin to feel like heavy chains, and the bond becomes a hateful form of oppression by her familiar. Unless she has forged the balancing negative cords, the connection between them decays as normal, even if both of them are faeries. Some Merinitae theorize that there must be another ritual to transform the magical cords into faerie cords, which could allow two faeries bonded together to suffer no ill effects, but if that is possible it has not yet been discovered.
-
-**Transforming the Mind: Total Score in Abilities**
-
-**Transforming the Spirit:** The maga sacrifices The Gift and becomes a faerie creature. This makes her immune to Warping and gives her Faerie Might, which she may use for Magic Resistance and Penetration. She may still cast spells and perform laboratory activities, but doing so costs her one Might Point for each magnitude of the effect. She is also affected by wards like *Aegis of the Hearth* and other powers that affect faeries. The level of this enchantment is the total of her scores in all of her Arts, and once it is completed she gains a Might Score equal to half her Becoming Lab Total.
-
-**Transforming the Spirit: Total Score in Arts**
-
-**Faerie Might Score: Becoming Lab Total / 2**
-
-
-> ## Animae Guidelines
+> ### Animae Guidelines
 > 
 > Animae spells are Creo or Muto. A Muto spell transforms a mundane thing into a faerie, usually something appropriate to its nature, while Creo simply summons a faerie associated with the Form, and the maga has very little control over what. Since all faeries have Might, and since their Might is added to the level of the spell, Animae spells must always be designed at a level greater than that given in the guidelines. For example, to summon a faerie insect with a Might Score of 1 is a base level 11 Creo Animal effect, and to change a pool of water into a water faerie with Might 10 requires an effect of base level 20.
 > 
@@ -3679,6 +3595,40 @@ Like Initiating Mysteries, all of these transformation rituals are affected by O
 > 
 > **Level 2:** Change vis into a faerie, with (number of pawns x 5) Might Points, using up the vis in the process.
 
+#### Becoming (Major Arcadian Mystery)
+
+This Mystery teaches the maga how to become a faerie, as Quendalon was reputed to have done (though some secretly think it actually destroys the maga and summons a faerie to take her place). It is an irreversible process with many strange effects, both beneficial and otherwise, and the character must be prepared to undergo dramatic changes to her magic and her being that alter her very nature.
+
+There are three primary transformation rituals associated with Becoming, each one changing a different part of the maga: her body, her mind, and her spirit. This is done through a special kind of laboratory activity that only Merinitae who have Initiated this Mystery can attempt. The maga must perform all three rituals to become entirely fay, in any order, and each requires a season of effort, wherein the maga's Lab Total must equal or exceed the level of the ritual.
+
+The Technique and Form used determine what sort of faerie the maga becomes, and these may differ for each part of the enchantment: Transformation of the Body changes her appearance, Transformation of the Mind changes her personality, and Transformation of the Spirit changes her magic. After the enchantments are finished, the maga finds her being fundamentally altered to conform to these Arts. For example, Creo Ignem might cause her to look younger and swarthier, Intellego Animal might make her more prone to act on her instincts and curiousity, and Perdo Auram might associate her Might with the destructive properties of the weather.
+
+Each transformation ritual has its own criteria for determining the level of the effect, but until she has a Might Score, the maga's Lab Total cannot exceed her Warping Score multiplied by her Faerie Magic score. Prior to that time, she must use the lesser of the two formulas as her total. After her Transformation of the Spirit, she no longer has this limitation. For this reason, Merinitae often devote themselves to magical experiments and adventures that cause them to gain more Warping Points before performing these rituals.
+
+**Becoming Lab Total Limit: Warping Score X Faerie Magic**
+
+Like Initiating Mysteries, all of these transformation rituals are affected by Ordeals, either from previous Initiations or undertaken during the season of the transformation. Multiply the appropriate bonus for the Ordeal by five, and subtract it from the required level of the enchantment. For example, gaining a Major Flaw during a ritual would reduce the level of the first enchantment by 45, the next by 30, and the next by 15. This also counts as having Initiated a Mystery when applying that Ordeal to subsequent Mystery Initiations or rituals.
+
+**Ordeal Modifier: Level – (Initiation modifier x 5)**
+
+**Transforming the Body:** The maga does not age and never suffers Fatigue. She no longer has Fatigue Levels, and cannot exert herself as others do, either in combat or to cast spontaneous spells, though she may simulate this exertion by spending a confidence Point. As part of the enchantment, her apparent age and appearance become fixed on the cusp of two different phases of life: this is usually either her youth, right after puberty; or adulthood, when her hair first begins to turn gray; or old age, when her hair has become completely white. The level of the enchantment is the character's true age (the number of years that have passed since she was born) minus 35, plus five times her Decrepitude Score.
+
+**Transforming the Body: (Character's Age – 35) + (5 x Decrepitude Score)**
+
+**Transforming the Mind:** The maga needs no sleep. This means she has two additional free seasons each year, though she cannot perform laboratory activities during them. She can study or adventure, however, and can save up her extra time for the beginning or end of a season, so that she may finish lab projects in two months instead of three, and may spend up to sixteen days away from the lab with no penalty. However, she cannot learn any new Abilities ever again — she can improve Abilities she already possesses, but she cannot gain new ones — and she cannot invent spells or magical effects that are not at least similar to spells she already knows (see Similar Spells, ArM5 page 101). This limits her spontaneous magic and her laboratory inventions, though she can still master the spells she has learned. The level for this enchantment is the total of her scores in all of her Abilities.
+
+**Transforming the Mind: Total Score in Abilities**
+
+**Transforming the Spirit:** The maga sacrifices The Gift and becomes a faerie creature. This makes her immune to Warping and gives her Faerie Might, which she may use for Magic Resistance and Penetration. She may still cast spells and perform laboratory activities, but doing so costs her one Might Point for each magnitude of the effect. She is also affected by wards like *Aegis of the Hearth* and other powers that affect faeries. The level of this enchantment is the total of her scores in all of her Arts, and once it is completed she gains a Might Score equal to half her Becoming Lab Total.
+
+**Transforming the Spirit: Total Score in Arts**
+
+**Faerie Might Score: Becoming Lab Total / 2**
+
+> #### Becoming and Familiars
+> 
+> When a maga becomes a faerie, she is affected by Merinita's enchantment in exactly the same way as a faerie. The cords begin to feel like heavy chains, and the bond becomes a hateful form of oppression by her familiar. Unless she has forged the balancing negative cords, the connection between them decays as normal, even if both of them are faeries. Some Merinitae theorize that there must be another ritual to transform the magical cords into faerie cords, which could allow two faeries bonded together to suffer no ill effects, but if that is possible it has not yet been discovered.
+
 After the maga has become a faerie, she may strengthen her connection to the Faerie realm by performing lesser transformation rituals, further empowering the enchantment. In this way, the maga can give herself faerie powers or better imitate aspects of humanity that she has given up in the Becoming ritual. Here are three examples of lesser transformation rituals, though other rituals that impart faerie powers may exist, and could be discovered through experimentation or original research.
 
 **Altering the Enchantment:** The maga can make herself appear older or younger, and can choose a different Technique and Form to determine her physical appearance; or she can alter the Arts that determine her faerie personality; or she can increase her Might Score and change the associated Form. The level of this enchantment is the same level as the transformation ritual she is altering.
@@ -3731,7 +3681,7 @@ Spells may be designed so that the target is itself the charm, if the effect pro
 
 At the storyguide's discretion, charms that are absurdly broad — such as "a person" (character) or "Mythic Europe" (place) — give no bonus. Charms that the storyguide thinks inappropriate to the situation at hand may also fail. Anyone might be an "enemy," for example, and so it may be necessary for the player to adequately explain how the charm distinguishes the spell's target from other possible targets in order to receive the bonus.
 
-> ## Charm Categories
+> #### Charm Categories
 > 
 > **Adage:** "There is truth in wine," "Power corrupts," or "Out of sight, out of mind."
 > 
@@ -3779,7 +3729,7 @@ A maga with Symbolic Magic may design permanent charms that other characters may
 
 Finally, the maga gains the ability to design ritual spells that use a new Symbol Range, Duration, and Target, described below. Each ritual requires that she make a symbolic representation that identifies the target through at least three different charms (this requires Faerie Magic 3 and a Characteristic + Ability roll against an Ease Factor of 12 to design the symbol). For example, a portrait designed to affect the Faerie Queen of Irencillia at Symbol Range might include a "queen" (character) charm, a "winter" (event) charm, and a "faerie" (character) charm. To use Symbol Range, Duration, and Target together in one spell would require a total of nine charms (requiring Faerie Magic 9).
 
-> ## Symbol Range, Duration, & Target
+> #### Symbol Range, Duration, & Target
 > 
 > **Symbol** (Range): You can affect something represented by a symbol as if you had an Arcane Connection to it, essentially allowing you to create an Arcane Connection to your target. This spell must be a ritual, but is otherwise equivalent to Arcane Connection range. If the symbol does not uniquely describe the target, the spell fails, since an Arcane Connection must be specific to a single target (unless cast with Target: Symbol).
 > 
@@ -3798,19 +3748,6 @@ At the inauguration of House Ex Miscellanea in 817, there was a great party of n
 Emrys was interested in his son's joining House Merinita: at the same Tribunal that Emrys swore the Oath, Quendalon announced his House's new dedication to Faerie. The jewel-eyed Primus listened to the seer's story, accepted his charge, and took the boy back with him to Irencillia. Emrys went with them, remaining long enough to see his son settled and formally adopted as Quendalon's apprentice, before returning to Wales to face his end. It was said that afterward, those with Second Sight could sometimes see the spirit of Emrys watching over the boy during the summer months.
 
 Ambrosius of Merinita obviously had strong faerie heritage (his mother was a faerie enchantress, or so it was said) and had already demonstrated signs of potent supernatural abilities before Quendalon Initiated him into the secrets of Faerie Magic. As he grew, he began to demonstrate an instinctive knowledge of other Mysteries, magic associated with charms and symbols, and with fortune and fate. He had a remarkable affinity for making symbolic predictions, and wrote many of these on long scrolls in poetic couplets.
-
-
-> ### Recurring Spells
-> 
-> Use the frequency that most closely matches how often the spell recurs, rounding up to the next greater magnitude. For example, a spell that recurs every ten minutes adds five magnitudes. Spells cannot recur more often than once per minute.
-> 
-> | Frequency | Magnitudes |
-> |-----------|:----------:|
-> | minute    |     +5     |
-> | day       |     +4     |
-> | month     |     +3     |
-> | year      |     +2     |
-> | decade    |     +1     |
 
 He took apprentices of his own, and by his example they learned to perform similar feats of prophecy, though each of them used a different medium. One of his followers carried a set of carved stones with symbols on them, which he would throw and consult when casting his spells. Another was a musician, who would compose a different song for each charm. A third was interested in heraldry, and made charms based on colors and devices.
 
@@ -3850,13 +3787,25 @@ In addition, this Mystery allows the Merinita's spells to have **recurring** eff
 
 Recurring spells may be given triggers, using the special (Condition) durations above. The cost for making them recur is based on how often they can be activated; if a daily-recurring effect is activated twice in one day, the second trigger has no effect. Also, spells cannot stack; when a spell recurs, it cancels before starting again. This is not a noticeable interruption; as with an enchanted device, the transition usually appears constant.
 
+> #### Recurring Spells
+> 
+> Use the frequency that most closely matches how often the spell recurs, rounding up to the next greater magnitude. For example, a spell that recurs every ten minutes adds five magnitudes. Spells cannot recur more often than once per minute.
+> 
+> | Frequency | Magnitudes |
+> |-----------|:----------:|
+> | minute    |     +5     |
+> | day       |     +4     |
+> | month     |     +3     |
+> | year      |     +2     |
+> | decade    |     +1     |
+
 #### Glamour (Major Illusion Mystery)
 
 Glamours are illusions with a significant amount of reality. They are Muto or Creo Imaginem spells that only magi with this Virtue may invent or cast.
 
 A glamour seems to have all the properties of an actual thing of the same type, including substance. Thus, a glamour bridge can support weight, a glamour fire can ignite parchment, and glamour wine can quench thirst. They are essentially real for the spell's duration, which means that they can have lasting effects on their environment.
 
-> ## Glamour Guidelines
+> #### Glamour Guidelines
 > 
 > Particularly intricate glamours, such as those that mimic a recognizable subject, or those with complex sensory components such as clear words or moving parts, add an additional magnitude to the spell. To produce a glamour that can move or act under the caster's mental direction adds two magnitudes.
 > 
@@ -3865,20 +3814,19 @@ A glamour seems to have all the properties of an actual thing of the same type, 
 > The final form of a target changed into glamour will usually have recognizable properties in common with its true shape. For example, a person transformed into an animal might be extremely expressive and possibly retain other human qualities such as the ability to speak or walk upright. Size modifiers also apply to the spell level if there is a significant difference between the original shape and the new shape.
 > 
 > **Creo Imaginem Level 10:** Create a glamour.
-> 
-> **Muto Imaginem**
-> 
+>
+> **Muto Imaginem**  
 > **Level 10:** Change a target into glamour. (Requisite of the Form of the target required.)
 
-> ## Spell Glamours
+> #### Spell Glamours
 > 
 > A curious application of Glamour has developed among the Merinita branch of the Followers of Pendule, inspired by the stories of their namesake. Instead of using metamagic to change spells into other spells, they use glamours to change spells into other spells. These spell glamours must conform to the guidelines for Muto Vim, in that they cannot affect spontaneous magic, must target a spell cast by another, must be fast-cast, and must penetrate the spell's Penetration Total. They must also specify the Form of the affected spell, as well as the type of magic (Hermetic, Faerie Magic, hedge tradition, etc.).
 > 
 > Spell glamours are excellent for countermagic, but when used deliberately on an unsuspecting magus, they are considered to deprive him of his magical power, and magi whose pranks have destructive effects could find themselves taken to Tribunal on this charge. Pendule's followers are loathed by most magi of House Flambeau, and may also find themselves embroiled in Wizard's Wars with them as a matter of principle.
 > 
 > **Ball of Abysmal Music**
-> 
-> MuIm 20 R: Voice, D: Mom, T: Ind Req: Vim
+> MuIm 20  
+> R: Voice, D: Mom, T: Ind Req: Vim
 > 
 > This spell targets a formulaic Ignem spell while it is being cast, changing it so that instead of creating fire, heat, or light, it produces a harmless burst of color and sound. This was reputedly Pendule's favorite spell, and he taught it to all of his Merinita followers after Initiating them into the Inner Mystery of Glamour. Note that since the spell must be fast-cast, it cannot be cast formulaically unless it has been mastered for that purpose.
 > 
@@ -3922,7 +3870,11 @@ Pendule quietly succumbed to death in 854, but not before imparting one last mag
 
 Merinita knew a very different kind of magic from that which the rest of the House practices. It dealt with the power of untamed wildlands and drawing out the magical qualities of nature. Her Mysteries fall outside the bounds of Faerie Magic and are not usually available to members of her House. They can sometimes be found among magi from other Houses, especially Bjornaers from the lost line of Myanar, and one or two nature magi supposedly remain in the House to show the way to others, teaching the nature Mysteries alongside the House Mysteries of Faerie Magic. For the most part, however, the nature Mysteries are mysteries to members of Merinita's House.
 
-> ## Sample Nature
+#### Nature Lore (Minor Outer Mystery)
+
+As an initial step into the nature Mysteries, a maga must choose a type of nature with which she is associated. This represents her supernatural connection to the natural world. The character gains a Supernatural Ability, called Nature Lore, which is associated with this form of nature. For example, a character interested in forests would learn Forest Lore, and a maga who is interested in animals would learn Animal Lore. This Mystery gives her a score of 1 in this Ability. Merinita's interest was reputedly Forests, and thus that is the most common version — characters who have learned Forest Lore as described in *Guardians of the Forests: The Rhine Tribunal* effectively possess this Ability.
+
+> #### Sample Nature
 > 
 > | Lore     | Description |
 > |----------|-------------|
@@ -3933,40 +3885,26 @@ Merinita knew a very different kind of magic from that which the rest of the Hou
 > | Desert   | Dry, non-arable land of extreme temperatures |
 > | Mountain | Earth and stone, found in hills, peaks, and valleys |
 
-#### Nature Lore (Minor Outer Mystery)
-
-As an initial step into the nature Mysteries, a maga must choose a type of nature with which she is associated. This represents her supernatural connection to the natural world. The character gains a Supernatural Ability, called Nature Lore, which is associated with this form of nature. For example, a character interested in forests would learn Forest Lore, and a maga who is interested in animals would learn Animal Lore. This Mystery gives her a score of 1 in this Ability. Merinita's interest was reputedly Forests, and thus that is the most common version — characters who have learned Forest Lore as described in *Guardians of the Forests: The Rhine Tribunal* effectively possess this Ability.
-
-> ## Using Nature Lore
-> 
-> The following describe the effects of various Nature Lore scores. Negative scores have no useful effect. Always treat a maga's score in Nature Lore as three less outside of her home region.
-> 
-> - 0 An elementary understanding of the area; the maga merely has to spend a few hours in such a place to locate its important sites and know its major dangers.
-> - 1 A basic understanding of the place, its denizens, and important locations. Limited communication is possible.
-> - 2 An awareness of the supernatural elements of the area; the maga can detect when they are nearby, or whether a person has been affected by them; she can perceive the boundaries of magical regiones within the area.
-> - 3 The maga can locate vis in the area, once per season, by spending only a few days searching.
-> - 4 An understanding with the area's supernatural residents; they tend to act neutrally towards the maga. Through signs and their behavior, the character can recognize when danger is near or there is a disturbance in the normal way of things.
-> - 5 The maga can communicate fluently with nature in the area. The maga is respected by most of the denizens.
-> - 6 The maga is respected and acknowledged as an ally by the area and its denizens. Residents usually come to the maga's aid when called for.
-> - 7 The maga can mentally communicate with the denizens of the area, simply by thinking about them. The maga has only to concentrate to summon help.
-> - 8 The maga can target any part of the area as if she had a permanent Arcane Connection to it.
-> - 9 All the denizens of the area feel compelled to obey the maga, and follow her commands faithfully.
-
 The character's score in Nature Lore serves many purposes. For one thing, it can be used as Area Lore for the place in which the maga learned it. This includes knowledge of supernatural beings and places with an association to the area, especially what would please or anger them. As this understanding grows, the maga develops a rapport even outside of this familiar territory, allowing her to commune with nature in other places. To represent this, always treat her score in Nature Lore as three less outside of her home region.
 
 In this same way, Nature Lore allows the character to communicate with all nature associated with her Ability. For many aspects of nature, this communication is slow going and many concepts are difficult to convey, since the character is limited to the senses and sounds possessed by the subject. A character with Mountain Lore 5 can interrogate a rock by simply touching it, though this process probably takes several hours.
 
 Nature Lore can only be increased through Adventure, Practice, or Exposure experience, and the Source Quality is equal to the aura of the area. Nature magi usually develop a deep attachment to this place and spend a lot of time there.
 
-## Area Size modifiers
-
-| Size | Area | Example |
-|------|------|---------|
-| +1 | One pace in diameter | A well or spring |
-| +2 | Ten paces in diameter | A great boulder |
-| +3 | 100 paces in diameter | A grove of trees |
-| +4 | 1,000 paces in diameter | A frozen plain |
-| +5 | 10,000 paces in diameter | The North Wind |
+> #### Using Nature Lore
+> 
+> The following describe the effects of various Nature Lore scores. Negative scores have no useful effect. Always treat a maga's score in Nature Lore as three less outside of her home region.
+> 
+> 0 An elementary understanding of the area; the maga merely has to spend a few hours in such a place to locate its important sites and know its major dangers.  
+> 1 A basic understanding of the place, its denizens, and important locations. Limited communication is possible.  
+> 2 An awareness of the supernatural elements of the area; the maga can detect when they are nearby, or whether a person has been affected by them; she can perceive the boundaries of magical regiones within the area.  
+> 3 The maga can locate vis in the area, once per season, by spending only a few days searching.  
+> 4 An understanding with the area's supernatural residents; they tend to act neutrally towards the maga. Through signs and their behavior, the character can recognize when danger is near or there is a disturbance in the normal way of things.  
+> 5 The maga can communicate fluently with nature in the area. The maga is respected by most of the denizens.  
+> 6 The maga is respected and acknowledged as an ally by the area and its denizens. Residents usually come to the maga's aid when called for.  
+> 7 The maga can mentally communicate with the denizens of the area, simply by thinking about them. The maga has only to concentrate to summon help.  
+> 8 The maga can target any part of the area as if she had a permanent Arcane Connection to it.  
+> 9 All the denizens of the area feel compelled to obey the maga, and follow her commands faithfully.
 
 The character may Initiate other Mysteries by communing with the supernatural aspects of nature. This process is called "walking the path." The character must find a magical being associated with her Ability that is willing to teach her its secrets. In game terms, the character gains a Flaw (the "sacrifice"), performs a task assigned by the teacher (the "quest"), and at the conclusion gains a special Virtue (the "fruit"). A Minor Flaw yields a Minor Virtue, and a Major Flaw grants a Major Virtue. More information on this process and several sample paths may be found in *Guardians of the Forests: The Rhine Tribunal*.
 
@@ -3982,9 +3920,19 @@ The maga then generates a total based on a Technique and Form that will determin
 
 **Awakening Level: 25 + Might + (Size x 5), or (Aura + Size modifier) x 5**
 
+>#### Area Size modifiers
+>
+>| Size | Area | Example |
+>|------|------|---------|
+>| +1 | One pace in diameter | A well or spring |
+>| +2 | Ten paces in diameter | A great boulder |
+>| +3 | 100 paces in diameter | A grove of trees |
+>| +4 | 1,000 paces in diameter | A frozen plain |
+>| +5 | 10,000 paces in diameter | The North Wind |
+
 As when binding a familiar, the character's total must equal or exceed this effect level to complete the ritual, which costs one pawn of vis of an Art associated with the maga's Nature Lore Ability for each five levels of the total. Once the enchantment is complete, the being gains a Magic Might score if does not already have one, equal to the (aura x 5), and if it is an animal it gains Intelligence instead of Cunning.
 
-#### aWakening cost: 1 pawn of vis per five levels or fraction
+**Awakening Cost: 1 pawn of vis per five levels or fraction**
 
 A maga may also spend additional seasons to imbue the newly awakened being with special powers, which it can activate with its Might. This is similar to crafting an invested device, for the subject has been prepared for enchantment as part of the awakening ritual. Note the amount of vis spent to awaken it, because this limits how many powers the maga can give it.
 
@@ -4026,12 +3974,6 @@ If the maga is successful, her body becomes ghostly and invisible, and like a gh
 
 As a guardian spirit, the maga does not age, and does not need to worry about human needs for survival—she does not eat, drink, or breathe, and she is invulnerable to extreme temperatures and physical damage. She may fatigue herself and can even fall  unconscious, and still requires rest and sleep as normal. She cannot study, but she does gain Exposure. She may still cast spells, though she does so without words and gestures, and she must be able to perceive her target within the constraints of her locus. To cast a spell with Sight range, for example, she must possess an animal in the area that can see her target. She can still gain Warping Points and experiences Twilight as normal. She also gains one Warping Point every year for being under a constant mystical effect.
 
-> ## Mystery Story Seeds
-> 
-> - A faerie agrees to serve a maga as her familiar slave in exchange for the promise not to harvest one of the covenant's minor vis sources. When another covenant tries to gather the vis, however, the maga must protect it or break the bargain and lose her familiar.
-> - The folk hero of a nearby village was renowned for his skill as a healer, and his former possessions would be very useful to a Merinita with a similar interest, as they could be made into charms. Likewise, even mundane possessions of a famous magus like Ambrosius would likely fetch a high price among Merinitae folk magi.
-> - A pond is said to contain a magical fish that cannot be caught but speaks and has magical powers. The magi learn that it is the last of the descendants of an animal given intelligence many generations before by a lady in green. It threatens the magi, cursing them if they do not help it escape so that it can reproduce.
-
 If any part of her locus is tamed, or destroyed in an unnatural way, the maga experiences great pain as part of her being is torn away from her. This translates to a Light Wound for an individual object in her locus (like an animal or a stone), a Medium Wound for part of the area that makes up her locus (a circle of earth, or water in a stream), and a Heavy Wound for a group of objects in her locus (such as several clouds or a grove of trees), all of which give penalties to the maga's actions. If these injuries worsen, she gains an Aging Point and suffers a Crisis instead of dying. Time and appropriate Creo magic can eventually heal these wounds, so long as some of her locus remains unspoiled, but her locus is her essential nature, and if it is entirely undone, she dies a terrible death.
 
 #### Mystery Cult: True Merinitae
@@ -4052,6 +3994,12 @@ True Merinitae always begin with Nature Lore, but they must also Initiate Faerie
 
 **Script Details:** This Initiation Script supposedly comes to the True Merinitae from the *galli*, a sect of nature worshippers once associated with the wild lands beyond the Roman Empire, by way of integration into the Cult of Diana. The magus must host a festival honoring Cybelle, a goddess of the wilderness, from the 15th to the 27th of March (+1). On March 24th, The Day of Blood, while revelers dance and play cymbals, drums, and flutes, he is ritually castrated (+6) beneath a pine sacred to Cybelle (+1), and enough of his blood collected to fill a bowl (+1). Through this Ordeal, he gains the Short-Ranged Magic Flaw (+9), and his Wizard's Sigil changes slightly to become associated with violets (+1).
 
+> ### Mystery Story Seeds
+> 
+> - A faerie agrees to serve a maga as her familiar slave in exchange for the promise not to harvest one of the covenant's minor vis sources. When another covenant tries to gather the vis, however, the maga must protect it or break the bargain and lose her familiar.
+> - The folk hero of a nearby village was renowned for his skill as a healer, and his former possessions would be very useful to a Merinita with a similar interest, as they could be made into charms. Likewise, even mundane possessions of a famous magus like Ambrosius would likely fetch a high price among Merinitae folk magi.
+> - A pond is said to contain a magical fish that cannot be caught but speaks and has magical powers. The magi learn that it is the last of the descendants of an animal given intelligence many generations before by a lady in green. It threatens the magi, cursing them if they do not help it escape so that it can reproduce.
+
 # Chapter Four: House Verditius
 
 *Other magi see these devices as tools, like a sword or a spade. They do not understand what it takes to make magical devices and that is why they cannot make them as well as we can. They do not understand that what they call tools are part of our minds, extensions of ourselves as surely as our hands and our words. The simple truth is that the crafter must put himself in what he creates if it is to be worthy of him.*
@@ -4062,11 +4010,17 @@ House Verditius is home to the master enchanters of the Order, magi who create u
 
 Combining the talents of Mediterranean artificers and Scandinavian mage-smiths, they have incorporated the most recent understandings of item creation into their magic. Verdi, the domus magna of the House, sits at a cultural crossroads, influenced by Christian alchemical tracts, classical philosophical treatises, Muslim academics, and Jewish scholars. These influences are noticeable in the House's members, magi who cross typical medieval biases of religion and race. Their desire to create binds them together.
 
-> ## Key Facts
+House Verditius magi are also members of a secret cult, one of the Order of Hermes' Mystery Cults, and they guard their magical knowledge jealously. Verditius magi are Initiated into the House's Inner Mysteries through secret rites and ceremonies. The basic process of enchanting items has been shared with the Hermetic public, but the more powerful practices of the House are secrets that remain well hidden among its closedmouthed members. Verditius magi take oaths of secrecy to ensure the sanctity of these secrets, and the penalties for breaking these oaths are severe.
+
+Within the following pages, storyguides and troupes will discover the inner workings of House Verditius, their history and current concerns, their culture and society, and most importantly, their magic.
+
+> ### Key Facts
 > 
 > **Population**: 74
 > 
-> **Domus Magna**: Verdi, in Sardinia **Primus**: Stouritus
+> **Domus Magna**: Verdi, in Sardinia 
+>
+>**Primus**: Stouritus
 > 
 > **Favored Tribunals**: Rome and Thebes Tribunals
 > 
@@ -4074,19 +4028,7 @@ Combining the talents of Mediterranean artificers and Scandinavian mage-smiths, 
 > 
 > **Symbol:** A hand with a ring on each finger; these are the five rings that Verditius made, perhaps the most powerful magic rings in Hermetic history.
 
-House Verditius magi are also members of a secret cult, one of the Order of Hermes' Mystery Cults, and they guard their magical knowledge jealously. Verditius magi are Initiated into the House's Inner Mysteries through secret rites and ceremonies. The basic process of enchanting items has been shared with the Hermetic public, but the more powerful practices of the House are secrets that remain well hidden among its closedmouthed members. Verditius magi take oaths of secrecy to ensure the sanctity of these secrets, and the penalties for breaking these oaths are severe.
-
-Within the following pages, storyguides and troupes will discover the inner workings of House Verditius, their history and current concerns, their culture and society, and most importantly, their magic.
-
-## History
-
-### The Cult of Hephaestus
-
-House Verditius's legends trace its roots back to the ancient Greeks, who learned their smith craft from Hephaestus, the divine artificer and god of smiths. The legends say that he was the parthenogenetic son of Hera, who had little interest in the deformed god born lame. Zeus cast him out of Olympus and into the sea like so much refuse. The sea nymphs, Thetis and Eurynome, rescued and raised Hephaestus. They built Hephaestus a large forge beneath the sea in an underwater grotto. Hephaestus immediately began creating beautiful brooches and other jewelries for his foster mothers. One overly beautiful brooch caught Hera's attention, and she asked Thetis where she got it. The nymph revealed her secret, that Hera's son still lived and was forging these marvelous baubles. Hera retrieved Hephaestus and returned him to Olympus, building him a much grander forge and arranging his marriage to Zeus's daughter Aphrodite.
-
-Hephaestus's stay in Olympus was brief. To punish his wife after a volatile domestic dispute, Zeus threatened to torture Hera. Hephaestus begged Zeus for clemency, which only angered the Lord of the Sky. Cast from Olympus a second time by his father, the god landed on the island of Lemnos, weak, wounded, and near death. The friendly inhabitants of the island nursed him back to health. Furious at his treatment at his father's hands, Hephaestus decided to remain on Lemnos. He took twelve forge-companions, individuals from the island who had an inclination for the god's industry.
-
-> ## Famous Figures
+> ### Famous Figures
 > 
 > **Verditius**, Founder of the House, creator of magical devices nonpareil
 > 
@@ -4101,6 +4043,14 @@ Hephaestus's stay in Olympus was brief. To punish his wife after a volatile dome
 > **Tierent**, a 12th century magus who developed a method to bind the power of faeries to magic items
 > 
 > **Icilius the Traitor**, a 12th century magus who released the secret of the Inner House Mystery Automata to the Order of Hermes
+
+## History
+
+### The Cult of Hephaestus
+
+House Verditius's legends trace its roots back to the ancient Greeks, who learned their smith craft from Hephaestus, the divine artificer and god of smiths. The legends say that he was the parthenogenetic son of Hera, who had little interest in the deformed god born lame. Zeus cast him out of Olympus and into the sea like so much refuse. The sea nymphs, Thetis and Eurynome, rescued and raised Hephaestus. They built Hephaestus a large forge beneath the sea in an underwater grotto. Hephaestus immediately began creating beautiful brooches and other jewelries for his foster mothers. One overly beautiful brooch caught Hera's attention, and she asked Thetis where she got it. The nymph revealed her secret, that Hera's son still lived and was forging these marvelous baubles. Hera retrieved Hephaestus and returned him to Olympus, building him a much grander forge and arranging his marriage to Zeus's daughter Aphrodite.
+
+Hephaestus's stay in Olympus was brief. To punish his wife after a volatile domestic dispute, Zeus threatened to torture Hera. Hephaestus begged Zeus for clemency, which only angered the Lord of the Sky. Cast from Olympus a second time by his father, the god landed on the island of Lemnos, weak, wounded, and near death. The friendly inhabitants of the island nursed him back to health. Furious at his treatment at his father's hands, Hephaestus decided to remain on Lemnos. He took twelve forge-companions, individuals from the island who had an inclination for the god's industry.
 
 The islanders worked dutifully with the god. Two of the twelve were Gifted, and Hephaestus taught them many of his magical secrets. While their created items were powerful, none matched those crafted by Hephaestus. While his followers made lesser items, Hephaestus continued to forge many of the famous magical items of legend, given to the other gods as gifts.
 
@@ -4130,15 +4080,15 @@ Verditius visited the sites associated with Wayland in the Scandinavian lands, D
 
 His search was unsuccessful until he met a raven, perched on a dying yew tree. The bird spoke, saying that the only way to reach Wayland in the otherworld was for a wanderer to inflict a permanent wound upon himself, one reminiscent of Wayland's wounding in legend. Driven by desire, Verditius maimed himself, removing his left foot with one deft stroke of his hatchet. Pain washed over him and he fell unconscious. When he awoke, he was lying in a bed in a large wooden lodge. Wayland had tended and dressed his wound. The master smith agreed to take Verditius as his apprentice, and within two years he taught him all he knew about smith craft and rune magic.
 
-> ## Verdi: Domus Magna
-> 
-> The domus magna of House Verditius is Verdi. Found on the island of Sardinia, it consists of a squat stone tower surrounded by six taller stone towers. The main tower is a patchwork affair, initially built over the sacred Forge of Hephaestus and repaired regularly as it ages. Six towers stand in a rough circle around the main tower, each named after the Primus who created it. A vast network of caves and tunnels runs underneath the site, connecting the towers and leading to a number of laboratories and chambers. Within this rocky labyrinth is the Forge of Hephaestus, where the god forged many of his wondrous devices. While this chamber could be used as a laboratory, it primarily functions as an Initiation chamber for Verditius magi entering the Inner Mysteries.
-> 
-> The entire complex is nestled in a wooded valley, surrounded by *nuraghi*, slender towers made of closely stacked stone, built by an unknown race in the distant past. Although only stacked of stones, these are complex structures composed of inter-connecting walls and multiple-turreted towers. These abandoned "proto-castles" dot the landscape of northern Sardinia. Each also occupies a minor Magic aura, making Hermetic historians wonder about the identity of the builders. Whether the *nuraghi* created the magic auras or were built on existing auras, the fact remains that northern Sardinia is dotted with magical auras.
-> 
-> Verdi is a thriving community, home to just over one hundred people. Six Verditius magi make Verdi their permanent residence, including the Primus. There are at least ten other laboratories available to Verditius magi who might wish to study at Verdi for extended periods. Each laboratory includes a forge, necessary for many of the Verditius crafters, and other tools of production are available for those who engage in various trades. Even with this large number of inhabitants, many of the towers remain vacant most of the time.
-
 During this time, Verditius constructed five rings of magic, one for each finger and the thumb of his right hand. Using all he had learned from the Cult of Vulcan and including the runic Mysteries Wayland taught him, these rings surpassed in power anything he had ever made or seen.
+
+> #### Story Seed: The Rings of Verditius
+> 
+> Verditius history is contradictory when referring to the rings that the Founder made. Some sources state they were lost in Corsica, while others say Gelon recovered them. They are not in Verdi, where they properly belong.
+> 
+> A Verditius character learns that a Seeker has recently claimed to have found the rings. She is boldly announcing her accomplishments and taking the rings to Durenmar, after studying them herself in her sanctum. The Verditius character most likely wants the rings, either for personal research or to return them to their proper place in Verdi. This story could take several paths. The character could find others of his House and wage a political campaign to have the rings returned. He could offer to help the Seeker research the rings. He could simply attempt to steal the rings.
+> 
+> The rings themselves should be of more than historical interest. In their day, they were the supreme enchanted items, and may surpass anything crafted by contemporary Hermetic magi. Alternatively, they might be weak in absolute terms, but with capabilities that break the limits of Hermetic magic, such as the ability to heal permanently without vis. Storyguides must decide for themselves whether the Founders really were more powerful than contemporary magi, or have simply grown in the telling, and allow this decision to shape the powers of Verditius's rings.
 
 Verditius returned to Hephaestus's forge in Sardinia and started producing enchanted items. Keeping with tradition, he gathered twelve forge-companions to assist him. He taught the Mysteries of his magic to his Gifted apprentices, slowly reforming the old Cult of Vulcan, and grandiosely renaming it the Cult of Verditius. It was during these early stages that Trianoma found him and invited him to join Bonisagus's burgeoning order of magi. The thought of a peaceful coalition of magi appealed to him, as he remembered his master's stories of rapacious wizards robbing the Cult 
 
@@ -4146,13 +4096,13 @@ Vulcan. Learning the Parma Magica was a powerful incentive, and its efficacy imp
 
 At Durenmar, Verditius taught Bonisagus how to enchant items, while Bonisagus taught Verditius Hermetic magic. Caught up in the rapture of their shared instruction, Bonisagus wanted to know more of the smith's magic, but Verditius refused, claiming that he had shown the elder magus enough. Verditius quickly learned Bonisagus's Hermetic magic, but he was never a very good spell caster. While he could cast spontaneous spells, he was unable to cast formulaic magic, despite having memorized the enchantments. Verditius stayed at Durenmar for only a short time, leaving soon after he participated in the founding oath. The forge that he built and used during his stay still survives. In Sardinia, Verditius decided that Hephaestus's Forge would serve as the foundation for his new House. He built the first tower on the site and named it "Verdi." Verditius never returned to Durenmar, instead sending his first filius, Gelon, to attend the original Grand Tribunal meetings.
 
-> ## Story Seed: The Rings of Verditius
+> ### Verdi: Domus Magna
 > 
-> Verditius history is contradictory when referring to the rings that the Founder made. Some sources state they were lost in Corsica, while others say Gelon recovered them. They are not in Verdi, where they properly belong.
+> The domus magna of House Verditius is Verdi. Found on the island of Sardinia, it consists of a squat stone tower surrounded by six taller stone towers. The main tower is a patchwork affair, initially built over the sacred Forge of Hephaestus and repaired regularly as it ages. Six towers stand in a rough circle around the main tower, each named after the Primus who created it. A vast network of caves and tunnels runs underneath the site, connecting the towers and leading to a number of laboratories and chambers. Within this rocky labyrinth is the Forge of Hephaestus, where the god forged many of his wondrous devices. While this chamber could be used as a laboratory, it primarily functions as an Initiation chamber for Verditius magi entering the Inner Mysteries.
 > 
-> A Verditius character learns that a Seeker has recently claimed to have found the rings. She is boldly announcing her accomplishments and taking the rings to Durenmar, after studying them herself in her sanctum. The Verditius character most likely wants the rings, either for personal research or to return them to their proper place in Verdi. This story could take several paths. The character could find others of his House and wage a political campaign to have the rings returned. He could offer to help the Seeker research the rings. He could simply attempt to steal the rings.
+> The entire complex is nestled in a wooded valley, surrounded by *nuraghi*, slender towers made of closely stacked stone, built by an unknown race in the distant past. Although only stacked of stones, these are complex structures composed of inter-connecting walls and multiple-turreted towers. These abandoned "proto-castles" dot the landscape of northern Sardinia. Each also occupies a minor Magic aura, making Hermetic historians wonder about the identity of the builders. Whether the *nuraghi* created the magic auras or were built on existing auras, the fact remains that northern Sardinia is dotted with magical auras.
 > 
-> The rings themselves should be of more than historical interest. In their day, they were the supreme enchanted items, and may surpass anything crafted by contemporary Hermetic magi. Alternatively, they might be weak in absolute terms, but with capabilities that break the limits of Hermetic magic, such as the ability to heal permanently without vis. Storyguides must decide for themselves whether the Founders really were more powerful than contemporary magi, or have simply grown in the telling, and allow this decision to shape the powers of Verditius's rings.
+> Verdi is a thriving community, home to just over one hundred people. Six Verditius magi make Verdi their permanent residence, including the Primus. There are at least ten other laboratories available to Verditius magi who might wish to study at Verdi for extended periods. Each laboratory includes a forge, necessary for many of the Verditius crafters, and other tools of production are available for those who engage in various trades. Even with this large number of inhabitants, many of the towers remain vacant most of the time.
 
 ### The Early Years of House Verditius
 
@@ -4310,7 +4260,7 @@ House Verditius has several specific Script components that generate certain bon
 - +1 The Mystagogue Sacrifices material wealth, typically one Mythic Pound per point of the Initiate's Hubris score (one bonus only).
 - +6 The Initiate is taught the Outer Mystery at the same time as her Hermetic Arts are opened.
 
-> ## New Ability: Verditius Cult Lore
+> #### New Ability: Verditius Cult Lore
 > 
 > Just like the members of other Mystery Cults, Verditius magi must have intimate knowledge of their Mystery, including its history, operations, practices, lore, and legends. The Ability **Verditius Cult Lore** covers all of the secrets of the House, including the arcane rituals and formulas necessary for the actual practice of Verditius magic, as well as information about the House, its current members, appropriate methods of finding and instructing Initiates, and correct social behavior when interacting with peers. This is an Arcane Ability, usually learned by a maga after her apprenticeship.
 > 
@@ -4318,44 +4268,31 @@ House Verditius has several specific Script components that generate certain bon
 > 
 > Since House Verditius is so focused on crafting items, other members of the House may also Train Initiates in Verditius Cult Lore. This is a more hands-on approach than Teaching, and the Initiate goes through the secret practices and arcane rites alongside her instructor. Training allows every Verditius magus who has at least a Verditius Cult Lore score of 2 to instruct the lower Initiates in the House's secrets, which helps to propel the House members as a whole deeper into the Inner Mysteries. Training Initiates is the most popular method of instruction for House Verditius.
 
+>#### Magic Items of Hephaestus
+>
+>Hephaestus made many enchanted items for the Greek gods. Your troupe might know of some of them, like the armor of Achilles. Since quests for these items play a significant role in House Verditius Initiations, a list of Hephaestus' treasures follows.
+>
+>- A mechanical torture chair that was used by Zeus on his wife, Hera
+>- A bronze hunting net that Hephaestus used to catch his wife, Aphrodite, and her adulterous lover Ares
+>- An assortment of ornamental brooches and combs
+>- Golden leg-supports that Hephaestus needed to walk
+>- Twelve golden mechanical women (automata)
+>- Twenty stools with three legs each, that moved and assisted Hephaestus at the forge
+>- The weapons and armor for Athena
+>- "Pandora," a clay woman for Zeus
+>- A golden ferry boat
+>- Talos, the bull-headed bronze statue that guarded Crete
+>- Dionysus's crown, made of fiery gold and gems from India
+>- A golden mastiff (automata)
+>- Bronze greaves and a stout shield for Hercules
+>- Tin greaves for Achilles
+>- The golden urn that was used to collect Achilles' ashes
+
 ### The Outer Mystery of Verditius Magic
 
 The first step in becoming a Verditius magus is to be inducted into the Outer Mystery of the House: Verditius Magic. The Initiate does not have any knowledge of Verditius Cult Lore at this time. The Initiation happens during the season that the apprentice is opened to the Hermetic Arts. Master and apprentice spend a season together, preparing for the Initiation. During this time, the apprentice serves as the master's student and must work slavishly at the tasks assigned. This is a foreshadowing of his life as an apprentice, but is much more severe, considering the usually young age of the apprentice. Coupled with the difficulty of the introduction to the Hermetic Arts, this is an especially arduous three months for the apprentice.
 
-## Magic Items of Hephaestus
-
-Hephaestus made many enchanted items for the Greek gods. Your troupe might know of some of them, like the armor of Achilles. Since quests for these items play a significant role in House Verditius Initiations, a list of Hephaestus' treasures follows.
-
-- A mechanical torture chair that was used by Zeus on his wife, Hera
-- A bronze hunting net that Hephaestus used to catch his wife, Aphrodite, and her adulterous lover Ares
-- An assortment of ornamental brooches and combs
-- Golden leg-supports that Hephaestus needed to walk
-- Twelve golden mechanical women (automata)
-- Twenty stools with three legs each, that moved and assisted Hephaestus at the forge
-- The weapons and armor for Athena
-- "Pandora," a clay woman for Zeus
-- A golden ferry boat
-- Talos, the bull-headed bronze statue that guarded Crete
-- Dionysus's crown, made of fiery gold and gems from India
-- A golden mastiff (automata)
-- Bronze greaves and a stout shield for Hercules
-- Tin greaves for Achilles
-- The golden urn that was used to collect Achilles' ashes
-
-
 As the season ends, master and apprentice journey to one of the sacred sites revered by the House, one of the three Forges of Hephaestus, which are located at Verdi, the island of Lemnos, and the shoulders of Mount Olympus. Depending on where the pair reside, this journey might extend into a second season. The master acts as the Mystagogue, guiding the apprentice through the Initiation. The master casts an amount of money and jewelry into the forge, beseeching the legendary powers of Hephaestus, Wayland Smith, Boethius, and Verditius himself to accept the apprentice. The forge consumes the money and the apprentice falls unconscious. He rises anew, a legal apprentice to his parens and an Initiate to the House. He gains the Minor Hermetic Virtue Verditius Magic. Mechanically, the Initiation Target Level is 15. The Mystagogue needs a Presence + Verditius Cult Lore of 3. The Initiation Script has a bonus of +12 (special place, Sacrifice of Initiate's time, Sacrifice of Mystagogue's time, wealth Sacrifice, and Arts opened during Initiation).
-
-### Learning the Inner Mysteries
-
-Progressing from the Outer Mystery to the Inner Mysteries depends upon the Mystagogue's knowledge of the House's secrets, reflected by his Verditius Cult Lore score. The House has set requirements for a Mystagogue before he can Initiate others, and all agree to this wise course of action. Understanding the responsibility that comes with teaching more Inner Mysteries is vital.
-
-A Verditius Cult Lore score of 1 covers the basic tenets of the Cult, primarily its history and philosophical foundation. A magus must increase his score to 2 before Initiating an apprentice whose Arts he wants to open at the same time. When his score is 3, he may receive Initiations into the House’s Minor Inner Mysteries. A magus may be Initiated into as many Minor Inner Mysteries as he wishes, in any order, regulated only by his time, desire, and completion of the detailed Initiation Scripts. He should have a Verditius Cult Lore score of 5 before he is Initiated into any of the Major Inner Mysteries. In addition, with such a score he is considered a master and may compete in the highest level of competition at the Contest.
-
-Scripts exist within the House to guide the magus's path. Exact Scripts are left to the troupe and storyguide to develop, following the suggested bonuses listed above. The most common method for learning new Inner Mysteries is to find a Verditius magus who already possesses the Inner Mystery the Initiate desires and follow the predetermined Script to learn the Inner Mystery. The less common approach is for the magus to Initiate himself. He loses the advantage of a Mystagogue's Verditius Cult Lore score, and the Initiation Target Level is increased. Magi following the path of self-Initiation tend to create and sacrifice several enchanted items to achieve their goal.
-
-### Hubris
-
-Regardless of the particular Minor Inner Mystery a magus learns, his first Initiation into an Inner Mystery is always accompanied by an Ordeal that gives him the Minor Flaw Hubris. Every Verditius magus who seeks knowledge of the Inner Mysteries is plagued by this psychological shortcoming, the growth of exaggerated self-esteem. The magus realizes the worldly benefits he can reap from his magical creations, and his prideful image of himself blossoms. At first this is just a slight personality shift, but as the Verditius magus profits from his magical craft, his estimation of himself grows. This trait, which afflicted the Founder, is inherent in the magic of the Inner Mysteries. In game terms, characters receive the Minor Personality Flaw Hubris and the corresponding Personality Trait Hubris 1.
 
 > ### Initiating Hermetic Magi
 > 
@@ -4372,14 +4309,25 @@ Regardless of the particular Minor Inner Mystery a magus learns, his first Initi
 > This is a unique Initiation and does not follow the rules of regular Verditius Initiations. Only a few Mystagogues know the necessary spell to complete the Initiation, although copies of it exist in the major covenants of the House. Characters undergoing such a transformation start their new career with a clean slate regarding future Initiations, and do not receive a bonus for undergoing this specialized Ordeal.
 > 
 > ##### Embrace of Boethius
-> 
-> PeMe 35
-> 
-> R: Touch, D: Mom, T: Part, Ritual Req: Vim, Corpus
+> PeMe 35  
+> R: Touch, D: Mom, T: Part, Ritual   
+> Req: Vim, Corpus
 > 
 > This spell damages the target's mind, heart, and Gift, destroying a part of his understanding of formulaic spell casting and forcing him to rely on casting tools. This highly irregular spell was developed to initiate Hermetic magi of other Houses into House Verditius, and is only used in that rare instance. Because of the bizarre nature of this spell, the target receives 7 Warping Points and must check to avoid temporary Twilight.
 > 
 > (Base 15, + 1 Touch, +1 Part, +2 necessary requisites)
+
+### Learning the Inner Mysteries
+
+Progressing from the Outer Mystery to the Inner Mysteries depends upon the Mystagogue's knowledge of the House's secrets, reflected by his Verditius Cult Lore score. The House has set requirements for a Mystagogue before he can Initiate others, and all agree to this wise course of action. Understanding the responsibility that comes with teaching more Inner Mysteries is vital.
+
+A Verditius Cult Lore score of 1 covers the basic tenets of the Cult, primarily its history and philosophical foundation. A magus must increase his score to 2 before Initiating an apprentice whose Arts he wants to open at the same time. When his score is 3, he may receive Initiations into the House’s Minor Inner Mysteries. A magus may be Initiated into as many Minor Inner Mysteries as he wishes, in any order, regulated only by his time, desire, and completion of the detailed Initiation Scripts. He should have a Verditius Cult Lore score of 5 before he is Initiated into any of the Major Inner Mysteries. In addition, with such a score he is considered a master and may compete in the highest level of competition at the Contest.
+
+Scripts exist within the House to guide the magus's path. Exact Scripts are left to the troupe and storyguide to develop, following the suggested bonuses listed above. The most common method for learning new Inner Mysteries is to find a Verditius magus who already possesses the Inner Mystery the Initiate desires and follow the predetermined Script to learn the Inner Mystery. The less common approach is for the magus to Initiate himself. He loses the advantage of a Mystagogue's Verditius Cult Lore score, and the Initiation Target Level is increased. Magi following the path of self-Initiation tend to create and sacrifice several enchanted items to achieve their goal.
+
+### Hubris
+
+Regardless of the particular Minor Inner Mystery a magus learns, his first Initiation into an Inner Mystery is always accompanied by an Ordeal that gives him the Minor Flaw Hubris. Every Verditius magus who seeks knowledge of the Inner Mysteries is plagued by this psychological shortcoming, the growth of exaggerated self-esteem. The magus realizes the worldly benefits he can reap from his magical creations, and his prideful image of himself blossoms. At first this is just a slight personality shift, but as the Verditius magus profits from his magical craft, his estimation of himself grows. This trait, which afflicted the Founder, is inherent in the magic of the Inner Mysteries. In game terms, characters receive the Minor Personality Flaw Hubris and the corresponding Personality Trait Hubris 1.
 
 Hubris is more than merely a Personality Trait. While it contains all the game aspects of a Personality Trait, it is also a measure of the degree that a character has succumbed to the curse of pride that plagued the Founder. A propensity for pride is part and parcel of the Mysteries of House Verditius. The intrinsic magical link between Verditius' arrogance and his arcane crafting caries through to his descendants. A Verditius magus's pride is mystically coupled with his Gift, and as his Hubris increases so does his ability to instill greater amounts of magic in items that are similarly connected to him. A Verditius magus can add his Hubris score to his Lab Totals for creating a talisman, enchanting casting tools (Minor House Inner Mystery), binding magical animals, making automata, and creating attuned items (Major House Inner Mysteries).
 
@@ -4387,7 +4335,7 @@ For roleplaying purposes, the specific flavor of a magus' Hubris should be noted
 
 Hubris increases over time, building like an Ability. Hubris cannot be deliberately changed by the player, unlike other Personality Traits. specific situations grant experience points that are applied to a character's Hubris score. If a Verditius magus receives recognition, fame, money, or vis for his magical efforts, his Hubris score increases. While a degree of pride is inevitable for every Verditius magus, a completely conceited nature is avoidable. Those wishing to keep their Hubris score low need merely avoid many of the behaviors (see the insert) that increase that score.
 
-> ## Increasing Hubris
+> #### Increasing Hubris
 > 
 > | Behavior | Experience Points |
 > |----------|-------------------|
@@ -4448,7 +4396,9 @@ the battle, but the blade was later stolen by Verditius' filius Roscius and take
 
 **Initiation of Minor Magical Focus (Swords)**
 
-**Ease Factor:** 15 **Script Bonus:** +12
+**Ease Factor:** 15 
+
+**Script Bonus:** +12
 
 **Script Details:** The Initiate must steal Durendal from the confraternity member who currently has it, secretly penetrating his studio in the dead of the night and making off with the sword (+3). The confraternity member expects the sword to be stolen, and keeps it under minimal safeguards. The Initiate must then enter an Infernal regio and recite the Christian Creed one hundred times without failing, despite whatever distractions the Enemy may provide (+3). Afterward, he must engage in a bout of mortal combat while bearing the sword, although he does not have to fight alone, and slay an enemy in the field (+3). He and the Mystagogue then travel to site of the Battle of Roncesvals and, on the anniversary of Roland's death, the Initiate enters a catatonic state during which his soul is in peril from the devils he has offended (+3). He then keeps Durendal in his studio, waiting for the next Initiate to steal it from him.
 
@@ -4482,7 +4432,9 @@ Many magi of House Verditius accept Christianity, but not all do. Balento was a 
 
 **Initiation of Puissant Imaginem or Mentem**
 
-**Ease Factor:** 15 **Script Bonus:** +9
+**Ease Factor:** 15 
+
+**Script Bonus:** +9
 
 **Script Details:** Sculptors must acquire a piece of basalt from a fresh eruption and cool the stone with holy water. Painters must prepare pigments from soil found only in the peaks of the Carpathian mountains, and then prepare brushes with the tail feathers of a dove and canvas made from the belly of a newborn calf (+3). The Initiate must travel to a desert island off the coast of Tunisia, to a hidden cave that is filled with intoxicating fumes rising from the bowels of the earth (+3). Enshrouded in inky darkness, he must craft a portrait of his patron saint in his chosen medium, without the aid of light, beginning on the night of the new moon. The Mystagogue recites the Psalms during the Initiation. The Initiate must emerge with a flawless piece by the next full moon. If the Initiation is successful, the Initiate gains the Minor Virtue Puissant Imaginem or Mentem (player's choice) and the Minor Flaw Slow Caster (+3). If not, the piece turns to dust and the Initiate must try again later.
 
@@ -4520,12 +4472,7 @@ To enchant a casting tool, compare the magus's Technique and Form Lab Total to t
 
 The base effect level of the casting tool equals the level of the spell it is used for. The effect level increases based upon the additional effects the magus wishes to enchant it with. There is no limit to the number of effects he can add, as long as his Lab Total plus bonuses is double the final effect level.
 
-> ## Enchanting Casting Tools Example
-> 
-> Hephaestion, a Verditius magus five years out of apprenticeship, wishes to enchant his casing tool for the spell *The Crystal Dart*. His Muto Terram Lab Total is quite high, 49, which includes his Philosophiae, Hubris, applicable Craft Ability, and the bonus for knowing the spell. The enchanted casting tools' base level of effect is 10, the level of the spell. Hephaestion enhances his casting tool with the Fast Casting effect, three Multiple Castings, and a +6 spellcasting bonus. The total effect level of the enchanted casting tool is 24. Hephaestion spends 3 pawns of Terram vis and completes the enchantment in a season.
-
-#### increase casting tool effect
-
+**Increase casting tool effects:**
 - +2 Fast Casting (as a mastered spell).
 - +2 Multiple Casting (as a mastered spell). This allows one additional spell, additional spells may be added for a +2 effect level increase each.
 - +2 Quiet Casting (as a mastered spell). This can be taken twice to cast the spell silently.
@@ -4534,6 +4481,10 @@ The base effect level of the casting tool equals the level of the spell it is us
 - +10 Dismiss casting tool. The casting tool disappears from the magus's person, traveling to a place chosen at the time of enchantment. An Arcane Connection to this place must be bound into the item, and so is usually the magus's sanctum.
 
 Enchanting casting tools requires vis. The magus must spend one pawn of Techniqueor Form-specific vis per 10 levels of the final effect level total, rounded up.
+
+> #### Enchanting Casting Tools Example
+> 
+> Hephaestion, a Verditius magus five years out of apprenticeship, wishes to enchant his casing tool for the spell *The Crystal Dart*. His Muto Terram Lab Total is quite high, 49, which includes his Philosophiae, Hubris, applicable Craft Ability, and the bonus for knowing the spell. The enchanted casting tools' base level of effect is 10, the level of the spell. Hephaestion enhances his casting tool with the Fast Casting effect, three Multiple Castings, and a +6 spellcasting bonus. The total effect level of the enchanted casting tool is 24. Hephaestion spends 3 pawns of Terram vis and completes the enchantment in a season.
 
 **Initiation of Enchant Casting Tools**
 
@@ -4555,7 +4506,7 @@ For example, swords are common items of quality, empowered with the magical abil
 
 Although produced through a magical procedure, items of quality are not magical devices per se. Weapons of quality are not resisted by Magic Resistance, and items of quality are not picked up by simple attempts to detect magic. Appropriate Intellego Vim spells do, however, indicate that an item has been magically aligned. Regardless of the bonus these items provide, they have a Lab Total of 10 if investigated. The House nevertheless views them as magical items and regulates their sale to mundanes.
 
-#### Initiation of Items of Quality
+**Initiation of Items of Quality**
 
 **Ease Factor**: 15 (Minor Virtue known to the Mystagogue)
 
@@ -4573,7 +4524,7 @@ The basic practice of reforging compares the magus's Creo or Rego Vim Lab Total 
 
 Reforging, like investigating a magic item, is one of the rare instances when a die roll is added to a seasonal event. This is due to the complexities of the reforging process and the capricious nature of magic.
 
-### Repairing Enchanted Items
+#### Repairing Enchanted Items
 
 Magi Initiated into this Mystery can repair broken enchanted items, reuniting the magical energy that exists in the broken pieces to re-craft the device. It is immaterial how the item was broken, and as long as the magus has all the pieces, he may put it back together. The item itself actually helps him, as the magic within seeks to reunite into a whole. There is a difference between a broken item and an item whose magic has been drained by expanding any charges it might have had. The latter item is not broken, merely spent, and cannot be repaired.
 
@@ -4589,7 +4540,7 @@ For items with multiple powers, the magus must understand one power and repair i
 
 By using the same principle techniques involved in repairing magical devices, those who have been Initiated into this Mystery can also re-craft an unbroken magical device, returning it to the workbench and compressing the magic in the item to make room for more enchantments. Verditius is said to have used this ability to great effect when making his magical rings, continually reforging them and then adding additional magical powers. Reforging enchanted devices allows a magus to surpass the limitations imposed on an item by its physical form. Most economically minded Verditius magi fill a magical device with enchantments, using all the available room a device may have based on the Material and Size table (ArM5, page 97). Reforging allows them to increase this limit. A magus may reforge a finished lesser or greater enchanted device that he originally crafted, an attuned item, or a greater enchanted device that he has prepared for enchantment but has not had any powers yet instilled. He may also reforge others' devices, provided he has a Lab Text for the item.
 
-> ### Reforging Example
+> #### Reforging Example
 > 
 > Maga Mari Amwithig of Semita Errabunda has asked Hephaestion to reforge her lesser enchanted item, Wand of Bestial Agony (ArM5, page 100). Hephaestion agrees, charging her eight pawns of vis plus the four required for the operation. Hephaestion's Rego Vim Lab Total is 20, which is also the final level of effect of the wand. He adds a stress die to his Lab Total (rolling a three) and reforges the wand in a season. The wand now holds four more pawns of vis and can be enchanted again as a lesser enchanted item. If Hephaestion wishes to reforge the wand again, its adjusted final level of effect is 40 for its original power (base 20 + \[5 x Hephaestion's Philosophiae score of 4\]). Twenty is also added to any additional powers Mari later instills in the wand for future reforgings.
 
@@ -4601,7 +4552,7 @@ A magus may also reforge a device before any powers are instilled within it. Sin
 
 If the magus succeeds in reforging an item that is only opened for enchantment, he can then instill powers as normal. Reforging does not alter this process. Items without instilled powers can only be reforged once, but can be later reforged after having powers instilled in them. Items that have been reforged, either before or after powers have been instilled, have each of their power's effect levels increased by five times the magus's Philosophiae score for future reforgings.
 
-### Smelting Enchanted Devices
+#### Smelting Enchanted Devices
 
 The third way this Inner Mystery may be used is to deconstruct or "smelt down" an enchanted device, using the method of reforging to extract vis from an item. This is a particularly insidious use of this Mystery, allowing Verditius magi — and only Verditius magi — to extract usable pawns of vis from Hermetically constructed magical items. Smelting an item takes a season.
 
@@ -4621,7 +4572,7 @@ Smelting is not 100% efficient. One pawn in ten is always lost, evaporating away
 
 The rune magic that Wayland Smith taught Verditius was descended in part from the "elder runes" of the early Germanic people, which were called the *futhark* in the Scandinavian tongue. Many of their ideas of magic were very alien to the Mediterranean-born magus, as they were concerned more with Norse symbolism than practical use. As he learned each rune, he translated its mystical associations into terms more applicable to his magical craft, linking each rune to a particular tree. These unique runes were later modified and developed further by Verditius and his filius Milo, resulting in "Verditius runes," the symbols that all magi of the House use to shape their created devices. The elder runes from which they were derived are more potent, however, and while they do not allow the flexibility of Verditius runes, they enable the enchanter to use his Arts in a much more powerful manner.
 
-## Verditius Elder Runes
+#### Verditius Elder Runes
 
 | Rune | Meaning   | Tree      | Art        |
 |------|-----------|-----------|------------|
@@ -4646,14 +4597,6 @@ If the magus already has a Major or Minor Focus applicable to the enchantment, h
 
 Elder runes can be inscribed on devices that have multiple invested effects. When instilled, each effect has its final spell level raised by five or ten depending on how many runes have been inscribed on the item. If an additional instilled effect falls under one of the Techniques or Forms governed by an inscribed rune, the magus may double that Art score as mentioned before. If the instilled effect does not fall under the Art represented by the rune, the final level of the effect is still increased, but the magus does not get to double either the Technique or the Form.
 
-> ### Elder Runes Example
-> 
-> Ten years out of apprenticeship, Hephaestion is commissioned to make a metal wand that casts *The Earth Split Asunder*. Hephaestion decides to make this wand a greater enchanted item. To hurry the process, he decides to inscribe the device with the "Ice" rune, which will double his Rego score. The wand will also maintain the concentration for the wielder, so the final level of effect is 40: 30 for the spell + 5 for the elder rune + 5 for maintaining concentration.
-> 
-> Hephaestion's regular Rego Terram Lab Total is 8 (Rego) + 19 (Terram including Puissant Art bonus) + 3 (Intelligence) + 6 (Magic Theory specialized in Terram) + 3 (Magic Aura), for a total of 39. The iron wand is a small base metal object and can hold ten pawns of vis. During the season spent opening the wand for enchantment, Hephaestion can deduct his Craft Ability Metalsmith from the necessary cost by inscribing the wand with Verditius runes (ArM5, page 93). His Craft Metalsmith score is 5 + 2 from Puissant Ability, specialized in iron. It only costs Hephaestion two pawns of Terram vis to open the wand for enchantment.
-> 
-> Hephaestion begins to enchant the device the following season. His Lab Total is increased by Verditius runes, his Craft: Metalsmith score, and the benefit from using the elder rune. His revised Lab Total is 16 (8 Rego times 2 for the elder rune) + 19 (Terram including Puissant Art bonus) + 3 (Intelligence) + 6 (Magic Theory 5 specialized in Terram) + 3 (Magic aura) + 5 (+4 shape and material bonus "control things at a distance" + 4 Philosophiae score, limited by Magic Theory 5) + 8 (Craft Metalsmith 5 + specialization in iron + 2 from Puissant Ability), for a total of 60. In the first season of the actual enchanting process, Hephaestion accumulates 20 points towards the item's completion (Lab Total 60 minus the final level of effect 40). He finishes it in the second season. The wand requires seven pawns of Terram vis, six for the final level of effect of the power and one for inscribing the "Ice" rune. Hephaestion charges his client 18 pawns of vis for his services, double the amount required for opening the item and enchanting it, plus the nine pawns that were necessary for the enchantment, for a grand total of 27 pawns.
-
 Each elder rune is also sympathetically linked to a type of tree. If the magus inscribes a rune on a device made from the corresponding tree — probably a staff, wand, or other wooden item — he receives a +2 bonus to his Lab Total for enchanting it. This is in addition to any Shape and Material bonuses the item's form may provide.
 
 It costs a pawn of Art-specific vis to inscribe each elder rune. This is in addition to the final cost of an instilled power, which has its final level of effect increased by the inscription of the rune. Vis used to inscribe elder runes counts toward the maximum amount an item may hold.
@@ -4663,6 +4606,14 @@ There are 24 elder runes, only half of which have been adapted to the Hermetic A
 Any Verditius magus can recognize elder runes, allowing him to easily distinguish between them and regular Verditius runes. A successful Intelligence + Verditius Cult Lore + simple die roll against an Ease Factor of 9 allows him to identify the rune and its corresponding Art.
 
 A second application of this Inner Mystery allows the magus to use his increased understanding of runes in combination with his understanding of Hermetic magic. This allows him to use more vis during his laboratory season when enchanting a device. When creating enchanted items, the limit to the amount of vis he may use in a single season becomes his Magic Theory score times his Philosophiae score.
+
+> #### Elder Runes Example
+> 
+> Ten years out of apprenticeship, Hephaestion is commissioned to make a metal wand that casts *The Earth Split Asunder*. Hephaestion decides to make this wand a greater enchanted item. To hurry the process, he decides to inscribe the device with the "Ice" rune, which will double his Rego score. The wand will also maintain the concentration for the wielder, so the final level of effect is 40: 30 for the spell + 5 for the elder rune + 5 for maintaining concentration.
+> 
+> Hephaestion's regular Rego Terram Lab Total is 8 (Rego) + 19 (Terram including Puissant Art bonus) + 3 (Intelligence) + 6 (Magic Theory specialized in Terram) + 3 (Magic Aura), for a total of 39. The iron wand is a small base metal object and can hold ten pawns of vis. During the season spent opening the wand for enchantment, Hephaestion can deduct his Craft Ability Metalsmith from the necessary cost by inscribing the wand with Verditius runes (ArM5, page 93). His Craft Metalsmith score is 5 + 2 from Puissant Ability, specialized in iron. It only costs Hephaestion two pawns of Terram vis to open the wand for enchantment.
+> 
+> Hephaestion begins to enchant the device the following season. His Lab Total is increased by Verditius runes, his Craft: Metalsmith score, and the benefit from using the elder rune. His revised Lab Total is 16 (8 Rego times 2 for the elder rune) + 19 (Terram including Puissant Art bonus) + 3 (Intelligence) + 6 (Magic Theory 5 specialized in Terram) + 3 (Magic aura) + 5 (+4 shape and material bonus "control things at a distance" + 4 Philosophiae score, limited by Magic Theory 5) + 8 (Craft Metalsmith 5 + specialization in iron + 2 from Puissant Ability), for a total of 60. In the first season of the actual enchanting process, Hephaestion accumulates 20 points towards the item's completion (Lab Total 60 minus the final level of effect 40). He finishes it in the second season. The wand requires seven pawns of Terram vis, six for the final level of effect of the power and one for inscribing the "Ice" rune. Hephaestion charges his client 18 pawns of vis for his services, double the amount required for opening the item and enchanting it, plus the nine pawns that were necessary for the enchantment, for a grand total of 27 pawns.
 
 **Initiation of Verditius Elder Runes**
 
@@ -4737,20 +4688,38 @@ Automaton artificers have developed several common powers. Many of these powers 
 Once the magus has finished enchanting the automaton, he must unite all the magic into a cohesive unit. He casts the specially invented formulaic spell, *Tie the Threads that Bind*, onto the construction. This is a general level Rego Vim spell. This spell's level must equal or exceed the finished construct's Magic Might + 15.
 
 ##### Tie the Threads That Bind**
+ReVi Gen  
+R: Touch, D: Mom, T: Group, Ritual 
 
-ReVi Gen
-
-R: Touch, D: Mom, T: Group, Ritual This spell is uniquely used for the construction of automata. The base effect level of the spell level must equal or exceed the construct's Magic Might to be successful, meaning the final spell level must equal or exceed the automaton's Magic Might + 15.
+This spell is uniquely used for the construction of automata. The base effect level of the spell level must equal or exceed the construct's Magic Might to be successful, meaning the final spell level must equal or exceed the automaton's Magic Might + 15.
 
 (Base Effect, +1 Touch, +2 Group)
 
-### Automata in Play
+#### Automata in Play
 
 Once completed, the automaton functions like an unthinking NPC, performing commanded tasks and services. If it is ever required to make an Ability check, the storyguide rolls this as normal: Characteristic + Ability + a die roll against a determined Ease Factor. Because automata are constructed to perform regular, routine tasks, they always use a simple die and never a stress die. Great successes and horrible blunders fall outside an automaton's capacities. Mental Characteristics are ignored for Abilities that require them, and the storyguide just rolls a die + the automaton's Ability. Automata can only use Abilities that they have been designed for.
 
 Automata are complicated machines and require constant maintenance. At the end of every year, roll a stress die and compare it to the automaton's Magic Might score. If it matches or exceeds the score, the automaton is fine. If it fails, some minor part of the automaton has broken. Lower the automata's Magic Might score by 1 point. The automaton suffers a –1 penalty on all Ability rolls for every 2 points of lost Magic Might. If it botches, the automata breaks, losing 5 points of Magic Might for every actual botch rolled. Once the automata's Magic Might score reaches 0, it is broken and no longer functions. It is a good idea to make this annual roll when other characters are making their Aging rolls.
 
 Damaged automata can be repaired. A magus can make spot repairs on an automaton by rolling his Intelligence + Craft Automata score + a stress die against of Ease Factor of (6 + the magnitude of the automaton's Magic Might score). If you succeed, the automaton's Magic Might is increased 1 point back to its original score. If you fail, his attempt was unsuccessful. If you botch, the automata loses 1 point of Might per actual botch. Spot repairs take a number of days equal to the magnitude of the automaton's original Magic Might, rounded up. The magus may also spend an entire season and repair all the damage to an automaton. Compare his Rego + appropriate Form with a Mentem requisite Lab Total to the automaton's Magic Might + the number of instilled powers it has. His Lab Total must be higher than the automaton's adjusted Magic Might for the repairs to be successful. A magus must repair an automaton before its Might reaches 0, at which point it is absolutely broken and useless.
+
+> #### Automaton Example
+> 
+> Fifteen years after his apprenticeship, Hephaestion's venditor finagles an extremely lucrative deal with Lord Guigues of Dauphiné, who wants a mechanized magpie for his bedchamber. Having only recently been Initiated into the Mystery of Automata, Hephaestion begins the enchantment process with trepidation. He decides to make a tin magpie. Its Magic Might is 11, base 10 + Size (–4) + material (5 for base metal).
+> 
+> Hephaestion attempts to craft the automaton in the first season. His Intelligence is +3 and his Craft: Automata is 2. His stress die roll is a 3 for a total of 8, not enough to match the bird's Magic Might. Failing the first season, he tries the next, with a +1 bonus for the previously failed attempt. His second stress die roll is 4, which gives him a 10 total (die roll 4 + 3 Intelligence + 2 Craft: Automata + 1 previously failed season). Trying a third time, he rolls 6 for a total of 13 (die roll 6 + 3 Intelligence + 2 Craft: Automata + 2 previously failed seasons) and successfully builds the automaton. Using the conventional vis price (one pawn of vis equals ten Mythic Pounds), the material cost of these three seasons is 130 Pounds (Magic Might 11 + 2 failed seasons).
+> 
+> In the fourth season, Hephaestion easily prepares the automaton for enchantment. Because he knows the Minor Inner Mystery of Elder Runes, the maximum vis he can use in a season to enchant an item is 20 (5 Magic Theory x 4 Philosophiae). Eleven pawns of Terram vis are required to open the magpie for enchantment.
+> 
+> Already a year into the process, Hephaestion enchants the magpie to sing. Singing is a base 5 Creo Imaginem effect. He specifies the trigger for the effect (saying "Sing,") includes the command "Cease," and gives it an effect frequency of three uses a day. The final effect level of this power is 10.
+> 
+> Hephaestion's Creo Imaginem Lab Total + Hubris is 22. The power is instilled in one season and costs a pawn of either Creo or Imaginem vis. The automaton can hold ten more pawns of vis.
+> 
+> Hephaestion would like the bird to fly, but that is beyond him. However, he can enchant it to hop. He instills the "dutiful movement" power, a base Rego Terram effect of 20. He gives this power a similar trigger, a "Cease" command, and three uses per day for a final level of effect of 25. His Rego Terram Lab Total + Hubris is 40, and he can complete this enchantment in two seasons for a cost of three pawns of Art-specific vis.
+> 
+> Finally, Hephaestion decides that he should enchant the bird to explode if necessary, although only another Verditius magus would understand why this might be "necessary." The power causes the bird to explode into pieces that fly out in a circular spray and do +5 damage to anyone with a pace of distance. Player and storyguide decide that this is a level 5 Rego Terram effect (base 3, +2 Group). The Target is Group rather than Part because it affects the entire construction. It can only happen once, upon a verbal command, so the final level of effect is 10. Hephaestion's Rego Terram Lab Total is still 40. He easily instills this power at the cost of one pawn of Terram vis.
+> 
+> Hephaestion has spent two years enchanting this automaton. As the last season ends, he casts a level 30 *Tie the Threads that Bind*, which is higher than the automaton's Magic Might 11 + 15. This completes the process and costs six pawns of Vim vis. The total vis cost for the automaton is 22 pawns. Hephaestion charges Guigues 460 Mythic Pounds, 330 for the vis used and 130 for construction expenses. This is half the cost of an entire castle! Guigues baulks at the cost but accepts the bargain, much to the chagrin of his already overtaxed tenants.
 
 **Initiation of Automata**
 
@@ -4801,24 +4770,6 @@ Minor Curses should be annoying, inflicting slight penalties in play and interru
 **Crow's Voice:** The victim caws throughout his speech. Communication rolls are penalized by –3, as is spell casting. (Muto Corpus [Animal] effect)
 
 **Cataracts:** The victim's eyes become clouded and white, limiting his vision. Vision-based rolls, and Advancement Totals derived from reading, are penalized by –3. (Perdo Corpus effect)
-
-> ## Automaton Example
-> 
-> Fifteen years after his apprenticeship, Hephaestion's venditor finagles an extremely lucrative deal with Lord Guigues of Dauphiné, who wants a mechanized magpie for his bedchamber. Having only recently been Initiated into the Mystery of Automata, Hephaestion begins the enchantment process with trepidation. He decides to make a tin magpie. Its Magic Might is 11, base 10 + Size (–4) + material (5 for base metal).
-> 
-> Hephaestion attempts to craft the automaton in the first season. His Intelligence is +3 and his Craft: Automata is 2. His stress die roll is a 3 for a total of 8, not enough to match the bird's Magic Might. Failing the first season, he tries the next, with a +1 bonus for the previously failed attempt. His second stress die roll is 4, which gives him a 10 total (die roll 4 + 3 Intelligence + 2 Craft: Automata + 1 previously failed season). Trying a third time, he rolls 6 for a total of 13 (die roll 6 + 3 Intelligence + 2 Craft: Automata + 2 previously failed seasons) and successfully builds the automaton. Using the conventional vis price (one pawn of vis equals ten Mythic Pounds), the material cost of these three seasons is 130 Pounds (Magic Might 11 + 2 failed seasons).
-> 
-> In the fourth season, Hephaestion easily prepares the automaton for enchantment. Because he knows the Minor Inner Mystery of Elder Runes, the maximum vis he can use in a season to enchant an item is 20 (5 Magic Theory x 4 Philosophiae). Eleven pawns of Terram vis are required to open the magpie for enchantment.
-> 
-> Already a year into the process, Hephaestion enchants the magpie to sing. Singing is a base 5 Creo Imaginem effect. He specifies the trigger for the effect (saying "Sing,") includes the command "Cease," and gives it an effect frequency of three uses a day. The final effect level of this power is 10.
-> 
-> Hephaestion's Creo Imaginem Lab Total + Hubris is 22. The power is instilled in one season and costs a pawn of either Creo or Imaginem vis. The automaton can hold ten more pawns of vis.
-> 
-> Hephaestion would like the bird to fly, but that is beyond him. However, he can enchant it to hop. He instills the "dutiful movement" power, a base Rego Terram effect of 20. He gives this power a similar trigger, a "Cease" command, and three uses per day for a final level of effect of 25. His Rego Terram Lab Total + Hubris is 40, and he can complete this enchantment in two seasons for a cost of three pawns of Art-specific vis.
-> 
-> Finally, Hephaestion decides that he should enchant the bird to explode if necessary, although only another Verditius magus would understand why this might be "necessary." The power causes the bird to explode into pieces that fly out in a circular spray and do +5 damage to anyone with a pace of distance. Player and storyguide decide that this is a level 5 Rego Terram effect (base 3, +2 Group). The Target is Group rather than Part because it affects the entire construction. It can only happen once, upon a verbal command, so the final level of effect is 10. Hephaestion's Rego Terram Lab Total is still 40. He easily instills this power at the cost of one pawn of Terram vis.
-> 
-> Hephaestion has spent two years enchanting this automaton. As the last season ends, he casts a level 30 *Tie the Threads that Bind*, which is higher than the automaton's Magic Might 11 + 15. This completes the process and costs six pawns of Vim vis. The total vis cost for the automaton is 22 pawns. Hephaestion charges Guigues 460 Mythic Pounds, 330 for the vis used and 130 for construction expenses. This is half the cost of an entire castle! Guigues baulks at the cost but accepts the bargain, much to the chagrin of his already overtaxed tenants.
 
 #### Major curses
 
@@ -5091,7 +5042,7 @@ The magus is engaged in one of House Verditius' vendettas, mostly likely carryin
 
 *Dedication: Andrew and Camo, who've had to endure endless worries, rants, and one-sided discussions. Your forbearance is a lesson to us all.*
 
-### About the Illustrators
+## About the Illustrators
 
 **Kelley Hensing** (www. wickiearts.com) is a graduate of the Rhode Island School of Design. Creating creatures and mythological characters is one of her favorite subjects. Inspirations include myths, fairy tales, and religious texts.
 
