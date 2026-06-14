@@ -3430,7 +3430,7 @@ Fortune smiles upon you, often protecting you from the random consequences of ad
 
 You can understand and speak any language as long as you are communicating directly with someone else who is fluent in that language. Others who hear your words and who understand that language can understand what you are saying. You cannot carry on a conversation in multiple languages, but you can act as a translator for two or more people who do not have this virtue.
 
-### Great Bearer
+#### Great Bearer
 
 *Minor, Heroic*
 
@@ -3484,7 +3484,7 @@ You can remember, word for word, any short messages you have heard or read in th
 
 You are descended from the Mutantum lineage, and can thus invent formulaic spells and magic items that take advantage of Boosting, Harnessing and Tethering (see Mutantum Magic, under Magic, above). You may also take the Tamed Magic virtue, and half of your starting spells may be "tamed" versions of common spells. Most characters with Mutantum Magic belong to House Mercere and consider themselves Mutantes, and all of them must be descended by blood from the Founder or one of his ancestors.
 
-### Mythic (Characteristic)
+#### Mythic (Characteristic)
 
 *Minor, Heroic*
 
