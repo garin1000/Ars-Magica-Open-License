@@ -12776,7 +12776,7 @@ A 3-foot-diameter jet of water sprays from your outstretched arms towards your t
 
 #### LEVEL 40
 
-#### Deluge of Rushing and Dashing
+##### Deluge of Rushing and Dashing
 R: Voice, D: Conc, T: Ind<br>
 Causes a stream to flood, starting at the stream's nearest point to you and continuing downstream. The results of this spell are generally quite impressive. As the stream overflows its original bed, it becomes a raging torrent, sucking in everything near it. Damage from the spell can last for many years. As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.<br>
 (Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
@@ -12878,7 +12878,7 @@ Turns water into air as it enters your lungs, allowing you to breathe water as y
 
 #### LEVEL 45
 
-#### Vile Water of Sterility
+##### Vile Water of Sterility
 R: Touch, D: Year, T: Group, Ritual<br>
 Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.<br>
 (Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
@@ -12921,7 +12921,7 @@ R: Touch, D: Mom, T: Ind<br>
 Dries a single spring, so that it never flows again. This spell targets the spring, not the water in it at a particular time, so the spring does not start to flow again later.<br>
 (Base 20, +1 Touch)
 
-#### Curse of the Desert
+##### Curse of the Desert
 R: Voice, D: Mom, T: Part<br>
 Removes virtually all the fluid from the target's body, doing +15 damage, which armor does not protect against. The target must drink within a few minutes of being struck with this spell, or it dies. Casting requisites are Animal for beasts, and Corpus for humans.<br>
 (Base 10, +2 Voice, +1 Part)
@@ -13684,7 +13684,7 @@ R: Voice, D: Mom, T: Ind<br>
 Turns a dead body or mindless undead body to dust in two rounds. The spell doesn't affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.<br>
 (Base 5, +2 Voice)
 
-#### The Wound That Weeps
+##### The Wound That Weeps
 R: Voice, D: Mom, T: Ind<br>
 When casting this spell, you point at the victim and a large wound opens on his or her body. The wound is not a deep one, but it bleeds profusely. This is only a Light Wound, but it looks bad.<br>
 (Base 5, +2 Voice)
@@ -13720,7 +13720,7 @@ R: Voice, D: Mom, T: Ind<br>
 Blinds a target, leaving the eyes milky with cataracts. This heals as a Heavy Wound.<br>
 (Base 20, +2 Voice)
 
-#### Twist of the Tongue
+##### Twist of the Tongue
 R: Voice, D: Mom, T: Part<br>
 Twists the target's tongue into a spiral, completely destroying the ability to speak. A grave offense to a magus. The damage heals as a Medium Wound.<br>
 (Base 15, +2 Voice, +1 Part)
@@ -14228,7 +14228,7 @@ R: Voice, D: Mom, T: Ind<br>
 Heats a piece of metal so that it is too hot to touch. Something the size of a breastplate or helmet does +5 damage if in direct contact with the skin for one round. For each additional round, more damage is done, the amount dropping by two points each round (+3 damage on round two, then +1). Smaller objects do less damage. Most metal armor has leather or cloth underneath that gives the victim a +3 Soak bonus against the heat.<br>
 (Base 4, +2 Voice)
 
-#### Lamp without Flame
+##### Lamp without Flame
 R: Touch, D: Conc, T: Ind<br>
 This spell creates a steady light as bright as daylight on a cloudy day. The light has no apparent source, but illuminates an area about ten paces across, centered on a point indicated by the caster. This point may be a mobile item.<br>
 (Base 4, +1 Touch, +1 Conc)
@@ -14240,7 +14240,7 @@ R: Touch, D: Diameter, T: Ind<br>
 Forms a fire along the length of a metal blade. This flame doubles the weapon damage score for the blade (or adds +5, whichever is greater), and can start fires as well. If the spell is cast repeatedly on the same blade, the blade gets hot enough to melt after half an hour, which ends the spell. Letting the blade cool for half an hour between castings avoids this.<br>
 (Base 5, +1 Touch, +1 Diameter)
 
-#### Flash of the Scarlet Flames
+##### Flash of the Scarlet Flames
 R: Voice, D: Mom, T: Ind<br>
 A brilliant red flash explodes in the air where you designate. If you target a person's face the target needs a Stamina stress roll against an Ease Factor of 9 to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. The flash is equivalent to looking straight at the sun. In Rose of Jerbiton's version of this spell, there is a faint odor of roses in the area where the flash explodes.<br>
 (Base 5, +2 Voice)
@@ -14551,7 +14551,7 @@ R: Voice, D: Diam, T: Ind<br>
 Creates an image of any animal or beast up to the size of a pony (Size +1). Under your direct mental command, it moves about (within range) and makes appropriate noises. You need to be able to concentrate, and be within range, whenever you wish to direct the illusion to move in some manner. If you move out of range or stop concentrating, the illusion just freezes in place. The image does smell like an animal, but it has absolutely no effect on the sense of touch. Of course, a magus may not use this spell to create the image of an animal he or she does not know exists.<br>
 (Base 3, +2 Voice, +1 Diam, +2 move under your command)
 
-#### Phantasmal Fire
+##### Phantasmal Fire
 R: Voice, D: Sun, T: Ind<br>
 Req: Ignem<br>
 Makes an image of a fire (up to the size of a large campfire) that dances, illuminates, crackles, and (apparently) warms. It does not spread, burn, or protect against cold. Makes a great joke at gatherings of House Flambeau, although creating a real fire is even more popular.<br>
@@ -14608,14 +14608,14 @@ You can tell whether an image has been created or altered through a spell, seein
 
 #### LEVEL 5
 
-#### Prying Eyes
+##### Prying Eyes
 R: Touch, D: Conc, T: Room<br>
 You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.<br>
 (Base 1, +1 Touch, +1 Conc, +2 Room)
 
 #### LEVEL 15
 
-#### Discern Own Illusions
+##### Discern Own Illusions
 R: Per, D: Sun, T: Vision<br>
 This spell makes your own illusions appear largely transparent to you, but still discernible.<br>
 (Base 1, +2 Sun, +4 Vision)
@@ -14634,7 +14634,7 @@ R: Per, D: Sun, T: Vision<br>
 You see distant things clearly. No matter how far away something is, you can make out details as if it were only a foot or so from you. Things do not all appear to be a foot away; you can simply make out details as well as if they were. You can still judge distance accurately; in fact, more accurately than normal, to within an inch or so at a distance of several miles, since you can see as clearly as if you were judging distance a foot away.<br>
 (Base 3, +2 Sun, +4 Vision)
 
-#### Summoning the Distant Image
+##### Summoning the Distant Image
 R: Arc, D: Conc, T: Room<br>
 You can see and hear what is happening in a distant place if you have some sort of Arcane Connection to either the location or a person there.<br>
 (Base 2, +4 Arc, +1 Conc, +2 Room)
@@ -14794,7 +14794,7 @@ R: Voice, D: Sun, T: Ind<br>
 Makes any person or object appear to be a pace away from its actual position. The image cannot be placed in a solid object. As soon as the original or image moves, the spell ends.<br>
 (Base 2, +2 Voice, +2 Sun)
 
-#### Wizard's Sidestep
+##### Wizard's Sidestep
 R: Per, D: Sun, T: Ind<br>
 Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.<br>
 (Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)
@@ -15194,7 +15194,7 @@ R: Eye, D: Sun, T: Ind<br>
 Enables you to completely control the loyalty, emotions, desires, interests, and activities of any person. People revert to normal when the spell ends, and may be extremely angry with the magus.<br>
 (Base 25, +1 Eye, +2 Sun)
 
-#### Incantation of Summoning the Dead
+##### Incantation of Summoning the Dead
 R: Arc, D: Conc, T: Ind, Ritual<br>
 Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven. If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.<br>
 (Base 15, +4 Arc, +1 Conc)
@@ -15206,7 +15206,7 @@ Enchants the Boundary in which the ritual is cast so that anyone moving through 
 
 #### LEVEL 55
 
-#### Exchange of the Two Minds
+##### Exchange of the Two Minds
 R: Touch, D: Year, T: Group, Ritual<br>
 This spell switches the minds (but not the souls) of two creatures. A new body greatly confuses those who are unprepared for the shock, and even those who are ready take a day to adjust completely. Magi who transport their own minds into younger, healthier bodies usually find that having a strong body entails having powerful passions that interfere with the clear thinking needed to pursue the magical Arts. Both people involved must make a Stamina stress roll against an Ease Factor of 3, rolled before the switch is made, to survive the transfer. If only one person fails the roll, that person dies and the spell fails. The other target is unaffected.<br>
 (Base 20, +1 Touch, +4 Year, +2 Group)
