@@ -4,6 +4,7 @@ A sourcebook for Ars Magica 5th Edition.
 > *Open License Markdown version by applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 > 
 > *[Completion state: Text manually fixed, all official Errata included.]*
+> *Note: The original pdf "Verditius Elder Runes" table has image runes for Animal, Corpus, Herbam, Ignem that have no equivalent in unicode or futhark / elder futhark. The nearest meaning character from unicode runes is used instead. For Herbam the cyrillic letter was most visually identical.* 
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -4576,18 +4577,18 @@ The rune magic that Wayland Smith taught Verditius was descended in part from th
 
 | Rune | Meaning   | Tree      | Art        |
 |------|-----------|-----------|------------|
-| —    | "Health"  | Birch     | Creo       |
-| —    | "Sight"   | Yew       | Intellego  |
-| —    | "Pain"    | Pine      | Perdo      |
-| —    | "Ice"     | Alder     | Rego       |
-| —    | "Cattle"  | Elder     | Animal     |
-| —    | "Water"   | Willow    | Aquam      |
-| —    | "Hail"    | Ash       | Auram      |
-| —    | "Man"     | Holly     | Corpus     |
-| —    | "Harvest" | Apple     | Herbam     |
-| —    | "Sun"     | Juniper   | Ignem      |
-| —    | "Loyalty" | Oak       | Mentem     |
-| —    | "Ogre"    | Hawthorn  | Vim        |
+| ᛒ    | "Health"  | Birch     | Creo       |
+| ᛇ    | "Sight"   | Yew       | Intellego  |
+| ᚲ    | "Pain"    | Pine      | Perdo      |
+| ᛁ    | "Ice"     | Alder     | Rego       |
+| ᚠ    | "Cattle"  | Elder     | Animal     |
+| ᛚ    | "Water"   | Willow    | Aquam      |
+| ᛡ    | "Hail"    | Ash       | Auram      |
+| ᛗ    | "Man"     | Holly     | Corpus     |
+| И    | "Harvest" | Apple     | Herbam     |
+| ᛋ    | "Sun"     | Juniper   | Ignem      |
+| ᛏ    | "Loyalty" | Oak       | Mentem     |
+| ᚹ    | "Ogre"    | Hawthorn  | Vim        |
 
 Each elder rune is linked to a specific Hermetic Art, and magi Initiated into this Inner Mystery can use these runes when creating a magic item, inscribing the runes onto the item during the creation stage. The power contained in each rune makes the item more malleable to magical manipulations, allowing it to accept more magical power than it normally could. This effectively allows the magus to double his Art score for the purposes of enchanting the item.
 
