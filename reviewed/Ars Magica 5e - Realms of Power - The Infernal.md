@@ -852,7 +852,7 @@ Legends from all three major Divine religions tell of the wickedness of the huma
 
 However, God's predictions were as infallible as ever. Semyaza and Azael (or Harut and Marut, in the Qur'an) descended upon the earth with a host called the Watchers (also called Grigori). They mixed with the children of men, and soon sinned and transgressed through temptation by the Devil. They taught mankind the practices of sorcery and warfare, and took mortal wives to father children who were giants, 300 cubits high. When the sinning angels tried to return to Heaven they were refused admission by five archangels (Michael, Gabriel, Raphael, Uriel, and Suryal) and rebuffed by the Divine light, falling down to earth to became ministers and satellites of the Devil. The children who were born of mortal mothers and angelic fathers were of neither race, but had an intermediate nature, and were called the Nephilim (See *Realms of Power: The Divine*, Chapter 3: Blessed by God). They were not received by man, just as their parents had been refused admission into Heaven, and became the terrestrial demons upon their death (see Chapter 4: The Infernal Legions).
 
-## Chapter 4 : The Infernal Legions
+# Chapter 4 : The Infernal Legions
 
 *The whole earth has been corrupted through the works of Azazel: to him ascribe all sin.* 
 
