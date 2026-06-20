@@ -7734,7 +7734,7 @@ By sensing passions, the character can often recognize incorporeal spirits. You 
 
 In addition, this Ability allows the character to Sense Holiness and Unholiness in a limited fashion, much like the Sense Holiness and Unholiness Ability. She can tell that something is either holy or unholy, but she cannot distinguish between the two. She feels the emotional presence associated with the Divine or the Infernal, but cannot pinpoint its supernatural origin. Thus, she might mistake a demon with a fair shape for an angel, or a fearsome-looking angel for a demon. By identifying the target's primary emotions or desires, however, you can usually get a good idea of which realm the target is associated with, assuming the character can penetrate its Magic Resistance.
 
-Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness.
+Sense Passions is either a false power (see the False Power Flaw), or is associated with the Infernal. This means that it always appears infernal to divine or infernal detection. The presence of Infernal taint allows the Sense Holiness and Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness.<br>
 *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
 
 #### Shapeshifter\*
@@ -10162,9 +10162,9 @@ House Ex Miscellanea is not at all unified, consisting of many different magical
 
 This tradition commands magic which Hermetic Theory finds very hard: the summoning and control of wild creatures. Every apprentice of this tradition was abandoned by his master in areas of wilderness at a very young age, where he had to fend for himself. During this time he developed a particular affinity for a specific group of animals, which forever shapes his magic. Due to this unusual training, all Beast Masters also have the Virtues of Animal Ken and a Minor Magical Focus with a specific group of animals. They are never taught how to turn into animal form, or how to harm animals, which results in the Incompatible Arts Flaw (MuCo & PeAn). They must take at least one more Flaw to balance their Virtues, and then have only 8 points of Flaws available to them to buy another 8 points of Virtues.
 
-*Major Non-Hermetic Virtue:* Summon Animals
-*Minor Hermetic Virtue:* Inoffensive to Animals
-*Major Hermetic Flaw:* Study Requirement
+*Major Non-Hermetic Virtue:* Summon Animals<br>
+*Minor Hermetic Virtue:* Inoffensive to Animals<br>
+*Major Hermetic Flaw:* Study Requirement<br>
 *Required Virtues and Flaws:* Animal Ken, Minor Magical Focus; Incompatible Arts.
 
 #### Summon Animals
