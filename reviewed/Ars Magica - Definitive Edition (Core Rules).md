@@ -3071,7 +3071,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 
 ## List of Virtues
 
-[The Gift](#the-gift)
+[The Gift](#the-gift-1)
 
 ### Hermetic, Major
 
@@ -3129,7 +3129,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Magister in Artibus](#magister-in-artibus)<br>
 [Magister in Medicina](#magister-in-medicina)<br>
 [Master Bard](#master-bard)<br>
-[Muqtaʿ](#muqta)<br>
+[Muqtaʿ](#muqta-muq-ta)<br>
 [Partner](#partner)<br>
 [Redcap](#redcap)<br>
 [Rosh Beth Din](#rosh-beth-din)<br>
@@ -3234,6 +3234,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Maker of Textured Vessels](#maker-of-textured-vessels)<br>
 [Maker of Water Vessels](#maker-of-water-vessels)<br>
 [Master of (Form) Creatures](#master-of-form-creatures)<br>
+[Minor Enchantments](#minor-enchantments)<br>
 [Muse](#muse)<br>
 [Persona](#persona)<br>
 [Personal Power](#personal-power)<br>
@@ -3280,6 +3281,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Jurist](#jurist)<br>
 [Knight](#knight)<br>
 [Lone Redcap](#lone-redcap)<br>
+[Lupus (the Wolf)](#lupus-the-wolf)<br>
 [Mamluk](#mamluk)<br>
 [Marshal](#marshal)<br>
 [Master of Kennels](#master-of-kennels)<br>
@@ -3301,6 +3303,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Templar Specialist](#templar-specialist)<br>
 [Town Magistrate](#town-magistrate)<br>
 [Troubadour/Trobairitz](#troubadourtrobairitz)<br>
+[Turb Trained](#turb-trained)<br>
 [University Grammar Teacher](#university-grammar-teacher)<br>
 [Wise One](#wise-one)
 
@@ -3350,7 +3353,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Keen Vision](#keen-vision)<br>
 [Knows People](#knows-people)<br>
 [Large](#large)<br>
-[Latent Magical Ability](#latent-magical-ability)<br>
+[Latent Magic Ability](#latent-magic-ability)<br>
 [Learn (Ability) from Mistakes](#learn-ability-from-mistakes)<br>
 [Light Touch](#light-touch)<br>
 [Lightning Reflexes](#lightning-reflexes)<br>
@@ -3417,7 +3420,7 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 [Peasant](#peasant)<br>
 [Shamash](#shamash)<br>
 [Sofer](#sofer)<br>
-[Templar Confrere/Consoeur](#templar-confrereconsoeur)<br>
+[Templar Confrere or Consoeur](#templar-confrere-or-consoeur)<br>
 [Templar Servant](#templar-servant)<br>
 [Wanderer](#wanderer)
 
@@ -3567,7 +3570,7 @@ This is a Supernatural Virtue, and you cannot lose it when being trained as a ma
 
 #### Berserk
 *Minor, General*<br>
-You are capable of entering a blinding rage when in combat or frustrating situations. You automatically gain the Personality Trait Angry +2 (or more, at your option). Any time you take a wound or wound an enemy, roll a stress die and add your Angry score. A roll of 9+ means you go berserk. The storyguide can also call for a roll when you are strongly frustrated. You may deliberately try to go berserk. In this case, you only need a 6+ when you take a wound or wound an enemy, or a 9+ if you have not been wounded or caused a wound. While berserk, you get +2 to Attack and Soak scores, but suffer a -2 penalty to Defense. While berserk, you cannot retreat, hesitate to attack, or give guarter. If you are still berserk when there are no enemies present, you attack your friends. You may roll once per round to calm down if you desire, requiring a stress die + Perception – Angry against an Ease Factor of 6. You may learn Martial Abilities at character creation.
+You are capable of entering a blinding rage when in combat or frustrating situations. You automatically gain the Personality Trait Angry +2 (or more, at your option). Any time you take a wound or wound an enemy, roll a stress die and add your Angry score. A roll of 9+ means you go berserk. The storyguide can also call for a roll when you are strongly frustrated. You may deliberately try to go berserk. In this case, you only need a 6+ when you take a wound or wound an enemy, or a 9+ if you have not been wounded or caused a wound. While berserk, you get +2 to Attack and Soak scores, but suffer a -2 penalty to Defense. While berserk, you cannot retreat, hesitate to attack, or give quarter. If you are still berserk when there are no enemies present, you attack your friends. You may roll once per round to calm down if you desire, requiring a stress die + Perception – Angry against an Ease Factor of 6. You may learn Martial Abilities at character creation.
 
 #### Blood Of The Nephilim
 *Major, Supernatural*<br>
@@ -3818,7 +3821,7 @@ When you set your mind to it, you can magically induce emotions and beliefs in o
 
 #### Enduring Constitution
 *Minor, General*<br>
-You can withstand pain and fatigue. Decrease the penalties for reduced Fatigue levels by one point, and reduce your total penalty from wounds by onespoint (but not below zero). You also get +3 on rolls to resist pain.
+You can withstand pain and fatigue. Decrease the penalties for reduced Fatigue levels by one point, and reduce your total penalty from wounds by one point (but not below zero). You also get +3 on rolls to resist pain.
 
 #### Enduring Magic
 *Minor, Hermetic*<br>
@@ -3944,7 +3947,7 @@ Like companion and magus characters, this character has Confidence points. Howev
 
 #### Fida'i
 *Minor, Social Status*<br>
-The character is an assassin of the Nizari Isma'ilis. A fida'i is a devout member of the sect who is prepared to die on its orders, and as such he should consider taking either the Oath of Fealty or Dutybound Flaw. When not on a mission, a fida'i wears white, with a red girdle, cap, or boots. He has been trained in precise placement of daggers and blades, as well as disguise. Fida'i may take Martial Abilities at character creation. He can expect to become a lasig if he proves his loyalty to the sect.
+The character is an assassin of the Nizari Isma'ilis. A fida'i is a devout member of the sect who is prepared to die on its orders, and as such he should consider taking either the Oath of Fealty or Dutybound Flaw. When not on a mission, a fida'i wears white, with a red girdle, cap, or boots. He has been trained in precise placement of daggers and blades, as well as disguise. Fida'i may take Martial Abilities at character creation. He can expect to become a lasiq if he proves his loyalty to the sect.
 
 This Social Status Virtue may be taken by a character who is living far from the home of the Nizaris, as the assassins are sent on missions, and may be sent far away. Such a character should have a Story Flaw representing his mission, and choose the Social Status he is pretending to have. See *The Cradle and the Crescent*, from page 162, for more detail on the Nizaris.
 
@@ -4300,7 +4303,7 @@ Your Size is +1 instead of 0, so you are between six and seven feet tall. This m
 
 #### Lasiq
 *Major, Social Status*<br>
-The character is an experienced assassin of the Nizari İsma'ilis, having successfully completed seven murders at the orders of his grand master, and commands a small band of up to six fida'is. Lasiq may take Martial Abilities at character creation. As for a fida'i, a lasig may be far from home on a mission, either alone or with some fida'i. In such as case, he is pretending to have some other social status, which you should choose. For more details on the Nizaris, see The Cradle and the Crescent, from page 162.
+The character is an experienced assassin of the Nizari İsma'ilis, having successfully completed seven murders at the orders of his grand master, and commands a small band of up to six fida'is. Lasiq may take Martial Abilities at character creation. As for a fida'i, a lasiq may be far from home on a mission, either alone or with some fida'i. In such a case, he is pretending to have some other social status, which you should choose. For more details on the Nizaris, see The Cradle and the Crescent, from page 162.
 
 #### Latent Magic Ability
 *Minor, General*<br>
@@ -4551,7 +4554,7 @@ Your character is an ordained Mazdean priest, initiated as a mobed. This means t
 
 As a mobed, your character resides in a community that likely has a fire temple. This means that your character has arduous and time-consuming religious and ceremonial duties. Most of your time is spent praying, performing ritual purification rites and tending to the sacred fire. If you are Wealthy, you have several ervads (junior priests) who perform many of the more arduous tasks. If you are Poor, it likely reflects the poor station of Mazdeans in the community in general, and you may also possess the Outsider Flaw.
 
-Your character may take Academic Abilities at character generation. Most such characters take the Minor Personality Flaw Vow to reflect your constant state of ritual purity, and dedication to your community. This can only be your character's social status if he lives in a Mazdean community, all of which are to the east of Mythic Europe, and most of which are in Persia. A Mazdean priest in exile in Europe should take a different Social Ŝtatus Virtue or Flaw, as discussed earlier. This Virtue is only available to male characters.
+Your character may take Academic Abilities at character generation. Most such characters take the Minor Personality Flaw Vow to reflect your constant state of ritual purity, and dedication to your community. This can only be your character's social status if he lives in a Mazdean community, all of which are to the east of Mythic Europe, and most of which are in Persia. A Mazdean priest in exile in Europe should take a different Social Status Virtue or Flaw, as discussed earlier. This Virtue is only available to male characters.
 
 #### Mendicant Friar
 *Minor, Social Status*<br>
@@ -4807,7 +4810,7 @@ By staring intently at people you make them feel uneasy, as if you are peering i
 
 #### Potent Magic
 *Minor or Major, Hermetic*<br>
-The maga's magic is particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus, unlike a Magical Focus, unlike a Magical Focus, a maga may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.
+The maga's magic is particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus; unlike a Magical Focus, a maga may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.
 
 Potent Magic provides the maga with a bonus in her field of magic, and permits her to devise Potent spells that gain a casting bonus from the sympathetic magic in shapes and materials. Potent Magic can be taught as an alternative to a Magical Focus.
 
@@ -4858,7 +4861,7 @@ Owning such a powerful relic is a great responsibility, and your character shoul
 You intuitively sense whenever something is wrong, or is likely to go wrong soon. Choosing this Virtue confers the Ability Premonitions 1 (page 170).
 
 #### Prestigious Student
-*General, Minor*<br>
+*Minor, General*<br>
 The character is a son of a nobleman or a prosperous merchant, matriculated in a university that specializes in either Civil Law or Medicine. He has a small group of retainers with him, two or three servants who attend to his needs while at the university. He was trained in Artes Liberales and Latin by a private tutor, and may purchase Academic Abilities at character generation. The character must take a Social Status Virtue to reflect where he is in the educational process.
 
 #### Priest
@@ -5342,7 +5345,7 @@ Some Virtues, such as Life Boost and Life-Linked Spontaneous Magic, actually use
 
 *Although she has Vulnerable Casting (1) (from past Twilight experiences) so suffers an extra Fatigue level loss, she also has Withstand Casting (3) (from Initiations), and can use this to withstand the Fatigue lost to the Vulnerable Casting.*
 
-*She has another 2 levels of Withstand Casting, but if she eliminates the Life-Linked loss, the shell will fail (and she will still suffer any remaining Fatigue loss). She cannot Withstand the base Spontaneous casting Fatigue.*
+*She has another 2 levels of Withstand Casting, but if she eliminates the Life-Linked loss, the spell will fail (and she will still suffer any remaining Fatigue loss). She cannot Withstand the base Spontaneous casting Fatigue.*
 
 It is, however, useful to have the Withstand Casting Virtue even with Life- Linked Spontaneous Magic, in case that shortfall is extreme; for example, if the magus botches and the Casting Total is reduced to zero.
 
@@ -5438,7 +5441,7 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Tainted Offspring](#tainted-offspring)<br>
 [Tormenting Master](#tormenting-master)<br>
 [Tragic Life](#tragic-life)<br>
-[True Love (NPC)](#true-love-npc)<br>
+[True Love](#true-love)<br>
 [Tzadik Nistar](#tzadik-nistar)<br>
 [Unbaptized](#unbaptized)<br>
 [Unhappily Married](#unhappily-married)<br>
@@ -5457,8 +5460,6 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Age Quickly](#age-quickly)<br>
 [Blatant Magical Air](#blatant-magical-air)<br>
 [Bound to (Realm)](#bound-to-realm)<br>
-[Bound to (Role) Role](#bound-to-role-role)<br>
-[Broken Vessel](#broken-vessel)<br>
 [False Power](#false-power)<br>
 [Greater Malediction](#greater-malediction)<br>
 [Horrifying Appearance – Snake Legs](#horrifying-appearance--snake-legs)<br>
@@ -5564,6 +5565,7 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Slothful](#slothful)<br>
 [Soft-Hearted](#soft-hearted)<br>
 [Temperate](#temperate)<br>
+[Weak Personality](#weak-personality)<br>
 [Weak-Willed](#weak-willed)
 
 ### Story, Minor
@@ -5582,8 +5584,8 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Manufactured Ignorance](#manufactured-ignorance)<br>
 [Mentor](#mentor)<br>
 [Primogeniture Lineage](#primogeniture-lineage)<br>
-[Visions](#visions)<br>
-[Weak Personality](#weak-personality)
+[True Love](#true-love)<br>
+[Visions](#visions)
 
 ### Social Status, Minor
 
@@ -5591,7 +5593,7 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Companion Animal](#companion-animal)<br>
 [Failed Journeyman](#failed-journeyman)<br>
 [Failed Master](#failed-master)<br>
-[Failed Monk/Nun](#failed-monknun)<br>
+[Failed Monk](#failed-monk)<br>
 [Gabai](#gabai)<br>
 [Outcast](#outcast)<br>
 [Outlaw Leader](#outlaw-leader)<br>
@@ -5602,6 +5604,8 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 ### Supernatural, Minor
 
 [Baneful Circumstances](#baneful-circumstances)<br>
+[Bound to (Role) Role](#bound-to-role-role)<br>
+[Broken Vessel](#broken-vessel)<br>
 [Corrupted Abilities](#corrupted-abilities)<br>
 [Curse of Slander](#curse-of-slander)<br>
 [Cursed Guile](#cursed-guile)<br>
@@ -5610,7 +5614,6 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 [Exiled Atlantean](#exiled-atlantean)<br>
 [Flawed Powers](#flawed-powers)<br>
 [Fluctuating Fortune](#fluctuating-fortune)<br>
-[Folk Magic](#folk-magic)<br>
 [(Form) Monstrosity](#form-monstrosity)<br>
 [Inscribed Shadow](#inscribed-shadow)<br>
 [Lesser Malediction](#lesser-malediction)<br>
@@ -5840,7 +5843,7 @@ You are slapdash in your use of magical power, and must roll two more botch dice
 
 #### Careless with (Ability)
 *Minor, General*<br>
-The character is particularly reckless when it comes to a particular Ability, chosen when this Virtue is taken. This Ability should be one that is important to the character, or the troupe may veto the choice of this Flaw. When she fails, she does so dramatically. Whenever she rolls a zero when using the Ability, that zero is treated as a botch. She may need to roll extra botch dice depending on the circumstances, but she always suffer the effects of at least a single botch. This Flaw may be taken more than once; each time, it applies to a different Ability.
+The character is particularly reckless when it comes to a particular Ability, chosen when this Flaw is taken. This Ability should be one that is important to the character, or the troupe may veto the choice of this Flaw. When she fails, she does so dramatically. Whenever she rolls a zero when using the Ability, that zero is treated as a botch. She may need to roll extra botch dice depending on the circumstances, but she always suffer the effects of at least a single botch. This Flaw may be taken more than once; each time, it applies to a different Ability.
 
 #### Castratus
 *Minor, General*<br>
@@ -5976,7 +5979,7 @@ The character has sold his soul to the devil and now finds himself destined to i
 
 #### Deficient Form
 *Minor, Hermetic*<br>
-Almost all totals (including Casting Totals and Lab Totals, but excluding Magic Resistance) to which a particular Form is added are halved. Advancement Totals are not halved. Experience points required are based on the actual value of the Technique, before halving.
+Almost all totals (including Casting Totals and Lab Totals, but excluding Magic Resistance) to which a particular Form is added are halved. Advancement Totals are not halved. Experience points required are based on the actual value of the Form, before halving.
 
 #### Deficient Technique
 *Major, Hermetic*<br>
@@ -6021,7 +6024,7 @@ The character is extremely attached to a parent or child. Where he goes, she goe
 
 #### Dhimmi
 *Minor, General*<br>
-You are a non-Muslim living under Muslim rule. If you are adult and male, you must pay the jizya head tax, and all dhimmis must abide by certain social restrictions (described in the sourcebooks for these areas of Mythic Europe — see Realms of Power: The Divine Revised Edition, The Cradle and the Crescent, Between Sand and Sea, and Lands of the Nile), in return for which they receive tolerance and protection from the Muslim authorities. The actual amount a dhimmi has to pay in iizva varies, but rarely exceeds a dinar (a gold coin) per year.
+You are a non-Muslim living under Muslim rule. If you are adult and male, you must pay the jizya head tax, and all dhimmis must abide by certain social restrictions (described in the sourcebooks for these areas of Mythic Europe — see Realms of Power: The Divine Revised Edition, The Cradle and the Crescent, Between Sand and Sea, and Lands of the Nile), in return for which they receive tolerance and protection from the Muslim authorities. The actual amount a dhimmi has to pay in jizya varies, but rarely exceeds a dinar (a gold coin) per year.
 
 #### Diabolic Past
 *Major, Story*<br>
@@ -7119,7 +7122,7 @@ This is a common Flaw for characters who become Warped by a strong magic environ
 
 #### Waster of Vis
 *Major, Hermetic*<br>
-When you use raw vis you waste one guarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time. For example, if you would normally use 12 pawns, you must use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you must use 14, because 4 pawns are wasted.
+When you use raw vis you waste one quarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time. For example, if you would normally use 12 pawns, you must use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you must use 14, because 4 pawns are wasted.
 
 #### Weak Characteristics
 *Minor, General*<br>

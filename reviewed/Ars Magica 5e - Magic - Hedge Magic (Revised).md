@@ -3750,7 +3750,7 @@ When a character reaches a Warping Score of 10, the transformation to a troll is
 
 #### Bad Experiences
 
-**Gruagach Magic Flaw:** The gruagach acquires the gruagach equivalent of Blatant Cift, Deficient Technique, Necessary Condition, Painful Magic, Restriction, Rigid Magic, Careless Sorcerer, Deficient Form, Deleterious Circumstances, Disorientating Magic, Incompatible Arts, Warped Magic, Weak Magic, or Weird Magic.
+**Gruagach Magic Flaw:** The gruagach acquires the gruagach equivalent of Blatant Gift, Deficient Technique, Necessary Condition, Painful Magic, Restriction, Rigid Magic, Careless Sorcerer, Deficient Form, Deleterious Circumstances, Disorientating Magic, Incompatible Arts, Warped Magic, Weak Magic, or Weird Magic.
 
 **Troll Flaw:** The gruagach acquires a Flaw that would be appropriate for a troll. Examples include: Disfigured (Blue Skin), Magical Air, Nocturnal, Greedy, Wrathful, Offensive to Animals, or Repellent\* (Horns, Fangs, Claws, or Scales).
 
@@ -6276,7 +6276,8 @@ Vitki also have these new or revised flaws:
 > Major Magical Deficiency\* <br>
 > Magic Addiction <br>
 > Nátt-thel Prone\* <br>
-> Painful Magic Restriction
+> Painful Magic <br>
+> Restriction
 >
 > **MINOR, SUPERNATURAL**
 >
