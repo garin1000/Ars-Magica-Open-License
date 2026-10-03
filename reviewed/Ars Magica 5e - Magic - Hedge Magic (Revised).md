@@ -3331,7 +3331,7 @@ A gruagach with knowledge of this Art can temporarily grant Virtues, bonuses to 
 > Level 30: Increase one of a person's Characteristics by one point, to no more than +2.
 
 **Blessing of Urban Wisdom for the Rustic**<br>
-GvB1 Level 20<br>
+GvBl Level 20<br>
 R: Conversation, D: Limit, T: Ind
 
 This spell grants the target the Virtue of Clear Thinker with a General Limit. Although this spell grants the Virtue Clear Thinker, other spells exist that could be used to grant other Minor Virtues.
