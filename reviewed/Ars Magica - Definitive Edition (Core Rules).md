@@ -1811,7 +1811,7 @@ Spells Known:
 - [Aura of Ennobled Presence](#aura-of-ennobled-presence) (MuIm 10/+8)
 - [Piercing the Faerie Veil](#piercing-the-faerie-veil) (InVi 20/+18)
 - [Piercing the Magical Veil](#piercing-the-faerie-veil) (InVi 20/+18) (see Piercing the Faerie Veil)
-- [Unraveling the Fabric of Imaginem](#unraveling-the-fabric-of-form) (PeVi 20/+16)
+- [Unraveling the Fabric of Imaginem](#unravelling-the-fabric-of-form) (PeVi 20/+16)
 - [Wind of Mundane Silence](#wind-of-mundane-silence) (PeVi 20/+16)
 - [Circular Ward Against Demons](#circular-ward-against-demons) (ReVi 20/+16)
 
@@ -24093,7 +24093,7 @@ p168-170 p391
 | Trust Of Childlike Faith | PeMe | 10 | [356](#trust-of-childlike-faith) |
 | Twist Of The Tongue | PeCo | 30 | [336](#twist-of-the-tongue) |
 | Twist The Living Tree | ReHe | 25 | [343](#twist-the-living-tree) |
-| Unraveling The Fabric Of (Form) | PeVi | General | [370](#unraveling-the-fabric-of-form) |
+| Unraveling The Fabric Of (Form) | PeVi | General | [370](#unravelling-the-fabric-of-form) |
 | Unseen Arm | ReTe | 5 | [362](#unseen-arm) |
 | Unseen Porter, The | ReTe | 10 | [363](#the-unseen-porter) |
 | Unyielding Earth | ReTe | 10 | [363](#unyielding-earth) |
@@ -24214,7 +24214,7 @@ p168-170 p391
 | Bomburkhan | Infernal | Vim | 5 | [481](#bomburkhan) |
 | Bordelon, a Personal Tormentor | Infernal | Corpus | 15 | [482](#bordelon-a-personal-tormentor) |
 | Bull (Taurus) | Beast | — | — | [431](#bull-taurus) |
-| Buran of Yenghissar, The | Infernal | Auram | 25 | [483](#buran-of-yenghissar-the) |
+| Buran of Yenghissar, The | Infernal | Auram | 25 | [483](#the-buran-of-yenghissar) |
 | Caladrius | Magic | Animal | 14 | [443](#caladrius) |
 | Cat (Felis) | Beast | — | — | [431](#cat-felis) |
 | Chnoubis the Serpent | Magic | Mentem | 30 | [446](#chnoubis-the-serpent) |
@@ -24229,7 +24229,7 @@ p168-170 p391
 | Gabriel, the Archangel of Prophecy | Divine | Mentem | 100 | [455](#gabriel-the-archangel-of-prophecy) |
 | Ghostly Warder | Magic | Mentem | 10 | [489](#ghostly-warder) |
 | Great Lezi | Faerie | Herbam | 40 | [473](#great-lezi) |
-| Gydryty-kom the Giant | Magic | Auram | 40 | [447](#gydryty-kom-the-giant) |
+| Gydryty-kom the Giant | Magic | Auram | 40 | [447](#gudruty-kom-the-giant) |
 | Hipta the Nurse | Magic | Animal | 15 | [447](#hipta-the-nurse) |
 | Honos | Magic | Corpus | 30 | [448](#honos) |
 | Horse, Courser (Equus) | Beast | — | — | [432](#horse-courser-equus) |
@@ -24354,7 +24354,7 @@ p168-170 p391
 | Arts | [206](#the-hermetic-arts) |
 | Athletics (Ability) | [161](#athletics) |
 | Atlantean Magic (Virtue) | [70](#atlantean-magic) |
-| Attack Advantage | [394](#attack-advantage) |
+| Attack Advantage | [394](#combat-sequence) |
 | Attack Total | [393](#combat-scores) |
 | Auctores | [158](#academic-abilities) |
 | Auram (Art) | [209](#auram-au-air), [325](#auram-spells) |
@@ -24450,7 +24450,7 @@ p168-170 p391
 | Castratus (Flaw) | [122](#castratus) |
 | Cathedral | [502](#structures) |
 | Cathedral School Master (Virtue) | [73](#cathedral-school-master) |
-| Cauterization (Chirurgy) | [161](#chirurgy) |
+| Cauterization (Chirurgy) | [161](#chirurgy-kie-ruhr-gee) |
 | Cautious Sorcerer (Virtue) | [73](#cautious-sorcerer) |
 | Cautious with (Ability) (Virtue) | [73](#cautious-with-ability) |
 | Ceremonial Casting | [217–218](#ceremonial-casting), [225](#ceremonial-casting-1) |
@@ -24800,7 +24800,7 @@ p168-170 p391
 | Final Twilight | [228](#comprehending-twilight) |
 | Finding Hidden Loot (Virtue) | [81](#finding-hidden-loot) |
 | Finesse (Ability) | [165](#finesse), [208](#rego-re-i-control)  |
-| Fire | [407](#head-and-corrosion) |
+| Fire | [407](#heat-and-corrosion) |
 | Fish Out of Water (Terrain) (Flaw) | [130](#fish-out-of-water-terrain) |
 | Fist | [401](#brawling-weapons) |
 | Flail | [402](#great-weapons) |
@@ -24944,7 +24944,7 @@ p168-170 p391
 | Hooks | [181–182](#hooks), [516](#hooks-1) |
 | Hope | [499](#doctrine) |
 | Horoscope | [220](#sympathetic-connections) |
-| Horrifying Appearance – Snake Legs (Flaw) | [133](#horrifying-appearance-snake-legs) |
+| Horrifying Appearance – Snake Legs (Flaw) | [133](#example-horrifying-appearances) |
 | Hospitallers | [73](#brother-knight) |
 | Host, The | [500](#sacraments) |
 | House Rules | [524](#rules-questions) |
@@ -25335,7 +25335,7 @@ p168-170 p391
 | Perfect Balance (Virtue) | [100](#perfect-balance) |
 | Perfect Eye for (Commodity) (Virtue) | [100](#perfect-eye-for-commodity) |
 | Perfectus (Virtue) | [100](#perfectus) |
-| Performance (Duration) | [101](#performance) |
+| Performance (Duration) | [101](#performance-abilities) |
 | Performance Magic (Virtue) | [101–102](#performance-magic) |
 | Peripheral Code | [18](#the-peripheral-code) |
 | Persona (Ability) | [169](#persona-1) |
@@ -25581,7 +25581,7 @@ p168-170 p391
 | Still Casting | [226](#still-casting) |
 | Stockade Parma Magica (Flaw) | [145](#stockade-parma-magica) |
 | Storm (Duration) | [71](#atlantean-magic) |
-| Story Flaws | [45](#story-flaws), [61](#story-flaws), [66](#story-flaws) |
+| Story Flaws | [45](#personality--story-flaws), [61](#personality--story-flaws), [66](#personality--story-flaws) |
 | Story Ideas | [520–522](#story-ideas) |
 | Story Types | [517–518](#story-types) |
 | Stone | [402](#missile-weapons) |
@@ -25758,7 +25758,7 @@ p168-170 p391
 | Warped by Magic (Flaw) | [151](#warped-by-magic) |
 | Warped Magic (Flaw) | [151](#warped-magic) |
 | Warped Senses (Flaw) | [151](#warped-senses) |
-| Warping | [389–391](#warping-3) |
+| Warping | [389–391](#warping-2) |
 | &nbsp;&nbsp;Points | [389](#gaining-warping-points) |
 | &nbsp;&nbsp;Score | [30](#format) |
 | &nbsp;&nbsp;Limit of | [212](#the-limit-of-warping) |
