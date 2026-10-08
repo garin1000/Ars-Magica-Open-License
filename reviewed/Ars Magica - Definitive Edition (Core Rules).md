@@ -6997,7 +6997,7 @@ The character is the head of a university, having already acquired his doctor in
 
 #### Unlucky
 *Minor, General*<br>
-The character is exceptionally unlucky, and is frequently dealt a bad hand by the forces of chance. He gets a -1 to -3penalty (at storyguide's discretion) on rolls in situations based on luck rather than skill or talent, depending on how much luck is involved. It would be wise for him not to take part in games of chance.
+The character is exceptionally unlucky, and is frequently dealt a bad hand by the forces of chance. He gets a -1 to -3 penalty (at storyguide's discretion) on rolls in situations based on luck rather than skill or talent, depending on how much luck is involved. It would be wise for him not to take part in games of chance.
 
 #### Unnatural Magic
 *Major, Hermetic*<br>
